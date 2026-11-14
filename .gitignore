@@ -1,0 +1,56 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Node dependencies and local Vite cache
+node_modules/
+**/node_modules/
+.vite/
+*.tsbuildinfo
+
+# Python bytecode and cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# SQLite databases
+*.sqlite
+*.sqlite3
+*.db
+*.sqlite-journal
+*.sqlite3-journal
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+secrets/
+*.secret
+credentials.*
+*.pem
+*.key
+
+# Generated temporary files and build artifacts
+*.tmp
+*.temp
+*.swp
+*.swo
+tmp/
+temp/
+build/
+dist/
+*.egg-info/
+logs/
+*.log
+*.log.*

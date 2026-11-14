@@ -1,0 +1,1001 @@
+product_id,product_name,sku,brand,category,price,updated_at,source_system
+PRD-00000001,Atlas Desk Lamp 000001,SKU-0000001,Northstar,Office,99.31,2024-12-25T06:13:34+00:00,retail_portal
+PRD-00000002,Orchard Storage Basket 000002,SKU-0000002,Northstar,Kitchen,331.53,2025-04-18T00:21:55+00:00,crm_north
+PRD-00000003,Ridge Running Jacket 000003,SKU-0000003,Harborline,Kitchen,249.02,2025-04-30T01:42:29+00:00,partner_feed
+PRD-00000004,Harbor Canvas Tote 000004,SKU-0000004,Summit Works,Beverage,75.31,2025-09-29T02:00:31+00:00,crm_north
+PRD-00000005,Harbor Canvas Tote 000005,SKU-0000005,Summit Works,Beverage,110.25,2025-02-02T00:23:38+00:00,partner_feed
+PRD-00000006,Ridge Running Jacket 000006,SKU-0000006,Fieldhouse,Kitchen,337.04,2024-07-30T05:15:16+00:00,crm_south
+PRD-00000007,Summit Trail Bottle 000007,SKU-0000007,Summit Works,Beverage,384.61,2024-02-17T13:02:59+00:00,crm_south
+PRD-00000008,Harbor Canvas Tote 000008,SKU-0000008,Northstar,Outdoor,185.39,2025-11-21T07:32:35+00:00,crm_north
+PRD-00000009,Juniper Kitchen Scale 000009,SKU-0000009,Harborline,Beverage,387.96,2025-05-22T23:12:39+00:00,crm_north
+PRD-00000010,Juniper Kitchen Scale 000010,SKU-0000010,Northstar,Accessories,429.10,2025-11-29T04:57:26+00:00,retail_portal
+PRD-00000011,Cove Travel Pouch 000011,SKU-0000011,Cedar & Co.,Office,464.49,2024-12-06T19:37:28+00:00,crm_south
+PRD-00000012,Summit Trail Bottle 000012,SKU-0000012,Fieldhouse,Outdoor,37.82,2025-11-11T17:01:36+00:00,retail_portal
+PRD-00000013,Lumen Reading Light 000013,,Cedar & Co.,Home,445.31,2025-04-14T12:19:50+00:00,crm_north
+PRD-00000014,Field Notes Journal 000014,SKU-0000014,Harborline,Beverage,199.63,2025-01-19T10:07:43+00:00,retail_portal
+PRD-00000015,Cedar Blend Coffee 000015,SKU-0000015,Summit Works,Accessories,276.91,2025-04-12T11:30:27+00:00,crm_north
+PRD-00000016,Harbor Canvas Tote 000016,SKU-0000016,Cedar & Co.,Office,61.50,2025-11-09T11:28:20+00:00,crm_south
+PRD-00000017,Juniper Kitchen Scale 000017,SKU-0000017,,Outdoor,76.38,2025-06-19T23:48:03+00:00,partner_feed
+PRD-00000018,Juniper Kitchen Scale 000018,SKU-0000018,Summit Works,Beverage,101.04,2024-01-02T22:57:58+00:00,crm_north
+PRD-00000019,Harbor Canvas Tote 000019,SKU-0000019,Northstar,Office,16.16,2025-08-23T07:54:21+00:00,retail_portal
+PRD-00000020,Lumen Reading Light 000020,SKU-0000020,Northstar,Kitchen,331.43,2024-07-20T03:50:56+00:00,partner_feed
+PRD-00000021,Ridge Running Jacket 000021,SKU-0000021,Cedar & Co.,Beverage,471.84,2024-01-26T22:47:24+00:00,crm_north
+PRD-00000022,Field Notes Journal 000022,SKU-0000022,Fieldhouse,Accessories,132.12,2025-06-16T02:12:11+00:00,partner_feed
+PRD-00000023,Juniper Kitchen Scale 000023,SKU-0000023,Cedar & Co.,Kitchen,272.83,2025-12-09T17:22:15+00:00,retail_portal
+PRD-00000024,Willow Knit Throw 000024,SKU-0000024,Summit Works,Beverage,126.75,2025-02-21T13:16:20+00:00,crm_south
+PRD-00000025,Lumen Reading Light 000025,SKU-0000025,Fieldhouse,Office,38.47,2025-06-04T03:13:24+00:00,crm_south
+PRD-00000026,Meadow Ceramic Mug 000026,,Cedar & Co.,Outdoor,128.05,2025-08-26T04:47:42+00:00,crm_south
+PRD-00000027,Ridge Running Jacket 000027,SKU-0000027,Summit Works,Home,44.76,2024-12-21T23:39:39+00:00,crm_north
+PRD-00000028,Cedar Blend Coffee 000028,SKU-0000028,Northstar,Beverage,362.69,2025-10-30T16:49:16+00:00,crm_north
+PRD-00000029,Willow Knit Throw 000029,SKU-0000029,Harborline,Outdoor,148.91,2024-04-10T22:19:21+00:00,partner_feed
+PRD-00000030,Harbor Canvas Tote 000030,SKU-0000030,Summit Works,Home,8.99,2024-03-25T04:46:42+00:00,crm_south
+PRD-00000031,Juniper Kitchen Scale 000031,SKU-0000031,Northstar,Kitchen,277.28,2024-06-05T03:11:07+00:00,partner_feed
+PRD-00000032,Summit Trail Bottle 000032,SKU-0000032,Summit Works,Beverage,127.43,2024-10-19T03:40:45+00:00,crm_north
+PRD-00000033,Willow Knit Throw 000033,SKU-0000033,Cedar & Co.,Outdoor,357.71,2024-04-13T23:22:48+00:00,crm_south
+PRD-00000034,Lumen Reading Light 000034,SKU-0000034,,Home,135.86,2024-07-02T16:39:14+00:00,crm_north
+PRD-00000035,Atlas Desk Lamp 000035,SKU-0000035,Northstar,Accessories,463.31,2025-12-27T23:35:59+00:00,retail_portal
+PRD-00000036,Orchard Storage Basket 000036,SKU-0000036,Northstar,Office,227.58,2024-04-20T11:07:21+00:00,retail_portal
+PRD-00000037,Cedar Blend Coffee 000037,SKU-0000037,Fieldhouse,Office,140.97,2025-01-03T23:35:26+00:00,crm_south
+PRD-00000038,Juniper Kitchen Scale 000038,SKU-0000038,Cedar & Co.,Office,296.16,2024-08-20T06:16:08+00:00,partner_feed
+PRD-00000039,Atlas Desk Lamp 000039,,Summit Works,Office,364.46,2025-01-13T03:13:41+00:00,partner_feed
+PRD-00000040,Cove Travel Pouch 000040,SKU-0000040,Summit Works,Kitchen,51.18,2024-06-14T23:37:29+00:00,crm_south
+PRD-00000041,Lumen Reading Light 000041,SKU-0000041,Harborline,Beverage,428.57,2024-03-25T00:24:05+00:00,crm_north
+PRD-00000042,Meadow Ceramic Mug 000042,SKU-0000042,Fieldhouse,Home,405.21,2025-09-08T11:12:47+00:00,crm_north
+PRD-00000043,Harbor Canvas Tote 000043,SKU-0000043,Cedar & Co.,Accessories,307.80,2024-11-21T13:37:54+00:00,retail_portal
+PRD-00000044,Willow Knit Throw 000044,SKU-0000044,Northstar,Accessories,295.20,2025-06-23T01:16:51+00:00,retail_portal
+PRD-00000045,Harbor Canvas Tote 000045,SKU-0000045,Summit Works,Beverage,215.59,2024-10-05T04:46:45+00:00,retail_portal
+PRD-00000046,Summit Trail Bottle 000046,SKU-0000046,Cedar & Co.,Accessories,462.59,2024-12-13T13:46:06+00:00,retail_portal
+PRD-00000047,Meadow Ceramic Mug 000047,SKU-0000047,Cedar & Co.,Home,308.43,2024-05-21T11:40:00+00:00,retail_portal
+PRD-00000048,Ridge Running Jacket 000048,SKU-0000048,Cedar & Co.,Home,393.90,2024-08-16T01:55:27+00:00,crm_north
+PRD-00000049,Atlas Desk Lamp 000049,SKU-0000049,Fieldhouse,Home,107.23,2024-06-14T20:31:59+00:00,crm_south
+PRD-00000050,Lumen Reading Light 000050,SKU-0000050,Fieldhouse,Office,390.78,2025-01-29T05:30:02+00:00,crm_south
+PRD-00000051,Atlas Desk Lamp 000051,SKU-0000051,,Accessories,259.55,2025-12-10T17:09:11+00:00,crm_south
+PRD-00000052,Summit Trail Bottle 000052,,Cedar & Co.,Office,342.76,2024-10-08T15:59:35+00:00,crm_south
+PRD-00000053,Ridge Running Jacket 000053,SKU-0000053,Northstar,Outdoor,333.37,2025-08-11T06:36:56+00:00,retail_portal
+PRD-00000054,Harbor Canvas Tote 000054,SKU-0000054,Northstar,Kitchen,459.25,2025-02-06T07:09:31+00:00,partner_feed
+PRD-00000055,Ridge Running Jacket 000055,SKU-0000055,Northstar,Kitchen,292.87,2025-05-05T13:18:22+00:00,partner_feed
+PRD-00000056,Orchard Storage Basket 000056,SKU-0000056,Harborline,Kitchen,429.85,2024-03-23T18:22:23+00:00,crm_north
+PRD-00000057,Orchard Storage Basket 000057,SKU-0000057,Summit Works,Beverage,193.23,2024-03-24T14:46:46+00:00,crm_south
+PRD-00000058,Lumen Reading Light 000058,SKU-0000058,Summit Works,Beverage,451.16,2025-06-08T07:10:29+00:00,partner_feed
+PRD-00000059,Harbor Canvas Tote 000059,SKU-0000059,Summit Works,Home,240.07,2024-01-06T11:43:51+00:00,crm_north
+PRD-00000060,Willow Knit Throw 000060,SKU-0000060,Cedar & Co.,Beverage,63.03,2025-11-23T04:46:06+00:00,retail_portal
+PRD-00000061,Cedar Blend Coffee 000061,SKU-0000061,Fieldhouse,Office,238.56,2024-06-08T06:10:27+00:00,retail_portal
+PRD-00000062,Ridge Running Jacket 000062,SKU-0000062,Northstar,Accessories,43.67,2024-01-09T21:49:31+00:00,crm_north
+PRD-00000063,Summit Trail Bottle 000063,SKU-0000063,Fieldhouse,Home,407.38,2024-06-13T06:31:22+00:00,crm_south
+PRD-00000064,Ridge Running Jacket 000064,SKU-0000064,Northstar,Beverage,77.69,2024-03-18T05:44:46+00:00,retail_portal
+PRD-00000065,Summit Trail Bottle 000065,,Northstar,Kitchen,333.84,2025-06-03T01:35:24+00:00,crm_south
+PRD-00000066,Atlas Desk Lamp 000066,SKU-0000066,Cedar & Co.,Accessories,403.44,2024-05-24T16:36:40+00:00,crm_south
+PRD-00000067,Orchard Storage Basket 000067,SKU-0000067,Cedar & Co.,Kitchen,273.93,2025-05-02T16:36:07+00:00,partner_feed
+PRD-00000068,Field Notes Journal 000068,SKU-0000068,,Outdoor,306.13,2024-10-16T11:38:00+00:00,crm_south
+PRD-00000069,Ridge Running Jacket 000069,SKU-0000069,Summit Works,Office,322.76,2025-10-02T15:33:41+00:00,crm_north
+PRD-00000070,Harbor Canvas Tote 000070,SKU-0000070,Harborline,Accessories,26.32,2025-12-02T19:05:41+00:00,crm_south
+PRD-00000071,Summit Trail Bottle 000071,SKU-0000071,Northstar,Accessories,55.74,2024-12-24T11:05:11+00:00,crm_north
+PRD-00000072,Cedar Blend Coffee 000072,SKU-0000072,Northstar,Office,169.76,2025-06-21T00:29:20+00:00,partner_feed
+PRD-00000073,Orchard Storage Basket 000073,SKU-0000073,Fieldhouse,Beverage,163.45,2024-08-31T05:09:55+00:00,retail_portal
+PRD-00000074,Ridge Running Jacket 000074,SKU-0000074,Northstar,Beverage,89.75,2024-01-09T10:44:44+00:00,crm_north
+PRD-00000075,Ridge Running Jacket 000075,SKU-0000075,Northstar,Beverage,450.58,2024-02-19T19:22:46+00:00,crm_south
+PRD-00000076,Cove Travel Pouch 000076,SKU-0000076,Northstar,Kitchen,287.03,2025-09-21T08:39:59+00:00,crm_north
+PRD-00000077,Lumen Reading Light 000077,SKU-0000077,Cedar & Co.,Kitchen,215.22,2024-10-17T16:07:52+00:00,retail_portal
+PRD-00000078,Cove Travel Pouch 000078,,Summit Works,Beverage,292.27,2025-07-15T18:00:12+00:00,crm_north
+PRD-00000079,Juniper Kitchen Scale 000079,SKU-0000079,Northstar,Beverage,43.58,2024-01-16T11:16:22+00:00,partner_feed
+PRD-00000080,Atlas Desk Lamp 000080,SKU-0000080,Cedar & Co.,Kitchen,200.59,2024-01-20T22:05:26+00:00,retail_portal
+PRD-00000081,Atlas Desk Lamp 000081,SKU-0000081,Summit Works,Beverage,86.87,2025-12-30T14:49:24+00:00,partner_feed
+PRD-00000082,Atlas Desk Lamp 000082,SKU-0000082,Cedar & Co.,Outdoor,58.17,2024-10-01T05:05:06+00:00,crm_north
+PRD-00000083,Cove Travel Pouch 000083,SKU-0000083,Fieldhouse,Beverage,277.87,2024-09-13T18:58:23+00:00,retail_portal
+PRD-00000084,Orchard Storage Basket 000084,SKU-0000084,Harborline,Outdoor,76.83,2025-01-20T01:46:15+00:00,retail_portal
+PRD-00000085,Cove Travel Pouch 000085,SKU-0000085,,Home,76.65,2024-12-11T08:09:12+00:00,partner_feed
+PRD-00000086,Orchard Storage Basket 000086,SKU-0000086,Summit Works,Home,150.37,2025-06-05T06:15:37+00:00,retail_portal
+PRD-00000087,Orchard Storage Basket 000087,SKU-0000087,Cedar & Co.,Office,271.71,2024-03-20T05:52:32+00:00,retail_portal
+PRD-00000088,Atlas Desk Lamp 000088,SKU-0000088,Cedar & Co.,Beverage,410.21,2025-01-29T23:53:30+00:00,partner_feed
+PRD-00000089,Orchard Storage Basket 000089,SKU-0000089,Harborline,Office,173.85,2025-08-26T13:13:26+00:00,partner_feed
+PRD-00000090,Cedar Blend Coffee 000090,SKU-0000090,Summit Works,Beverage,418.73,2025-08-17T20:17:56+00:00,crm_north
+PRD-00000091,Atlas Desk Lamp 000091,,Fieldhouse,Home,493.83,2024-09-28T16:55:48+00:00,retail_portal
+PRD-00000092,Cove Travel Pouch 000092,SKU-0000092,Fieldhouse,Kitchen,340.98,2024-12-07T20:35:35+00:00,partner_feed
+PRD-00000093,Cedar Blend Coffee 000093,SKU-0000093,Harborline,Outdoor,419.86,2024-07-13T01:10:08+00:00,retail_portal
+PRD-00000094,Juniper Kitchen Scale 000094,SKU-0000094,Cedar & Co.,Office,469.73,2024-01-08T00:52:52+00:00,crm_south
+PRD-00000095,Atlas Desk Lamp 000095,SKU-0000095,Northstar,Office,90.43,2025-11-23T01:36:08+00:00,crm_north
+PRD-00000096,Lumen Reading Light 000096,SKU-0000096,Summit Works,Outdoor,172.62,2024-04-24T19:06:08+00:00,crm_south
+PRD-00000097,Field Notes Journal 000097,SKU-0000097,Northstar,Beverage,179.42,2024-07-23T02:36:37+00:00,crm_south
+PRD-00000098,Orchard Storage Basket 000098,SKU-0000098,Harborline,Kitchen,35.17,2025-12-26T07:14:14+00:00,crm_south
+PRD-00000099,Ridge Running Jacket 000099,SKU-0000099,Northstar,Outdoor,361.66,2025-07-10T04:24:01+00:00,crm_south
+PRD-00000100,Field Notes Journal 000100,SKU-0000100,Harborline,Outdoor,498.88,2024-02-23T14:21:25+00:00,retail_portal
+PRD-00000101,Orchard Storage Basket 000101,SKU-0000101,Harborline,Office,240.56,2025-09-29T07:53:25+00:00,crm_north
+PRD-00000102,Field Notes Journal 000102,SKU-0000102,,Accessories,392.51,2024-02-22T07:58:50+00:00,crm_north
+PRD-00000103,Harbor Canvas Tote 000103,SKU-0000103,Fieldhouse,Accessories,277.36,2024-08-09T10:52:58+00:00,retail_portal
+PRD-00000104,Cedar Blend Coffee 000104,,Cedar & Co.,Accessories,103.50,2025-05-01T06:04:48+00:00,partner_feed
+PRD-00000105,Lumen Reading Light 000105,SKU-0000105,Harborline,Office,391.64,2025-12-13T07:11:12+00:00,retail_portal
+PRD-00000106,Lumen Reading Light 000106,SKU-0000106,Cedar & Co.,Kitchen,17.70,2024-04-26T13:13:04+00:00,crm_south
+PRD-00000107,Field Notes Journal 000107,SKU-0000107,Fieldhouse,Outdoor,65.53,2025-07-17T23:21:06+00:00,partner_feed
+PRD-00000108,Ridge Running Jacket 000108,SKU-0000108,Northstar,Outdoor,199.26,2025-02-11T03:10:55+00:00,crm_south
+PRD-00000109,Meadow Ceramic Mug 000109,SKU-0000109,Fieldhouse,Accessories,365.97,2025-04-01T00:39:28+00:00,partner_feed
+PRD-00000110,Meadow Ceramic Mug 000110,SKU-0000110,Cedar & Co.,Office,161.46,2024-09-04T22:15:08+00:00,crm_south
+PRD-00000111,Summit Trail Bottle 000111,SKU-0000111,Summit Works,Outdoor,213.67,2025-12-27T15:51:31+00:00,crm_north
+PRD-00000112,Lumen Reading Light 000112,SKU-0000112,Summit Works,Outdoor,86.30,2024-10-20T00:45:51+00:00,crm_north
+PRD-00000113,Atlas Desk Lamp 000113,SKU-0000113,Northstar,Outdoor,143.29,2024-08-07T18:16:59+00:00,crm_north
+PRD-00000114,Juniper Kitchen Scale 000114,SKU-0000114,Summit Works,Beverage,490.37,2025-03-19T18:54:12+00:00,retail_portal
+PRD-00000115,Cedar Blend Coffee 000115,SKU-0000115,Northstar,Accessories,266.58,2025-10-10T17:32:39+00:00,crm_north
+PRD-00000116,Field Notes Journal 000116,SKU-0000116,Fieldhouse,Home,43.03,2025-12-21T05:06:45+00:00,partner_feed
+PRD-00000117,Summit Trail Bottle 000117,,Cedar & Co.,Kitchen,167.90,2024-04-02T20:28:58+00:00,retail_portal
+PRD-00000118,Orchard Storage Basket 000118,SKU-0000118,Northstar,Beverage,154.02,2024-09-10T18:59:40+00:00,partner_feed
+PRD-00000119,Juniper Kitchen Scale 000119,SKU-0000119,,Accessories,367.57,2025-06-07T22:48:55+00:00,retail_portal
+PRD-00000120,Summit Trail Bottle 000120,SKU-0000120,Cedar & Co.,Accessories,209.41,2024-07-06T07:50:31+00:00,retail_portal
+PRD-00000121,Ridge Running Jacket 000121,SKU-0000121,Harborline,Accessories,377.54,2025-11-14T23:10:33+00:00,crm_north
+PRD-00000122,Cedar Blend Coffee 000122,SKU-0000122,Harborline,Home,66.62,2024-10-25T01:42:50+00:00,retail_portal
+PRD-00000123,Ridge Running Jacket 000123,SKU-0000123,Fieldhouse,Accessories,112.29,2025-07-29T00:12:36+00:00,crm_north
+PRD-00000124,Lumen Reading Light 000124,SKU-0000124,Cedar & Co.,Home,21.97,2024-12-18T23:49:09+00:00,crm_south
+PRD-00000125,Cove Travel Pouch 000125,SKU-0000125,Northstar,Outdoor,270.12,2024-09-09T05:39:42+00:00,crm_south
+PRD-00000126,Ridge Running Jacket 000126,SKU-0000126,Summit Works,Home,311.81,2025-02-28T06:11:48+00:00,crm_north
+PRD-00000127,Orchard Storage Basket 000127,SKU-0000127,Northstar,Office,34.98,2024-11-17T00:34:16+00:00,crm_north
+PRD-00000128,Cove Travel Pouch 000128,SKU-0000128,Cedar & Co.,Office,483.63,2024-12-11T08:31:31+00:00,retail_portal
+PRD-00000129,Willow Knit Throw 000129,SKU-0000129,Fieldhouse,Home,172.27,2025-11-09T16:56:50+00:00,partner_feed
+PRD-00000130,Juniper Kitchen Scale 000130,,Harborline,Kitchen,241.32,2025-07-17T08:28:48+00:00,partner_feed
+PRD-00000131,Willow Knit Throw 000131,SKU-0000131,Northstar,Outdoor,240.39,2025-05-11T17:00:34+00:00,crm_south
+PRD-00000132,Cove Travel Pouch 000132,SKU-0000132,Cedar & Co.,Accessories,294.77,2025-01-28T10:40:22+00:00,crm_north
+PRD-00000133,Harbor Canvas Tote 000133,SKU-0000133,Harborline,Office,23.15,2025-03-04T12:00:40+00:00,partner_feed
+PRD-00000134,Cedar Blend Coffee 000134,SKU-0000134,Northstar,Kitchen,203.40,2025-12-13T14:33:44+00:00,crm_north
+PRD-00000135,Cove Travel Pouch 000135,SKU-0000135,Fieldhouse,Beverage,251.67,2025-11-19T18:14:40+00:00,crm_south
+PRD-00000136,Ridge Running Jacket 000136,SKU-0000136,,Accessories,332.81,2024-04-25T09:33:59+00:00,crm_south
+PRD-00000137,Orchard Storage Basket 000137,SKU-0000137,Harborline,Kitchen,147.30,2024-03-11T16:11:07+00:00,crm_south
+PRD-00000138,Cove Travel Pouch 000138,SKU-0000138,Fieldhouse,Outdoor,63.36,2024-03-13T15:53:11+00:00,crm_south
+PRD-00000139,Atlas Desk Lamp 000139,SKU-0000139,Cedar & Co.,Office,325.04,2024-08-28T12:50:58+00:00,crm_north
+PRD-00000140,Willow Knit Throw 000140,SKU-0000140,Summit Works,Beverage,234.81,2024-02-26T02:24:35+00:00,crm_north
+PRD-00000141,Atlas Desk Lamp 000141,SKU-0000141,Northstar,Office,60.55,2025-06-20T19:15:30+00:00,crm_south
+PRD-00000142,Juniper Kitchen Scale 000142,SKU-0000142,Cedar & Co.,Beverage,439.88,2025-11-08T18:34:56+00:00,retail_portal
+PRD-00000143,Meadow Ceramic Mug 000143,,Summit Works,Beverage,85.10,2025-11-25T06:09:30+00:00,crm_south
+PRD-00000144,Juniper Kitchen Scale 000144,SKU-0000144,Cedar & Co.,Kitchen,303.59,2024-05-31T22:17:57+00:00,retail_portal
+PRD-00000145,Cedar Blend Coffee 000145,SKU-0000145,Cedar & Co.,Outdoor,57.28,2025-01-20T01:46:19+00:00,crm_north
+PRD-00000146,Willow Knit Throw 000146,SKU-0000146,Fieldhouse,Kitchen,144.62,2024-08-02T06:37:45+00:00,partner_feed
+PRD-00000147,Lumen Reading Light 000147,SKU-0000147,Summit Works,Office,403.53,2024-11-18T16:22:21+00:00,crm_north
+PRD-00000148,Orchard Storage Basket 000148,SKU-0000148,Cedar & Co.,Outdoor,285.95,2024-04-01T07:44:08+00:00,crm_north
+PRD-00000149,Orchard Storage Basket 000149,SKU-0000149,Northstar,Accessories,212.22,2024-05-31T22:20:01+00:00,crm_south
+PRD-00000150,Ridge Running Jacket 000150,SKU-0000150,Summit Works,Beverage,393.15,2024-04-25T20:06:14+00:00,retail_portal
+PRD-00000151,Meadow Ceramic Mug 000151,SKU-0000151,Summit Works,Home,21.01,2024-06-29T11:33:12+00:00,crm_north
+PRD-00000152,Ridge Running Jacket 000152,SKU-0000152,Northstar,Office,36.28,2025-04-05T13:56:18+00:00,crm_north
+PRD-00000153,Orchard Storage Basket 000153,SKU-0000153,,Office,498.98,2025-07-19T07:33:55+00:00,retail_portal
+PRD-00000154,Lumen Reading Light 000154,SKU-0000154,Fieldhouse,Office,155.96,2024-08-29T06:50:03+00:00,crm_north
+PRD-00000155,Cedar Blend Coffee 000155,SKU-0000155,Summit Works,Beverage,204.92,2024-10-21T23:28:23+00:00,retail_portal
+PRD-00000156,Lumen Reading Light 000156,,Fieldhouse,Office,431.37,2024-04-13T02:05:37+00:00,retail_portal
+PRD-00000157,Orchard Storage Basket 000157,SKU-0000157,Fieldhouse,Beverage,12.28,2024-07-31T07:37:15+00:00,partner_feed
+PRD-00000158,Cedar Blend Coffee 000158,SKU-0000158,Northstar,Outdoor,129.10,2025-03-29T14:12:08+00:00,crm_south
+PRD-00000159,Willow Knit Throw 000159,SKU-0000159,Summit Works,Kitchen,387.24,2024-05-04T05:19:14+00:00,crm_north
+PRD-00000160,Atlas Desk Lamp 000160,SKU-0000160,Harborline,Office,334.53,2024-03-25T15:58:41+00:00,partner_feed
+PRD-00000161,Atlas Desk Lamp 000161,SKU-0000161,Summit Works,Kitchen,51.52,2025-12-13T20:55:01+00:00,retail_portal
+PRD-00000162,Meadow Ceramic Mug 000162,SKU-0000162,Fieldhouse,Outdoor,242.52,2025-01-08T02:30:46+00:00,partner_feed
+PRD-00000163,Juniper Kitchen Scale 000163,SKU-0000163,Northstar,Beverage,476.92,2024-12-12T13:26:49+00:00,crm_north
+PRD-00000164,Orchard Storage Basket 000164,SKU-0000164,Fieldhouse,Accessories,174.59,2025-01-23T15:57:16+00:00,retail_portal
+PRD-00000165,Ridge Running Jacket 000165,SKU-0000165,Summit Works,Office,274.56,2024-08-16T17:00:01+00:00,crm_north
+PRD-00000166,Orchard Storage Basket 000166,SKU-0000166,Harborline,Office,484.93,2025-07-14T17:36:38+00:00,crm_north
+PRD-00000167,Lumen Reading Light 000167,SKU-0000167,Harborline,Accessories,382.44,2025-09-24T17:12:43+00:00,crm_north
+PRD-00000168,Cedar Blend Coffee 000168,SKU-0000168,Northstar,Home,202.50,2025-01-21T08:32:24+00:00,retail_portal
+PRD-00000169,Meadow Ceramic Mug 000169,,Harborline,Home,56.83,2025-01-29T14:28:23+00:00,retail_portal
+PRD-00000170,Willow Knit Throw 000170,SKU-0000170,,Beverage,451.53,2025-04-06T16:17:26+00:00,crm_north
+PRD-00000171,Harbor Canvas Tote 000171,SKU-0000171,Northstar,Accessories,232.44,2024-11-02T01:02:20+00:00,crm_south
+PRD-00000172,Field Notes Journal 000172,SKU-0000172,Harborline,Home,478.85,2025-06-14T06:37:12+00:00,retail_portal
+PRD-00000173,Cedar Blend Coffee 000173,SKU-0000173,Northstar,Beverage,68.34,2024-04-20T15:29:37+00:00,retail_portal
+PRD-00000174,Cove Travel Pouch 000174,SKU-0000174,Harborline,Beverage,497.26,2024-03-10T03:45:24+00:00,retail_portal
+PRD-00000175,Meadow Ceramic Mug 000175,SKU-0000175,Harborline,Office,344.79,2025-10-15T05:46:04+00:00,crm_south
+PRD-00000176,Cedar Blend Coffee 000176,SKU-0000176,Northstar,Kitchen,355.28,2024-11-27T07:46:19+00:00,crm_south
+PRD-00000177,Cedar Blend Coffee 000177,SKU-0000177,Cedar & Co.,Outdoor,454.96,2024-07-31T00:48:31+00:00,crm_north
+PRD-00000178,Ridge Running Jacket 000178,SKU-0000178,Harborline,Accessories,101.94,2024-01-06T10:25:00+00:00,crm_north
+PRD-00000179,Summit Trail Bottle 000179,SKU-0000179,Harborline,Accessories,112.35,2024-04-05T09:49:28+00:00,crm_north
+PRD-00000180,Cedar Blend Coffee 000180,SKU-0000180,Harborline,Accessories,64.15,2025-04-27T01:07:55+00:00,crm_south
+PRD-00000181,Cedar Blend Coffee 000181,SKU-0000181,Northstar,Beverage,363.57,2025-01-02T11:47:09+00:00,crm_south
+PRD-00000182,Atlas Desk Lamp 000182,,Northstar,Office,123.95,2024-08-23T11:00:56+00:00,retail_portal
+PRD-00000183,Summit Trail Bottle 000183,SKU-0000183,Fieldhouse,Accessories,167.22,2025-10-18T03:51:01+00:00,retail_portal
+PRD-00000184,Field Notes Journal 000184,SKU-0000184,Harborline,Home,416.60,2025-09-19T09:10:42+00:00,crm_south
+PRD-00000185,Ridge Running Jacket 000185,SKU-0000185,Summit Works,Beverage,230.72,2024-08-02T10:44:05+00:00,partner_feed
+PRD-00000186,Meadow Ceramic Mug 000186,SKU-0000186,Harborline,Accessories,185.90,2025-12-11T18:15:59+00:00,partner_feed
+PRD-00000187,Lumen Reading Light 000187,SKU-0000187,,Accessories,186.94,2024-08-19T11:34:58+00:00,crm_north
+PRD-00000188,Harbor Canvas Tote 000188,SKU-0000188,Northstar,Accessories,236.42,2024-02-05T00:32:50+00:00,crm_north
+PRD-00000189,Atlas Desk Lamp 000189,SKU-0000189,Summit Works,Outdoor,27.49,2024-12-18T21:50:53+00:00,crm_north
+PRD-00000190,Cove Travel Pouch 000190,SKU-0000190,Harborline,Accessories,245.70,2024-01-27T11:48:37+00:00,retail_portal
+PRD-00000191,Willow Knit Throw 000191,SKU-0000191,Harborline,Home,283.67,2024-05-01T19:54:56+00:00,retail_portal
+PRD-00000192,Field Notes Journal 000192,SKU-0000192,Harborline,Kitchen,30.67,2024-09-11T02:28:47+00:00,retail_portal
+PRD-00000193,Juniper Kitchen Scale 000193,SKU-0000193,Cedar & Co.,Beverage,134.78,2025-03-29T22:39:50+00:00,crm_south
+PRD-00000194,Juniper Kitchen Scale 000194,SKU-0000194,Northstar,Accessories,224.83,2025-01-17T20:55:27+00:00,crm_north
+PRD-00000195,Summit Trail Bottle 000195,,Summit Works,Home,6.42,2025-10-13T07:56:09+00:00,crm_north
+PRD-00000196,Cedar Blend Coffee 000196,SKU-0000196,Harborline,Beverage,464.42,2025-03-09T11:08:36+00:00,crm_south
+PRD-00000197,Cedar Blend Coffee 000197,SKU-0000197,Summit Works,Accessories,280.14,2025-11-17T00:40:07+00:00,crm_south
+PRD-00000198,Atlas Desk Lamp 000198,SKU-0000198,Northstar,Kitchen,52.95,2024-07-16T10:17:06+00:00,retail_portal
+PRD-00000199,Field Notes Journal 000199,SKU-0000199,Northstar,Home,29.38,2024-12-07T19:59:30+00:00,retail_portal
+PRD-00000200,Cedar Blend Coffee 000200,SKU-0000200,Harborline,Outdoor,440.49,2024-03-04T06:18:51+00:00,retail_portal
+PRD-00000201,Ridge Running Jacket 000201,SKU-0000201,Northstar,Outdoor,215.81,2024-09-26T02:06:35+00:00,partner_feed
+PRD-00000202,Field Notes Journal 000202,SKU-0000202,Fieldhouse,Accessories,296.01,2025-03-25T12:40:15+00:00,retail_portal
+PRD-00000203,Orchard Storage Basket 000203,SKU-0000203,Cedar & Co.,Beverage,414.73,2025-04-17T20:54:11+00:00,retail_portal
+PRD-00000204,Harbor Canvas Tote 000204,SKU-0000204,,Outdoor,486.04,2025-07-20T10:25:58+00:00,retail_portal
+PRD-00000205,Cedar Blend Coffee 000205,SKU-0000205,Cedar & Co.,Accessories,162.37,2024-07-02T13:17:57+00:00,crm_south
+PRD-00000206,Ridge Running Jacket 000206,SKU-0000206,Fieldhouse,Accessories,340.97,2024-09-05T03:20:24+00:00,crm_north
+PRD-00000207,Cedar Blend Coffee 000207,SKU-0000207,Summit Works,Beverage,73.99,2024-08-22T14:00:23+00:00,partner_feed
+PRD-00000208,Atlas Desk Lamp 000208,,Fieldhouse,Beverage,488.90,2025-07-25T13:31:11+00:00,partner_feed
+PRD-00000209,Cedar Blend Coffee 000209,SKU-0000209,Summit Works,Outdoor,484.09,2024-10-17T05:35:56+00:00,crm_north
+PRD-00000210,Orchard Storage Basket 000210,SKU-0000210,Cedar & Co.,Accessories,464.69,2024-04-14T14:07:40+00:00,retail_portal
+PRD-00000211,Field Notes Journal 000211,SKU-0000211,Fieldhouse,Home,292.99,2025-09-04T01:59:10+00:00,partner_feed
+PRD-00000212,Juniper Kitchen Scale 000212,SKU-0000212,Harborline,Kitchen,346.84,2025-02-07T05:08:57+00:00,partner_feed
+PRD-00000213,Juniper Kitchen Scale 000213,SKU-0000213,Summit Works,Outdoor,321.80,2024-09-09T23:24:45+00:00,crm_north
+PRD-00000214,Cove Travel Pouch 000214,SKU-0000214,Cedar & Co.,Office,355.90,2025-01-07T11:08:24+00:00,crm_north
+PRD-00000215,Cedar Blend Coffee 000215,SKU-0000215,Northstar,Outdoor,221.22,2024-03-28T06:39:33+00:00,crm_south
+PRD-00000216,Cove Travel Pouch 000216,SKU-0000216,Northstar,Accessories,69.20,2025-11-12T15:34:16+00:00,retail_portal
+PRD-00000217,Atlas Desk Lamp 000217,SKU-0000217,Summit Works,Office,85.96,2025-06-12T11:47:38+00:00,crm_south
+PRD-00000218,Orchard Storage Basket 000218,SKU-0000218,Fieldhouse,Outdoor,329.91,2024-09-01T08:42:41+00:00,partner_feed
+PRD-00000219,Cedar Blend Coffee 000219,SKU-0000219,Summit Works,Beverage,322.51,2025-06-10T03:44:38+00:00,partner_feed
+PRD-00000220,Willow Knit Throw 000220,SKU-0000220,Cedar & Co.,Home,192.89,2024-01-06T22:54:09+00:00,crm_north
+PRD-00000221,Summit Trail Bottle 000221,,,Beverage,97.96,2025-02-17T08:38:54+00:00,crm_north
+PRD-00000222,Field Notes Journal 000222,SKU-0000222,Summit Works,Office,260.96,2024-02-06T12:53:41+00:00,crm_north
+PRD-00000223,Summit Trail Bottle 000223,SKU-0000223,Summit Works,Office,178.60,2025-12-02T07:21:39+00:00,crm_south
+PRD-00000224,Harbor Canvas Tote 000224,SKU-0000224,Cedar & Co.,Outdoor,191.73,2025-10-21T20:23:24+00:00,retail_portal
+PRD-00000225,Atlas Desk Lamp 000225,SKU-0000225,Fieldhouse,Outdoor,450.38,2024-10-25T18:51:17+00:00,crm_south
+PRD-00000226,Field Notes Journal 000226,SKU-0000226,Fieldhouse,Kitchen,135.41,2025-12-27T08:41:26+00:00,crm_south
+PRD-00000227,Lumen Reading Light 000227,SKU-0000227,Cedar & Co.,Accessories,220.96,2025-08-29T22:38:27+00:00,crm_north
+PRD-00000228,Field Notes Journal 000228,SKU-0000228,Northstar,Beverage,72.73,2025-12-05T17:23:11+00:00,partner_feed
+PRD-00000229,Meadow Ceramic Mug 000229,SKU-0000229,Cedar & Co.,Beverage,56.61,2025-07-07T10:23:21+00:00,crm_south
+PRD-00000230,Lumen Reading Light 000230,SKU-0000230,Summit Works,Home,321.29,2025-04-28T09:54:47+00:00,retail_portal
+PRD-00000231,Willow Knit Throw 000231,SKU-0000231,Harborline,Home,313.45,2025-12-23T20:24:03+00:00,partner_feed
+PRD-00000232,Lumen Reading Light 000232,SKU-0000232,Harborline,Home,213.91,2024-09-21T14:45:56+00:00,partner_feed
+PRD-00000233,Lumen Reading Light 000233,SKU-0000233,Harborline,Office,336.31,2024-01-31T14:24:20+00:00,crm_north
+PRD-00000234,Orchard Storage Basket 000234,,Summit Works,Kitchen,463.90,2025-02-26T14:25:06+00:00,partner_feed
+PRD-00000235,Ridge Running Jacket 000235,SKU-0000235,Summit Works,Kitchen,213.70,2025-11-18T02:10:04+00:00,retail_portal
+PRD-00000236,Ridge Running Jacket 000236,SKU-0000236,Cedar & Co.,Beverage,479.69,2025-05-17T01:46:53+00:00,crm_north
+PRD-00000237,Orchard Storage Basket 000237,SKU-0000237,Summit Works,Beverage,464.31,2025-07-25T21:45:32+00:00,partner_feed
+PRD-00000238,Cedar Blend Coffee 000238,SKU-0000238,,Outdoor,170.69,2024-08-02T18:50:24+00:00,crm_north
+PRD-00000239,Lumen Reading Light 000239,SKU-0000239,Summit Works,Outdoor,481.03,2025-08-15T22:48:38+00:00,crm_south
+PRD-00000240,Meadow Ceramic Mug 000240,SKU-0000240,Fieldhouse,Outdoor,487.33,2025-03-15T01:00:44+00:00,retail_portal
+PRD-00000241,Ridge Running Jacket 000241,SKU-0000241,Summit Works,Office,421.13,2025-08-02T23:23:15+00:00,crm_south
+PRD-00000242,Ridge Running Jacket 000242,SKU-0000242,Cedar & Co.,Kitchen,260.05,2025-08-25T16:17:06+00:00,partner_feed
+PRD-00000243,Meadow Ceramic Mug 000243,SKU-0000243,Northstar,Beverage,119.19,2025-08-01T21:09:56+00:00,partner_feed
+PRD-00000244,Cedar Blend Coffee 000244,SKU-0000244,Fieldhouse,Home,59.35,2025-05-07T17:24:17+00:00,crm_north
+PRD-00000245,Willow Knit Throw 000245,SKU-0000245,Cedar & Co.,Kitchen,183.18,2024-11-05T02:15:15+00:00,crm_south
+PRD-00000246,Juniper Kitchen Scale 000246,SKU-0000246,Fieldhouse,Home,329.31,2025-12-25T16:36:52+00:00,retail_portal
+PRD-00000247,Willow Knit Throw 000247,,Summit Works,Kitchen,402.33,2025-03-24T22:26:49+00:00,partner_feed
+PRD-00000248,Field Notes Journal 000248,SKU-0000248,Northstar,Kitchen,438.48,2024-09-01T07:57:10+00:00,retail_portal
+PRD-00000249,Harbor Canvas Tote 000249,SKU-0000249,Northstar,Outdoor,46.57,2024-03-06T08:26:57+00:00,retail_portal
+PRD-00000250,Cove Travel Pouch 000250,SKU-0000250,Fieldhouse,Outdoor,353.51,2024-08-09T07:30:43+00:00,crm_north
+PRD-00000251,Juniper Kitchen Scale 000251,SKU-0000251,Summit Works,Office,221.20,2025-04-07T10:14:02+00:00,crm_south
+PRD-00000252,Cedar Blend Coffee 000252,SKU-0000252,Summit Works,Home,211.34,2025-05-09T15:21:58+00:00,retail_portal
+PRD-00000253,Cove Travel Pouch 000253,SKU-0000253,Harborline,Beverage,440.58,2024-09-30T00:02:12+00:00,crm_south
+PRD-00000254,Juniper Kitchen Scale 000254,SKU-0000254,Cedar & Co.,Accessories,452.27,2025-08-22T10:15:05+00:00,retail_portal
+PRD-00000255,Cedar Blend Coffee 000255,SKU-0000255,,Home,255.63,2024-09-04T14:02:59+00:00,retail_portal
+PRD-00000256,Field Notes Journal 000256,SKU-0000256,Northstar,Accessories,387.32,2024-05-30T21:30:50+00:00,crm_south
+PRD-00000257,Cove Travel Pouch 000257,SKU-0000257,Harborline,Beverage,334.59,2025-07-22T10:28:54+00:00,partner_feed
+PRD-00000258,Juniper Kitchen Scale 000258,SKU-0000258,Fieldhouse,Home,96.45,2025-09-25T17:02:38+00:00,crm_north
+PRD-00000259,Cedar Blend Coffee 000259,SKU-0000259,Fieldhouse,Accessories,295.29,2024-03-15T01:49:54+00:00,retail_portal
+PRD-00000260,Lumen Reading Light 000260,,Summit Works,Beverage,254.89,2025-10-26T15:54:15+00:00,crm_south
+PRD-00000261,Field Notes Journal 000261,SKU-0000261,Harborline,Outdoor,339.82,2025-01-20T15:43:46+00:00,retail_portal
+PRD-00000262,Cove Travel Pouch 000262,SKU-0000262,Fieldhouse,Home,98.18,2024-02-06T12:17:02+00:00,partner_feed
+PRD-00000263,Juniper Kitchen Scale 000263,SKU-0000263,Fieldhouse,Beverage,302.45,2024-04-17T18:45:00+00:00,partner_feed
+PRD-00000264,Cove Travel Pouch 000264,SKU-0000264,Cedar & Co.,Office,433.15,2024-07-26T11:09:44+00:00,crm_north
+PRD-00000265,Lumen Reading Light 000265,SKU-0000265,Harborline,Home,80.18,2024-03-26T20:06:31+00:00,crm_north
+PRD-00000266,Cove Travel Pouch 000266,SKU-0000266,Northstar,Accessories,113.81,2024-05-08T19:10:50+00:00,crm_south
+PRD-00000267,Harbor Canvas Tote 000267,SKU-0000267,Northstar,Kitchen,17.15,2025-12-12T21:11:23+00:00,crm_north
+PRD-00000268,Harbor Canvas Tote 000268,SKU-0000268,Fieldhouse,Home,65.07,2024-06-22T23:31:28+00:00,partner_feed
+PRD-00000269,Ridge Running Jacket 000269,SKU-0000269,Summit Works,Outdoor,330.24,2025-07-26T21:51:18+00:00,retail_portal
+PRD-00000270,Cove Travel Pouch 000270,SKU-0000270,Northstar,Kitchen,132.31,2024-11-24T06:51:56+00:00,retail_portal
+PRD-00000271,Cedar Blend Coffee 000271,SKU-0000271,Fieldhouse,Kitchen,146.41,2025-07-15T15:54:48+00:00,partner_feed
+PRD-00000272,Cove Travel Pouch 000272,SKU-0000272,,Office,448.89,2024-07-12T23:17:10+00:00,partner_feed
+PRD-00000273,Cove Travel Pouch 000273,,Harborline,Home,251.93,2024-09-16T04:49:02+00:00,partner_feed
+PRD-00000274,Willow Knit Throw 000274,SKU-0000274,Cedar & Co.,Accessories,499.07,2024-01-07T04:00:13+00:00,crm_north
+PRD-00000275,Field Notes Journal 000275,SKU-0000275,Fieldhouse,Office,276.88,2025-06-10T05:25:09+00:00,crm_south
+PRD-00000276,Field Notes Journal 000276,SKU-0000276,Summit Works,Accessories,493.60,2025-04-15T06:44:54+00:00,partner_feed
+PRD-00000277,Meadow Ceramic Mug 000277,SKU-0000277,Cedar & Co.,Office,459.62,2025-08-18T18:00:46+00:00,partner_feed
+PRD-00000278,Summit Trail Bottle 000278,SKU-0000278,Cedar & Co.,Accessories,315.54,2025-03-04T01:50:50+00:00,crm_north
+PRD-00000279,Juniper Kitchen Scale 000279,SKU-0000279,Cedar & Co.,Kitchen,288.62,2025-04-05T12:43:29+00:00,partner_feed
+PRD-00000280,Atlas Desk Lamp 000280,SKU-0000280,Cedar & Co.,Accessories,200.45,2024-04-01T18:55:27+00:00,retail_portal
+PRD-00000281,Orchard Storage Basket 000281,SKU-0000281,Summit Works,Outdoor,403.16,2024-05-30T05:00:01+00:00,retail_portal
+PRD-00000282,Summit Trail Bottle 000282,SKU-0000282,Cedar & Co.,Kitchen,67.02,2024-05-04T05:50:23+00:00,crm_south
+PRD-00000283,Orchard Storage Basket 000283,SKU-0000283,Northstar,Home,257.89,2025-03-29T06:08:47+00:00,crm_south
+PRD-00000284,Willow Knit Throw 000284,SKU-0000284,Cedar & Co.,Home,279.66,2024-10-12T14:45:59+00:00,crm_north
+PRD-00000285,Cedar Blend Coffee 000285,SKU-0000285,Cedar & Co.,Office,178.13,2024-10-18T20:32:25+00:00,retail_portal
+PRD-00000286,Juniper Kitchen Scale 000286,,Cedar & Co.,Accessories,279.30,2024-04-13T21:53:48+00:00,retail_portal
+PRD-00000287,Orchard Storage Basket 000287,SKU-0000287,Summit Works,Beverage,168.48,2024-05-02T23:46:17+00:00,partner_feed
+PRD-00000288,Orchard Storage Basket 000288,SKU-0000288,Cedar & Co.,Outdoor,140.04,2024-06-05T17:53:17+00:00,retail_portal
+PRD-00000289,Cove Travel Pouch 000289,SKU-0000289,,Office,463.44,2024-05-24T21:06:10+00:00,crm_south
+PRD-00000290,Juniper Kitchen Scale 000290,SKU-0000290,Summit Works,Accessories,236.88,2024-03-30T08:28:00+00:00,partner_feed
+PRD-00000291,Orchard Storage Basket 000291,SKU-0000291,Harborline,Office,81.76,2025-03-28T04:51:07+00:00,crm_south
+PRD-00000292,Willow Knit Throw 000292,SKU-0000292,Summit Works,Accessories,314.37,2025-02-10T02:27:50+00:00,partner_feed
+PRD-00000293,Meadow Ceramic Mug 000293,SKU-0000293,Summit Works,Office,187.88,2025-03-02T12:43:02+00:00,partner_feed
+PRD-00000294,Summit Trail Bottle 000294,SKU-0000294,Fieldhouse,Outdoor,441.22,2025-11-05T02:39:11+00:00,partner_feed
+PRD-00000295,Orchard Storage Basket 000295,SKU-0000295,Fieldhouse,Home,413.54,2024-09-06T01:11:08+00:00,partner_feed
+PRD-00000296,Ridge Running Jacket 000296,SKU-0000296,Cedar & Co.,Office,376.01,2024-10-02T01:55:38+00:00,crm_north
+PRD-00000297,Atlas Desk Lamp 000297,SKU-0000297,Cedar & Co.,Outdoor,132.99,2025-12-07T03:00:22+00:00,crm_north
+PRD-00000298,Orchard Storage Basket 000298,SKU-0000298,Harborline,Home,78.77,2025-11-04T13:35:55+00:00,crm_north
+PRD-00000299,Willow Knit Throw 000299,,Northstar,Kitchen,187.13,2024-06-06T17:57:03+00:00,partner_feed
+PRD-00000300,Meadow Ceramic Mug 000300,SKU-0000300,Summit Works,Accessories,34.90,2024-04-02T01:29:59+00:00,partner_feed
+PRD-00000301,Orchard Storage Basket 000301,SKU-0000301,Summit Works,Home,352.18,2024-03-27T14:26:03+00:00,crm_north
+PRD-00000302,Field Notes Journal 000302,SKU-0000302,Northstar,Accessories,130.94,2025-12-21T15:16:08+00:00,retail_portal
+PRD-00000303,Cedar Blend Coffee 000303,SKU-0000303,Cedar & Co.,Beverage,122.91,2024-03-08T19:01:32+00:00,crm_north
+PRD-00000304,Willow Knit Throw 000304,SKU-0000304,Northstar,Accessories,259.94,2024-07-15T01:50:14+00:00,retail_portal
+PRD-00000305,Juniper Kitchen Scale 000305,SKU-0000305,Summit Works,Home,345.80,2025-05-05T19:39:09+00:00,crm_north
+PRD-00000306,Cedar Blend Coffee 000306,SKU-0000306,,Beverage,238.62,2025-12-11T13:40:39+00:00,retail_portal
+PRD-00000307,Atlas Desk Lamp 000307,SKU-0000307,Northstar,Accessories,211.40,2025-04-26T08:39:15+00:00,partner_feed
+PRD-00000308,Harbor Canvas Tote 000308,SKU-0000308,Harborline,Outdoor,392.72,2025-12-23T03:54:24+00:00,partner_feed
+PRD-00000309,Meadow Ceramic Mug 000309,SKU-0000309,Fieldhouse,Accessories,376.00,2025-08-31T19:02:45+00:00,retail_portal
+PRD-00000310,Lumen Reading Light 000310,SKU-0000310,Cedar & Co.,Accessories,6.46,2025-06-17T04:06:46+00:00,retail_portal
+PRD-00000311,Cove Travel Pouch 000311,SKU-0000311,Summit Works,Accessories,27.06,2024-04-29T10:28:43+00:00,retail_portal
+PRD-00000312,Cedar Blend Coffee 000312,,Harborline,Kitchen,198.94,2025-10-13T22:24:49+00:00,partner_feed
+PRD-00000313,Lumen Reading Light 000313,SKU-0000313,Northstar,Accessories,139.97,2025-11-09T21:40:40+00:00,retail_portal
+PRD-00000314,Lumen Reading Light 000314,SKU-0000314,Cedar & Co.,Beverage,304.86,2024-08-12T10:48:02+00:00,retail_portal
+PRD-00000315,Atlas Desk Lamp 000315,SKU-0000315,Fieldhouse,Office,446.33,2025-11-13T23:20:17+00:00,partner_feed
+PRD-00000316,Ridge Running Jacket 000316,SKU-0000316,Summit Works,Office,157.23,2024-10-12T12:19:19+00:00,crm_north
+PRD-00000317,Summit Trail Bottle 000317,SKU-0000317,Northstar,Office,356.55,2024-05-23T02:40:26+00:00,partner_feed
+PRD-00000318,Juniper Kitchen Scale 000318,SKU-0000318,Cedar & Co.,Kitchen,34.84,2025-09-11T23:01:51+00:00,crm_south
+PRD-00000319,Ridge Running Jacket 000319,SKU-0000319,Fieldhouse,Kitchen,56.69,2025-03-24T00:37:07+00:00,partner_feed
+PRD-00000320,Field Notes Journal 000320,SKU-0000320,Northstar,Kitchen,441.81,2024-06-09T15:08:42+00:00,crm_south
+PRD-00000321,Ridge Running Jacket 000321,SKU-0000321,Cedar & Co.,Office,180.76,2024-09-30T22:06:16+00:00,crm_south
+PRD-00000322,Willow Knit Throw 000322,SKU-0000322,Fieldhouse,Outdoor,98.22,2024-02-05T11:47:26+00:00,crm_south
+PRD-00000323,Ridge Running Jacket 000323,SKU-0000323,,Home,221.31,2024-10-30T08:28:07+00:00,crm_north
+PRD-00000324,Lumen Reading Light 000324,SKU-0000324,Northstar,Beverage,458.87,2024-06-30T19:56:07+00:00,crm_north
+PRD-00000325,Orchard Storage Basket 000325,,Fieldhouse,Office,146.47,2025-08-17T02:58:39+00:00,crm_south
+PRD-00000326,Willow Knit Throw 000326,SKU-0000326,Fieldhouse,Beverage,436.35,2025-10-12T21:23:24+00:00,crm_south
+PRD-00000327,Orchard Storage Basket 000327,SKU-0000327,Cedar & Co.,Office,105.38,2024-04-26T19:08:28+00:00,crm_south
+PRD-00000328,Meadow Ceramic Mug 000328,SKU-0000328,Harborline,Accessories,156.68,2024-11-22T14:22:31+00:00,crm_north
+PRD-00000329,Harbor Canvas Tote 000329,SKU-0000329,Northstar,Outdoor,393.94,2025-01-06T01:28:46+00:00,partner_feed
+PRD-00000330,Meadow Ceramic Mug 000330,SKU-0000330,Harborline,Kitchen,175.70,2024-11-05T08:48:48+00:00,partner_feed
+PRD-00000331,Ridge Running Jacket 000331,SKU-0000331,Cedar & Co.,Accessories,308.18,2025-10-07T08:55:51+00:00,crm_south
+PRD-00000332,Ridge Running Jacket 000332,SKU-0000332,Northstar,Kitchen,422.70,2024-11-12T05:13:31+00:00,crm_south
+PRD-00000333,Cove Travel Pouch 000333,SKU-0000333,Cedar & Co.,Accessories,23.37,2025-07-18T16:17:08+00:00,retail_portal
+PRD-00000334,Orchard Storage Basket 000334,SKU-0000334,Fieldhouse,Home,432.47,2025-11-28T13:02:17+00:00,crm_south
+PRD-00000335,Harbor Canvas Tote 000335,SKU-0000335,Fieldhouse,Home,378.41,2025-01-12T01:14:41+00:00,crm_south
+PRD-00000336,Meadow Ceramic Mug 000336,SKU-0000336,Northstar,Accessories,159.43,2024-12-01T16:31:48+00:00,partner_feed
+PRD-00000337,Meadow Ceramic Mug 000337,SKU-0000337,Summit Works,Accessories,499.31,2024-03-30T00:55:52+00:00,retail_portal
+PRD-00000338,Lumen Reading Light 000338,,Harborline,Beverage,381.33,2025-01-08T06:20:13+00:00,crm_north
+PRD-00000339,Orchard Storage Basket 000339,SKU-0000339,Harborline,Kitchen,112.50,2024-07-29T12:39:54+00:00,crm_south
+PRD-00000340,Atlas Desk Lamp 000340,SKU-0000340,,Home,455.05,2024-09-12T00:37:55+00:00,crm_south
+PRD-00000341,Field Notes Journal 000341,SKU-0000341,Northstar,Outdoor,289.20,2024-09-27T20:27:23+00:00,partner_feed
+PRD-00000342,Meadow Ceramic Mug 000342,SKU-0000342,Fieldhouse,Outdoor,432.57,2024-06-13T06:45:37+00:00,partner_feed
+PRD-00000343,Cedar Blend Coffee 000343,SKU-0000343,Northstar,Accessories,51.24,2025-04-26T17:00:39+00:00,retail_portal
+PRD-00000344,Lumen Reading Light 000344,SKU-0000344,Northstar,Outdoor,337.41,2024-06-30T01:38:17+00:00,crm_south
+PRD-00000345,Juniper Kitchen Scale 000345,SKU-0000345,Fieldhouse,Accessories,493.18,2024-02-27T17:17:17+00:00,retail_portal
+PRD-00000346,Summit Trail Bottle 000346,SKU-0000346,Fieldhouse,Accessories,413.59,2024-05-12T16:07:23+00:00,crm_south
+PRD-00000347,Juniper Kitchen Scale 000347,SKU-0000347,Summit Works,Accessories,243.61,2024-05-06T13:31:04+00:00,crm_north
+PRD-00000348,Willow Knit Throw 000348,SKU-0000348,Cedar & Co.,Kitchen,141.42,2024-10-17T10:03:23+00:00,crm_south
+PRD-00000349,Orchard Storage Basket 000349,SKU-0000349,Harborline,Outdoor,470.53,2025-03-19T02:04:27+00:00,crm_south
+PRD-00000350,Ridge Running Jacket 000350,SKU-0000350,Northstar,Beverage,379.75,2025-08-26T11:34:20+00:00,crm_south
+PRD-00000351,Lumen Reading Light 000351,,Cedar & Co.,Office,87.63,2025-03-21T07:38:22+00:00,retail_portal
+PRD-00000352,Cove Travel Pouch 000352,SKU-0000352,Harborline,Outdoor,410.04,2024-02-28T23:53:54+00:00,crm_south
+PRD-00000353,Field Notes Journal 000353,SKU-0000353,Cedar & Co.,Beverage,480.85,2024-06-28T10:29:14+00:00,retail_portal
+PRD-00000354,Summit Trail Bottle 000354,SKU-0000354,Cedar & Co.,Office,382.88,2024-02-01T19:12:16+00:00,crm_south
+PRD-00000355,Willow Knit Throw 000355,SKU-0000355,Summit Works,Home,437.87,2025-01-28T18:42:09+00:00,retail_portal
+PRD-00000356,Summit Trail Bottle 000356,SKU-0000356,Harborline,Accessories,163.10,2024-03-13T15:20:54+00:00,retail_portal
+PRD-00000357,Summit Trail Bottle 000357,SKU-0000357,,Home,483.30,2025-05-09T20:09:43+00:00,partner_feed
+PRD-00000358,Juniper Kitchen Scale 000358,SKU-0000358,Harborline,Office,385.37,2024-12-28T15:06:11+00:00,crm_north
+PRD-00000359,Atlas Desk Lamp 000359,SKU-0000359,Cedar & Co.,Outdoor,41.68,2025-11-29T15:59:41+00:00,crm_north
+PRD-00000360,Field Notes Journal 000360,SKU-0000360,Harborline,Office,56.44,2025-04-10T16:43:59+00:00,partner_feed
+PRD-00000361,Juniper Kitchen Scale 000361,SKU-0000361,Harborline,Home,49.56,2025-07-07T07:29:04+00:00,partner_feed
+PRD-00000362,Meadow Ceramic Mug 000362,SKU-0000362,Harborline,Accessories,116.56,2024-03-18T11:37:37+00:00,retail_portal
+PRD-00000363,Ridge Running Jacket 000363,SKU-0000363,Cedar & Co.,Kitchen,257.07,2025-12-21T23:37:45+00:00,partner_feed
+PRD-00000364,Atlas Desk Lamp 000364,,Northstar,Kitchen,424.25,2025-09-25T16:50:41+00:00,partner_feed
+PRD-00000365,Lumen Reading Light 000365,SKU-0000365,Northstar,Office,357.41,2025-07-29T18:58:26+00:00,partner_feed
+PRD-00000366,Meadow Ceramic Mug 000366,SKU-0000366,Northstar,Home,295.08,2025-02-20T12:07:26+00:00,retail_portal
+PRD-00000367,Juniper Kitchen Scale 000367,SKU-0000367,Northstar,Accessories,160.02,2024-05-17T09:23:39+00:00,crm_north
+PRD-00000368,Atlas Desk Lamp 000368,SKU-0000368,Fieldhouse,Home,227.93,2024-02-17T09:05:34+00:00,crm_south
+PRD-00000369,Atlas Desk Lamp 000369,SKU-0000369,Cedar & Co.,Office,382.66,2025-12-02T06:51:18+00:00,partner_feed
+PRD-00000370,Harbor Canvas Tote 000370,SKU-0000370,Northstar,Accessories,24.02,2025-03-14T15:28:05+00:00,retail_portal
+PRD-00000371,Orchard Storage Basket 000371,SKU-0000371,Fieldhouse,Kitchen,355.18,2024-11-11T13:35:59+00:00,crm_north
+PRD-00000372,Cove Travel Pouch 000372,SKU-0000372,Fieldhouse,Accessories,459.33,2025-08-05T18:22:38+00:00,partner_feed
+PRD-00000373,Summit Trail Bottle 000373,SKU-0000373,Summit Works,Outdoor,129.88,2025-12-24T08:19:21+00:00,crm_north
+PRD-00000374,Harbor Canvas Tote 000374,SKU-0000374,,Kitchen,113.44,2025-01-09T12:06:47+00:00,retail_portal
+PRD-00000375,Willow Knit Throw 000375,SKU-0000375,Cedar & Co.,Kitchen,379.03,2024-11-29T17:10:59+00:00,retail_portal
+PRD-00000376,Juniper Kitchen Scale 000376,SKU-0000376,Northstar,Office,368.23,2024-04-21T03:23:09+00:00,retail_portal
+PRD-00000377,Field Notes Journal 000377,,Fieldhouse,Office,210.54,2024-10-16T14:40:58+00:00,retail_portal
+PRD-00000378,Lumen Reading Light 000378,SKU-0000378,Cedar & Co.,Beverage,455.22,2024-08-24T08:23:14+00:00,crm_north
+PRD-00000379,Field Notes Journal 000379,SKU-0000379,Cedar & Co.,Accessories,378.23,2024-10-21T09:52:02+00:00,crm_north
+PRD-00000380,Cedar Blend Coffee 000380,SKU-0000380,Northstar,Kitchen,13.47,2025-07-07T19:58:43+00:00,crm_north
+PRD-00000381,Juniper Kitchen Scale 000381,SKU-0000381,Fieldhouse,Beverage,398.93,2025-05-16T11:18:56+00:00,crm_north
+PRD-00000382,Cove Travel Pouch 000382,SKU-0000382,Harborline,Beverage,106.50,2025-08-11T22:29:42+00:00,partner_feed
+PRD-00000383,Field Notes Journal 000383,SKU-0000383,Harborline,Outdoor,28.56,2025-10-17T05:52:35+00:00,crm_south
+PRD-00000384,Orchard Storage Basket 000384,SKU-0000384,Fieldhouse,Outdoor,316.70,2025-03-01T13:48:11+00:00,crm_north
+PRD-00000385,Atlas Desk Lamp 000385,SKU-0000385,Cedar & Co.,Office,379.67,2025-04-11T03:01:31+00:00,retail_portal
+PRD-00000386,Willow Knit Throw 000386,SKU-0000386,Northstar,Accessories,395.64,2024-10-05T13:16:46+00:00,retail_portal
+PRD-00000387,Willow Knit Throw 000387,SKU-0000387,Northstar,Office,102.12,2025-10-25T18:23:03+00:00,crm_south
+PRD-00000388,Willow Knit Throw 000388,SKU-0000388,Fieldhouse,Kitchen,40.72,2024-07-26T05:29:00+00:00,partner_feed
+PRD-00000389,Orchard Storage Basket 000389,SKU-0000389,Fieldhouse,Kitchen,424.91,2024-06-09T15:43:09+00:00,crm_south
+PRD-00000390,Cedar Blend Coffee 000390,,Northstar,Outdoor,334.40,2024-05-26T16:46:23+00:00,partner_feed
+PRD-00000391,Meadow Ceramic Mug 000391,SKU-0000391,,Office,288.80,2024-04-03T20:57:42+00:00,crm_north
+PRD-00000392,Ridge Running Jacket 000392,SKU-0000392,Summit Works,Outdoor,472.63,2024-11-05T08:49:30+00:00,retail_portal
+PRD-00000393,Orchard Storage Basket 000393,SKU-0000393,Harborline,Kitchen,205.98,2024-09-20T07:25:07+00:00,partner_feed
+PRD-00000394,Ridge Running Jacket 000394,SKU-0000394,Harborline,Office,181.62,2024-04-26T06:30:55+00:00,crm_south
+PRD-00000395,Field Notes Journal 000395,SKU-0000395,Summit Works,Beverage,183.13,2025-10-06T02:05:02+00:00,partner_feed
+PRD-00000396,Cove Travel Pouch 000396,SKU-0000396,Harborline,Beverage,423.89,2024-07-17T08:53:51+00:00,partner_feed
+PRD-00000397,Atlas Desk Lamp 000397,SKU-0000397,Cedar & Co.,Kitchen,142.11,2024-11-28T13:52:30+00:00,crm_north
+PRD-00000398,Orchard Storage Basket 000398,SKU-0000398,Cedar & Co.,Kitchen,192.16,2024-11-28T01:17:17+00:00,partner_feed
+PRD-00000399,Willow Knit Throw 000399,SKU-0000399,Northstar,Office,454.14,2024-10-10T15:01:05+00:00,crm_south
+PRD-00000400,Atlas Desk Lamp 000400,SKU-0000400,Fieldhouse,Office,498.08,2024-12-16T19:11:07+00:00,retail_portal
+PRD-00000401,Atlas Desk Lamp 000401,SKU-0000401,Cedar & Co.,Outdoor,326.49,2025-02-04T00:38:57+00:00,retail_portal
+PRD-00000402,Willow Knit Throw 000402,SKU-0000402,Summit Works,Accessories,264.15,2024-03-02T02:44:59+00:00,crm_south
+PRD-00000403,Cedar Blend Coffee 000403,,Harborline,Kitchen,201.13,2025-08-30T15:58:39+00:00,retail_portal
+PRD-00000404,Cedar Blend Coffee 000404,SKU-0000404,Summit Works,Office,300.78,2025-09-04T04:52:31+00:00,retail_portal
+PRD-00000405,Summit Trail Bottle 000405,SKU-0000405,Northstar,Home,224.37,2025-07-11T17:48:33+00:00,retail_portal
+PRD-00000406,Meadow Ceramic Mug 000406,SKU-0000406,Northstar,Outdoor,72.46,2025-02-07T13:28:56+00:00,crm_north
+PRD-00000407,Orchard Storage Basket 000407,SKU-0000407,Harborline,Outdoor,91.55,2025-02-08T18:19:30+00:00,partner_feed
+PRD-00000408,Lumen Reading Light 000408,SKU-0000408,,Outdoor,392.36,2025-12-12T18:06:06+00:00,crm_north
+PRD-00000409,Atlas Desk Lamp 000409,SKU-0000409,Summit Works,Home,64.11,2025-01-24T14:34:38+00:00,crm_south
+PRD-00000410,Ridge Running Jacket 000410,SKU-0000410,Cedar & Co.,Home,195.95,2024-03-13T22:30:00+00:00,partner_feed
+PRD-00000411,Harbor Canvas Tote 000411,SKU-0000411,Fieldhouse,Kitchen,452.07,2025-10-16T04:36:36+00:00,crm_south
+PRD-00000412,Harbor Canvas Tote 000412,SKU-0000412,Northstar,Home,473.06,2025-12-12T16:57:02+00:00,retail_portal
+PRD-00000413,Summit Trail Bottle 000413,SKU-0000413,Cedar & Co.,Kitchen,158.50,2025-03-04T02:47:08+00:00,crm_north
+PRD-00000414,Atlas Desk Lamp 000414,SKU-0000414,Fieldhouse,Beverage,433.66,2025-11-24T01:58:11+00:00,partner_feed
+PRD-00000415,Orchard Storage Basket 000415,SKU-0000415,Harborline,Beverage,218.22,2025-12-17T15:43:34+00:00,partner_feed
+PRD-00000416,Atlas Desk Lamp 000416,,Cedar & Co.,Kitchen,206.64,2024-11-08T14:14:22+00:00,partner_feed
+PRD-00000417,Meadow Ceramic Mug 000417,SKU-0000417,Northstar,Outdoor,187.92,2025-05-24T15:56:47+00:00,partner_feed
+PRD-00000418,Summit Trail Bottle 000418,SKU-0000418,Cedar & Co.,Accessories,79.29,2025-06-01T12:48:32+00:00,crm_north
+PRD-00000419,Meadow Ceramic Mug 000419,SKU-0000419,Cedar & Co.,Office,316.25,2024-03-14T20:12:36+00:00,retail_portal
+PRD-00000420,Cove Travel Pouch 000420,SKU-0000420,Harborline,Accessories,360.96,2025-01-11T01:25:03+00:00,crm_north
+PRD-00000421,Lumen Reading Light 000421,SKU-0000421,Northstar,Outdoor,330.64,2025-01-19T07:29:34+00:00,crm_north
+PRD-00000422,Meadow Ceramic Mug 000422,SKU-0000422,Summit Works,Office,73.70,2025-01-26T14:14:28+00:00,crm_north
+PRD-00000423,Atlas Desk Lamp 000423,SKU-0000423,Fieldhouse,Home,215.41,2024-01-28T00:15:39+00:00,partner_feed
+PRD-00000424,Cove Travel Pouch 000424,SKU-0000424,Summit Works,Accessories,63.14,2025-02-04T17:24:14+00:00,retail_portal
+PRD-00000425,Atlas Desk Lamp 000425,SKU-0000425,,Accessories,397.77,2024-04-08T23:32:44+00:00,crm_south
+PRD-00000426,Harbor Canvas Tote 000426,SKU-0000426,Summit Works,Accessories,310.11,2025-05-24T23:06:43+00:00,retail_portal
+PRD-00000427,Atlas Desk Lamp 000427,SKU-0000427,Cedar & Co.,Home,414.99,2024-04-15T13:32:22+00:00,crm_north
+PRD-00000428,Summit Trail Bottle 000428,SKU-0000428,Northstar,Accessories,208.18,2024-03-18T04:20:20+00:00,crm_south
+PRD-00000429,Orchard Storage Basket 000429,,Cedar & Co.,Outdoor,135.53,2025-06-20T09:16:31+00:00,partner_feed
+PRD-00000430,Harbor Canvas Tote 000430,SKU-0000430,Harborline,Beverage,433.12,2024-04-01T23:57:05+00:00,crm_south
+PRD-00000431,Atlas Desk Lamp 000431,SKU-0000431,Fieldhouse,Office,453.38,2024-05-15T06:45:35+00:00,crm_south
+PRD-00000432,Orchard Storage Basket 000432,SKU-0000432,Cedar & Co.,Kitchen,362.96,2024-07-08T10:45:08+00:00,retail_portal
+PRD-00000433,Cedar Blend Coffee 000433,SKU-0000433,Harborline,Outdoor,443.48,2024-11-16T10:50:17+00:00,retail_portal
+PRD-00000434,Harbor Canvas Tote 000434,SKU-0000434,Northstar,Home,427.50,2024-06-15T09:37:24+00:00,crm_south
+PRD-00000435,Orchard Storage Basket 000435,SKU-0000435,Summit Works,Accessories,403.50,2025-12-25T10:51:32+00:00,retail_portal
+PRD-00000436,Cedar Blend Coffee 000436,SKU-0000436,Summit Works,Home,336.38,2024-09-23T05:00:13+00:00,retail_portal
+PRD-00000437,Orchard Storage Basket 000437,SKU-0000437,Summit Works,Beverage,316.79,2024-05-26T20:47:20+00:00,partner_feed
+PRD-00000438,Orchard Storage Basket 000438,SKU-0000438,Summit Works,Beverage,305.73,2024-04-29T10:12:14+00:00,crm_south
+PRD-00000439,Cedar Blend Coffee 000439,SKU-0000439,Harborline,Office,286.58,2024-03-14T23:12:27+00:00,partner_feed
+PRD-00000440,Meadow Ceramic Mug 000440,SKU-0000440,Northstar,Office,332.99,2025-07-16T08:12:38+00:00,retail_portal
+PRD-00000441,Orchard Storage Basket 000441,SKU-0000441,Fieldhouse,Home,295.74,2025-12-08T13:54:58+00:00,crm_north
+PRD-00000442,Willow Knit Throw 000442,,,Kitchen,109.99,2025-01-09T08:58:38+00:00,retail_portal
+PRD-00000443,Field Notes Journal 000443,SKU-0000443,Harborline,Office,113.53,2025-02-27T01:41:06+00:00,retail_portal
+PRD-00000444,Summit Trail Bottle 000444,SKU-0000444,Summit Works,Kitchen,215.05,2025-11-08T11:19:48+00:00,retail_portal
+PRD-00000445,Meadow Ceramic Mug 000445,SKU-0000445,Cedar & Co.,Kitchen,42.32,2024-06-11T12:12:46+00:00,crm_north
+PRD-00000446,Ridge Running Jacket 000446,SKU-0000446,Cedar & Co.,Office,387.50,2024-09-25T09:38:02+00:00,crm_north
+PRD-00000447,Summit Trail Bottle 000447,SKU-0000447,Fieldhouse,Kitchen,303.77,2025-03-27T11:32:07+00:00,retail_portal
+PRD-00000448,Field Notes Journal 000448,SKU-0000448,Cedar & Co.,Kitchen,203.72,2025-07-15T01:07:46+00:00,crm_north
+PRD-00000449,Cove Travel Pouch 000449,SKU-0000449,Fieldhouse,Accessories,390.31,2024-03-19T08:35:09+00:00,crm_north
+PRD-00000450,Orchard Storage Basket 000450,SKU-0000450,Cedar & Co.,Kitchen,201.07,2025-07-23T15:48:09+00:00,crm_south
+PRD-00000451,Ridge Running Jacket 000451,SKU-0000451,Fieldhouse,Outdoor,416.95,2025-01-28T13:53:15+00:00,partner_feed
+PRD-00000452,Willow Knit Throw 000452,SKU-0000452,Northstar,Accessories,450.34,2025-08-13T11:35:43+00:00,partner_feed
+PRD-00000453,Field Notes Journal 000453,SKU-0000453,Northstar,Kitchen,499.89,2024-09-25T21:06:14+00:00,retail_portal
+PRD-00000454,Harbor Canvas Tote 000454,SKU-0000454,Harborline,Outdoor,67.33,2024-04-07T13:46:43+00:00,crm_south
+PRD-00000455,Lumen Reading Light 000455,,Cedar & Co.,Kitchen,144.21,2024-07-11T18:16:31+00:00,crm_south
+PRD-00000456,Lumen Reading Light 000456,SKU-0000456,Harborline,Beverage,491.12,2025-05-15T05:10:15+00:00,crm_south
+PRD-00000457,Juniper Kitchen Scale 000457,SKU-0000457,Northstar,Outdoor,206.15,2024-06-23T22:16:53+00:00,crm_south
+PRD-00000458,Cedar Blend Coffee 000458,SKU-0000458,Fieldhouse,Office,342.79,2025-08-03T22:26:15+00:00,retail_portal
+PRD-00000459,Orchard Storage Basket 000459,SKU-0000459,,Home,289.06,2024-09-08T14:20:03+00:00,retail_portal
+PRD-00000460,Atlas Desk Lamp 000460,SKU-0000460,Summit Works,Office,253.11,2025-03-08T03:25:21+00:00,retail_portal
+PRD-00000461,Meadow Ceramic Mug 000461,SKU-0000461,Harborline,Kitchen,97.58,2024-05-24T01:06:42+00:00,partner_feed
+PRD-00000462,Field Notes Journal 000462,SKU-0000462,Cedar & Co.,Outdoor,443.13,2025-11-08T14:56:39+00:00,crm_north
+PRD-00000463,Cedar Blend Coffee 000463,SKU-0000463,Fieldhouse,Kitchen,378.00,2025-07-26T18:24:51+00:00,partner_feed
+PRD-00000464,Lumen Reading Light 000464,SKU-0000464,Fieldhouse,Home,472.50,2024-01-08T21:12:05+00:00,crm_north
+PRD-00000465,Orchard Storage Basket 000465,SKU-0000465,Summit Works,Kitchen,52.70,2024-11-13T01:12:45+00:00,partner_feed
+PRD-00000466,Cove Travel Pouch 000466,SKU-0000466,Fieldhouse,Accessories,130.46,2025-02-14T17:25:27+00:00,retail_portal
+PRD-00000467,Cedar Blend Coffee 000467,SKU-0000467,Cedar & Co.,Beverage,40.41,2025-09-03T05:19:46+00:00,partner_feed
+PRD-00000468,Harbor Canvas Tote 000468,,Summit Works,Office,160.87,2024-05-11T06:46:50+00:00,partner_feed
+PRD-00000469,Orchard Storage Basket 000469,SKU-0000469,Summit Works,Kitchen,416.11,2024-11-09T05:46:19+00:00,retail_portal
+PRD-00000470,Juniper Kitchen Scale 000470,SKU-0000470,Harborline,Outdoor,246.60,2025-12-02T08:55:15+00:00,retail_portal
+PRD-00000471,Cove Travel Pouch 000471,SKU-0000471,Harborline,Kitchen,325.44,2025-03-14T04:27:11+00:00,crm_south
+PRD-00000472,Willow Knit Throw 000472,SKU-0000472,Summit Works,Outdoor,315.68,2025-06-18T11:26:17+00:00,crm_north
+PRD-00000473,Lumen Reading Light 000473,SKU-0000473,Cedar & Co.,Beverage,249.94,2025-05-06T10:10:45+00:00,crm_south
+PRD-00000474,Atlas Desk Lamp 000474,SKU-0000474,Cedar & Co.,Outdoor,216.16,2025-10-29T19:50:56+00:00,partner_feed
+PRD-00000475,Orchard Storage Basket 000475,SKU-0000475,Cedar & Co.,Outdoor,257.27,2024-08-08T02:06:47+00:00,crm_south
+PRD-00000476,Juniper Kitchen Scale 000476,SKU-0000476,,Accessories,179.40,2024-11-21T17:25:33+00:00,crm_north
+PRD-00000477,Lumen Reading Light 000477,SKU-0000477,Harborline,Beverage,99.39,2025-08-19T22:25:24+00:00,crm_south
+PRD-00000478,Cove Travel Pouch 000478,SKU-0000478,Harborline,Office,260.01,2024-06-04T05:24:23+00:00,retail_portal
+PRD-00000479,Cedar Blend Coffee 000479,SKU-0000479,Summit Works,Kitchen,34.23,2025-05-09T11:57:30+00:00,crm_north
+PRD-00000480,Cove Travel Pouch 000480,SKU-0000480,Harborline,Kitchen,175.04,2025-03-28T18:37:34+00:00,crm_north
+PRD-00000481,Meadow Ceramic Mug 000481,,Cedar & Co.,Office,45.06,2024-11-10T00:30:04+00:00,partner_feed
+PRD-00000482,Meadow Ceramic Mug 000482,SKU-0000482,Fieldhouse,Office,184.76,2025-09-09T20:46:05+00:00,crm_south
+PRD-00000483,Meadow Ceramic Mug 000483,SKU-0000483,Cedar & Co.,Accessories,67.47,2024-07-31T10:14:15+00:00,partner_feed
+PRD-00000484,Willow Knit Throw 000484,SKU-0000484,Summit Works,Outdoor,98.51,2024-01-16T16:45:33+00:00,partner_feed
+PRD-00000485,Cove Travel Pouch 000485,SKU-0000485,Fieldhouse,Beverage,190.41,2024-05-27T09:13:30+00:00,crm_south
+PRD-00000486,Summit Trail Bottle 000486,SKU-0000486,Harborline,Home,326.29,2024-10-17T10:13:19+00:00,partner_feed
+PRD-00000487,Ridge Running Jacket 000487,SKU-0000487,Cedar & Co.,Outdoor,272.67,2025-09-06T10:31:22+00:00,partner_feed
+PRD-00000488,Cove Travel Pouch 000488,SKU-0000488,Cedar & Co.,Home,149.88,2025-11-19T10:31:24+00:00,partner_feed
+PRD-00000489,Harbor Canvas Tote 000489,SKU-0000489,Fieldhouse,Office,228.55,2025-01-30T14:23:02+00:00,partner_feed
+PRD-00000490,Atlas Desk Lamp 000490,SKU-0000490,Northstar,Home,238.64,2024-02-03T13:31:07+00:00,retail_portal
+PRD-00000491,Meadow Ceramic Mug 000491,SKU-0000491,Cedar & Co.,Office,368.19,2024-12-13T17:36:10+00:00,retail_portal
+PRD-00000492,Summit Trail Bottle 000492,SKU-0000492,Summit Works,Office,124.49,2024-12-29T15:38:02+00:00,partner_feed
+PRD-00000493,Summit Trail Bottle 000493,SKU-0000493,,Office,103.81,2024-03-28T00:31:20+00:00,crm_south
+PRD-00000494,Summit Trail Bottle 000494,,Fieldhouse,Outdoor,210.81,2025-09-05T03:34:53+00:00,retail_portal
+PRD-00000495,Cove Travel Pouch 000495,SKU-0000495,Northstar,Office,149.71,2025-07-23T21:50:14+00:00,crm_north
+PRD-00000496,Willow Knit Throw 000496,SKU-0000496,Cedar & Co.,Accessories,397.84,2024-10-22T13:43:06+00:00,retail_portal
+PRD-00000497,Harbor Canvas Tote 000497,SKU-0000497,Northstar,Kitchen,410.90,2025-11-26T03:13:10+00:00,crm_north
+PRD-00000498,Meadow Ceramic Mug 000498,SKU-0000498,Cedar & Co.,Kitchen,27.35,2024-04-28T06:48:25+00:00,crm_south
+PRD-00000499,Willow Knit Throw 000499,SKU-0000499,Cedar & Co.,Outdoor,112.80,2024-06-25T08:03:57+00:00,crm_south
+PRD-00000500,Orchard Storage Basket 000500,SKU-0000500,Summit Works,Outdoor,149.41,2024-06-10T15:44:40+00:00,partner_feed
+PRD-00000501,Juniper Kitchen Scale 000501,SKU-0000501,Cedar & Co.,Kitchen,77.17,2024-10-25T12:48:47+00:00,partner_feed
+PRD-00000502,Harbor Canvas Tote 000502,SKU-0000502,Cedar & Co.,Home,485.88,2024-03-15T15:44:28+00:00,partner_feed
+PRD-00000503,Juniper Kitchen Scale 000503,SKU-0000503,Harborline,Outdoor,270.99,2024-06-03T00:29:27+00:00,crm_north
+PRD-00000504,Ridge Running Jacket 000504,SKU-0000504,Cedar & Co.,Kitchen,223.75,2024-03-17T09:25:48+00:00,retail_portal
+PRD-00000505,Cedar Blend Coffee 000505,SKU-0000505,Summit Works,Home,425.65,2024-11-22T10:31:54+00:00,crm_north
+PRD-00000506,Ridge Running Jacket 000506,SKU-0000506,Northstar,Office,141.19,2025-10-23T21:06:20+00:00,retail_portal
+PRD-00000507,Field Notes Journal 000507,,Northstar,Beverage,378.30,2024-02-07T03:31:36+00:00,crm_south
+PRD-00000508,Harbor Canvas Tote 000508,SKU-0000508,Northstar,Home,428.90,2024-02-26T21:49:31+00:00,crm_south
+PRD-00000509,Cedar Blend Coffee 000509,SKU-0000509,Cedar & Co.,Kitchen,108.83,2025-01-18T10:56:44+00:00,crm_north
+PRD-00000510,Meadow Ceramic Mug 000510,SKU-0000510,,Office,340.55,2025-01-26T18:59:29+00:00,crm_south
+PRD-00000511,Juniper Kitchen Scale 000511,SKU-0000511,Cedar & Co.,Office,347.59,2024-06-27T14:47:52+00:00,retail_portal
+PRD-00000512,Cove Travel Pouch 000512,SKU-0000512,Cedar & Co.,Outdoor,293.83,2024-02-24T21:19:26+00:00,crm_north
+PRD-00000513,Summit Trail Bottle 000513,SKU-0000513,Summit Works,Home,486.21,2024-11-13T16:03:09+00:00,partner_feed
+PRD-00000514,Summit Trail Bottle 000514,SKU-0000514,Cedar & Co.,Accessories,60.23,2024-07-13T04:37:59+00:00,crm_south
+PRD-00000515,Summit Trail Bottle 000515,SKU-0000515,Harborline,Outdoor,35.47,2025-05-17T23:06:40+00:00,retail_portal
+PRD-00000516,Willow Knit Throw 000516,SKU-0000516,Summit Works,Kitchen,319.27,2024-12-14T15:38:12+00:00,crm_north
+PRD-00000517,Lumen Reading Light 000517,SKU-0000517,Cedar & Co.,Outdoor,51.56,2025-12-24T07:47:07+00:00,crm_south
+PRD-00000518,Cove Travel Pouch 000518,SKU-0000518,Harborline,Accessories,324.56,2025-05-23T05:31:53+00:00,crm_north
+PRD-00000519,Field Notes Journal 000519,SKU-0000519,Fieldhouse,Kitchen,277.80,2024-06-27T01:48:58+00:00,retail_portal
+PRD-00000520,Harbor Canvas Tote 000520,,Fieldhouse,Home,221.13,2025-09-20T05:11:24+00:00,crm_south
+PRD-00000521,Orchard Storage Basket 000521,SKU-0000521,Fieldhouse,Kitchen,400.11,2024-06-29T09:40:59+00:00,crm_north
+PRD-00000522,Ridge Running Jacket 000522,SKU-0000522,Harborline,Office,454.45,2025-10-08T17:45:20+00:00,crm_south
+PRD-00000523,Summit Trail Bottle 000523,SKU-0000523,Cedar & Co.,Office,378.54,2025-04-06T20:05:33+00:00,crm_south
+PRD-00000524,Orchard Storage Basket 000524,SKU-0000524,Harborline,Home,465.44,2025-07-06T23:05:52+00:00,retail_portal
+PRD-00000525,Juniper Kitchen Scale 000525,SKU-0000525,Harborline,Outdoor,250.63,2025-01-10T06:23:28+00:00,retail_portal
+PRD-00000526,Harbor Canvas Tote 000526,SKU-0000526,Fieldhouse,Accessories,340.07,2024-08-09T10:42:16+00:00,partner_feed
+PRD-00000527,Cedar Blend Coffee 000527,SKU-0000527,,Home,277.58,2024-08-19T07:28:39+00:00,crm_south
+PRD-00000528,Summit Trail Bottle 000528,SKU-0000528,Fieldhouse,Office,216.70,2024-06-01T09:34:48+00:00,partner_feed
+PRD-00000529,Willow Knit Throw 000529,SKU-0000529,Northstar,Office,76.12,2024-04-30T11:38:30+00:00,crm_south
+PRD-00000530,Juniper Kitchen Scale 000530,SKU-0000530,Northstar,Accessories,203.85,2025-09-05T04:36:27+00:00,partner_feed
+PRD-00000531,Juniper Kitchen Scale 000531,SKU-0000531,Northstar,Kitchen,53.30,2024-06-16T06:28:35+00:00,retail_portal
+PRD-00000532,Cove Travel Pouch 000532,SKU-0000532,Harborline,Kitchen,50.34,2024-11-14T13:15:25+00:00,crm_south
+PRD-00000533,Harbor Canvas Tote 000533,,Cedar & Co.,Beverage,57.44,2025-08-30T22:09:20+00:00,partner_feed
+PRD-00000534,Orchard Storage Basket 000534,SKU-0000534,Northstar,Office,214.85,2025-01-16T08:16:57+00:00,retail_portal
+PRD-00000535,Field Notes Journal 000535,SKU-0000535,Harborline,Home,22.59,2024-08-26T17:38:41+00:00,retail_portal
+PRD-00000536,Juniper Kitchen Scale 000536,SKU-0000536,Northstar,Accessories,286.05,2024-07-19T20:40:29+00:00,retail_portal
+PRD-00000537,Field Notes Journal 000537,SKU-0000537,Fieldhouse,Accessories,19.25,2024-07-10T15:19:48+00:00,partner_feed
+PRD-00000538,Cedar Blend Coffee 000538,SKU-0000538,Northstar,Outdoor,77.28,2024-10-14T19:31:29+00:00,partner_feed
+PRD-00000539,Harbor Canvas Tote 000539,SKU-0000539,Northstar,Beverage,246.61,2024-05-16T14:06:47+00:00,retail_portal
+PRD-00000540,Summit Trail Bottle 000540,SKU-0000540,Cedar & Co.,Outdoor,20.57,2025-08-11T21:54:15+00:00,crm_north
+PRD-00000541,Cedar Blend Coffee 000541,SKU-0000541,Harborline,Office,189.58,2025-04-28T14:20:14+00:00,retail_portal
+PRD-00000542,Willow Knit Throw 000542,SKU-0000542,Summit Works,Home,40.08,2025-05-16T10:53:44+00:00,crm_north
+PRD-00000543,Harbor Canvas Tote 000543,SKU-0000543,Harborline,Office,315.63,2024-10-12T23:48:11+00:00,retail_portal
+PRD-00000544,Willow Knit Throw 000544,SKU-0000544,,Kitchen,59.76,2024-10-29T07:24:54+00:00,crm_south
+PRD-00000545,Juniper Kitchen Scale 000545,SKU-0000545,Cedar & Co.,Office,231.65,2024-08-28T13:01:23+00:00,retail_portal
+PRD-00000546,Ridge Running Jacket 000546,,Summit Works,Kitchen,345.36,2025-08-15T08:58:52+00:00,retail_portal
+PRD-00000547,Field Notes Journal 000547,SKU-0000547,Fieldhouse,Beverage,365.88,2024-01-07T23:59:28+00:00,retail_portal
+PRD-00000548,Harbor Canvas Tote 000548,SKU-0000548,Summit Works,Kitchen,270.64,2025-06-24T13:09:56+00:00,partner_feed
+PRD-00000549,Field Notes Journal 000549,SKU-0000549,Northstar,Accessories,163.50,2025-12-16T22:49:30+00:00,partner_feed
+PRD-00000550,Juniper Kitchen Scale 000550,SKU-0000550,Harborline,Kitchen,159.92,2025-07-21T08:33:12+00:00,crm_north
+PRD-00000551,Atlas Desk Lamp 000551,SKU-0000551,Fieldhouse,Outdoor,334.96,2024-11-02T22:45:57+00:00,retail_portal
+PRD-00000552,Cedar Blend Coffee 000552,SKU-0000552,Summit Works,Office,436.74,2024-06-19T19:40:19+00:00,partner_feed
+PRD-00000553,Cove Travel Pouch 000553,SKU-0000553,Cedar & Co.,Beverage,437.46,2025-09-20T23:09:12+00:00,retail_portal
+PRD-00000554,Cedar Blend Coffee 000554,SKU-0000554,Northstar,Outdoor,25.97,2025-11-23T07:02:59+00:00,retail_portal
+PRD-00000555,Harbor Canvas Tote 000555,SKU-0000555,Fieldhouse,Office,33.84,2025-07-15T21:14:50+00:00,partner_feed
+PRD-00000556,Ridge Running Jacket 000556,SKU-0000556,Northstar,Office,459.48,2024-02-21T11:03:06+00:00,retail_portal
+PRD-00000557,Juniper Kitchen Scale 000557,SKU-0000557,Harborline,Outdoor,47.27,2024-04-30T21:40:40+00:00,partner_feed
+PRD-00000558,Cove Travel Pouch 000558,SKU-0000558,Northstar,Accessories,467.54,2025-09-30T13:49:06+00:00,crm_north
+PRD-00000559,Orchard Storage Basket 000559,,Cedar & Co.,Accessories,168.05,2025-02-03T22:34:08+00:00,partner_feed
+PRD-00000560,Willow Knit Throw 000560,SKU-0000560,Northstar,Accessories,97.61,2024-08-17T06:57:36+00:00,partner_feed
+PRD-00000561,Field Notes Journal 000561,SKU-0000561,,Office,437.40,2025-05-30T14:45:49+00:00,partner_feed
+PRD-00000562,Meadow Ceramic Mug 000562,SKU-0000562,Cedar & Co.,Kitchen,320.20,2025-03-20T06:05:54+00:00,crm_north
+PRD-00000563,Lumen Reading Light 000563,SKU-0000563,Fieldhouse,Home,456.40,2025-08-05T03:25:24+00:00,retail_portal
+PRD-00000564,Willow Knit Throw 000564,SKU-0000564,Harborline,Office,29.06,2024-07-25T01:28:48+00:00,crm_north
+PRD-00000565,Summit Trail Bottle 000565,SKU-0000565,Cedar & Co.,Accessories,382.86,2024-08-24T15:47:28+00:00,crm_north
+PRD-00000566,Atlas Desk Lamp 000566,SKU-0000566,Northstar,Accessories,146.07,2025-03-25T20:43:28+00:00,crm_north
+PRD-00000567,Harbor Canvas Tote 000567,SKU-0000567,Summit Works,Kitchen,497.98,2024-11-17T03:00:13+00:00,retail_portal
+PRD-00000568,Atlas Desk Lamp 000568,SKU-0000568,Cedar & Co.,Home,266.55,2024-01-10T17:24:37+00:00,crm_south
+PRD-00000569,Summit Trail Bottle 000569,SKU-0000569,Harborline,Kitchen,292.43,2025-01-24T12:31:09+00:00,partner_feed
+PRD-00000570,Meadow Ceramic Mug 000570,SKU-0000570,Harborline,Beverage,112.04,2025-02-12T17:07:31+00:00,retail_portal
+PRD-00000571,Harbor Canvas Tote 000571,SKU-0000571,Northstar,Accessories,238.90,2025-08-26T20:28:58+00:00,crm_north
+PRD-00000572,Harbor Canvas Tote 000572,,Harborline,Outdoor,80.68,2025-02-25T02:07:32+00:00,partner_feed
+PRD-00000573,Juniper Kitchen Scale 000573,SKU-0000573,Northstar,Outdoor,458.03,2024-04-02T19:12:05+00:00,crm_north
+PRD-00000574,Atlas Desk Lamp 000574,SKU-0000574,Harborline,Outdoor,228.79,2024-01-01T17:48:39+00:00,crm_south
+PRD-00000575,Juniper Kitchen Scale 000575,SKU-0000575,Harborline,Outdoor,461.39,2024-06-16T02:54:40+00:00,crm_north
+PRD-00000576,Cove Travel Pouch 000576,SKU-0000576,Summit Works,Kitchen,380.29,2024-12-08T03:31:46+00:00,crm_south
+PRD-00000577,Orchard Storage Basket 000577,SKU-0000577,Cedar & Co.,Accessories,116.41,2024-07-25T23:10:19+00:00,crm_south
+PRD-00000578,Juniper Kitchen Scale 000578,SKU-0000578,,Beverage,251.97,2025-10-16T20:14:46+00:00,partner_feed
+PRD-00000579,Juniper Kitchen Scale 000579,SKU-0000579,Harborline,Beverage,294.14,2024-06-21T07:40:01+00:00,partner_feed
+PRD-00000580,Willow Knit Throw 000580,SKU-0000580,Harborline,Office,284.98,2025-06-02T08:48:36+00:00,crm_north
+PRD-00000581,Cedar Blend Coffee 000581,SKU-0000581,Harborline,Home,183.18,2025-03-04T16:23:25+00:00,crm_south
+PRD-00000582,Harbor Canvas Tote 000582,SKU-0000582,Northstar,Office,336.29,2025-03-03T11:59:54+00:00,partner_feed
+PRD-00000583,Ridge Running Jacket 000583,SKU-0000583,Harborline,Beverage,153.61,2024-04-03T14:34:08+00:00,crm_north
+PRD-00000584,Harbor Canvas Tote 000584,SKU-0000584,Cedar & Co.,Office,454.57,2025-01-23T15:40:05+00:00,crm_south
+PRD-00000585,Field Notes Journal 000585,,Summit Works,Kitchen,138.82,2025-06-17T12:18:18+00:00,partner_feed
+PRD-00000586,Juniper Kitchen Scale 000586,SKU-0000586,Northstar,Kitchen,184.27,2025-05-18T06:33:42+00:00,crm_south
+PRD-00000587,Lumen Reading Light 000587,SKU-0000587,Northstar,Outdoor,10.79,2024-09-16T00:50:22+00:00,retail_portal
+PRD-00000588,Atlas Desk Lamp 000588,SKU-0000588,Northstar,Outdoor,20.86,2024-08-15T16:06:29+00:00,crm_north
+PRD-00000589,Meadow Ceramic Mug 000589,SKU-0000589,Cedar & Co.,Office,365.04,2024-01-18T15:18:21+00:00,crm_south
+PRD-00000590,Lumen Reading Light 000590,SKU-0000590,Fieldhouse,Outdoor,213.21,2024-03-23T19:07:23+00:00,partner_feed
+PRD-00000591,Ridge Running Jacket 000591,SKU-0000591,Harborline,Office,308.14,2025-10-21T02:40:18+00:00,partner_feed
+PRD-00000592,Cedar Blend Coffee 000592,SKU-0000592,Cedar & Co.,Office,49.53,2024-11-09T13:45:32+00:00,retail_portal
+PRD-00000593,Harbor Canvas Tote 000593,SKU-0000593,Cedar & Co.,Outdoor,438.54,2024-03-02T22:03:52+00:00,retail_portal
+PRD-00000594,Lumen Reading Light 000594,SKU-0000594,Cedar & Co.,Accessories,192.97,2024-03-07T11:37:08+00:00,retail_portal
+PRD-00000595,Lumen Reading Light 000595,SKU-0000595,,Kitchen,162.02,2024-10-02T16:53:04+00:00,partner_feed
+PRD-00000596,Juniper Kitchen Scale 000596,SKU-0000596,Northstar,Kitchen,223.62,2025-12-13T02:03:46+00:00,crm_south
+PRD-00000597,Orchard Storage Basket 000597,SKU-0000597,Northstar,Accessories,348.43,2024-12-30T00:38:09+00:00,crm_south
+PRD-00000598,Ridge Running Jacket 000598,,Northstar,Outdoor,20.85,2024-04-15T17:19:03+00:00,partner_feed
+PRD-00000599,Willow Knit Throw 000599,SKU-0000599,Summit Works,Kitchen,367.73,2025-06-10T02:56:22+00:00,retail_portal
+PRD-00000600,Atlas Desk Lamp 000600,SKU-0000600,Cedar & Co.,Office,200.03,2024-11-27T00:09:22+00:00,crm_north
+PRD-00000601,Ridge Running Jacket 000601,SKU-0000601,Northstar,Kitchen,35.57,2025-10-11T03:56:36+00:00,retail_portal
+PRD-00000602,Harbor Canvas Tote 000602,SKU-0000602,Harborline,Office,327.05,2024-09-20T20:34:10+00:00,retail_portal
+PRD-00000603,Summit Trail Bottle 000603,SKU-0000603,Summit Works,Accessories,10.36,2025-03-28T06:53:45+00:00,partner_feed
+PRD-00000604,Harbor Canvas Tote 000604,SKU-0000604,Cedar & Co.,Office,93.44,2025-11-25T00:05:17+00:00,partner_feed
+PRD-00000605,Cove Travel Pouch 000605,SKU-0000605,Summit Works,Kitchen,391.83,2024-10-27T01:46:59+00:00,crm_south
+PRD-00000606,Harbor Canvas Tote 000606,SKU-0000606,Fieldhouse,Home,494.76,2024-05-26T20:42:46+00:00,crm_south
+PRD-00000607,Lumen Reading Light 000607,SKU-0000607,Cedar & Co.,Office,464.29,2025-03-14T08:52:55+00:00,crm_south
+PRD-00000608,Atlas Desk Lamp 000608,SKU-0000608,Summit Works,Home,13.23,2025-02-05T20:54:20+00:00,partner_feed
+PRD-00000609,Orchard Storage Basket 000609,SKU-0000609,Fieldhouse,Kitchen,404.68,2025-10-30T13:45:04+00:00,retail_portal
+PRD-00000610,Meadow Ceramic Mug 000610,SKU-0000610,Harborline,Office,465.64,2024-06-28T18:22:43+00:00,partner_feed
+PRD-00000611,Harbor Canvas Tote 000611,,Cedar & Co.,Home,214.16,2025-12-14T12:47:36+00:00,retail_portal
+PRD-00000612,Orchard Storage Basket 000612,SKU-0000612,,Office,258.23,2025-02-03T04:13:02+00:00,partner_feed
+PRD-00000613,Orchard Storage Basket 000613,SKU-0000613,Summit Works,Outdoor,376.14,2025-11-20T03:14:21+00:00,retail_portal
+PRD-00000614,Cove Travel Pouch 000614,SKU-0000614,Cedar & Co.,Kitchen,289.78,2025-02-15T13:59:55+00:00,partner_feed
+PRD-00000615,Orchard Storage Basket 000615,SKU-0000615,Northstar,Kitchen,211.98,2025-08-23T18:10:29+00:00,crm_south
+PRD-00000616,Field Notes Journal 000616,SKU-0000616,Fieldhouse,Outdoor,172.39,2025-05-30T11:11:17+00:00,partner_feed
+PRD-00000617,Meadow Ceramic Mug 000617,SKU-0000617,Summit Works,Beverage,367.18,2025-11-30T06:53:03+00:00,partner_feed
+PRD-00000618,Harbor Canvas Tote 000618,SKU-0000618,Fieldhouse,Outdoor,444.16,2024-07-11T09:06:17+00:00,crm_south
+PRD-00000619,Cedar Blend Coffee 000619,SKU-0000619,Summit Works,Office,162.63,2024-06-21T16:51:07+00:00,retail_portal
+PRD-00000620,Meadow Ceramic Mug 000620,SKU-0000620,Summit Works,Accessories,148.60,2025-08-18T06:20:52+00:00,partner_feed
+PRD-00000621,Willow Knit Throw 000621,SKU-0000621,Cedar & Co.,Home,84.04,2025-07-27T03:50:11+00:00,crm_north
+PRD-00000622,Summit Trail Bottle 000622,SKU-0000622,Cedar & Co.,Kitchen,478.09,2025-12-21T04:35:15+00:00,crm_north
+PRD-00000623,Ridge Running Jacket 000623,SKU-0000623,Harborline,Office,94.30,2025-02-19T02:52:43+00:00,partner_feed
+PRD-00000624,Ridge Running Jacket 000624,,Northstar,Beverage,333.17,2024-04-23T19:56:08+00:00,crm_north
+PRD-00000625,Cove Travel Pouch 000625,SKU-0000625,Cedar & Co.,Outdoor,351.42,2024-12-02T17:39:29+00:00,crm_south
+PRD-00000626,Juniper Kitchen Scale 000626,SKU-0000626,Cedar & Co.,Accessories,69.20,2024-07-16T23:58:14+00:00,retail_portal
+PRD-00000627,Willow Knit Throw 000627,SKU-0000627,Northstar,Accessories,74.31,2024-08-04T12:17:56+00:00,crm_north
+PRD-00000628,Meadow Ceramic Mug 000628,SKU-0000628,Northstar,Outdoor,451.71,2025-09-28T19:34:16+00:00,crm_south
+PRD-00000629,Cedar Blend Coffee 000629,SKU-0000629,,Office,171.62,2025-12-09T20:48:48+00:00,partner_feed
+PRD-00000630,Field Notes Journal 000630,SKU-0000630,Northstar,Home,198.52,2024-04-01T20:39:04+00:00,crm_north
+PRD-00000631,Meadow Ceramic Mug 000631,SKU-0000631,Fieldhouse,Home,166.87,2024-12-02T07:52:43+00:00,crm_north
+PRD-00000632,Field Notes Journal 000632,SKU-0000632,Fieldhouse,Beverage,165.19,2025-12-10T06:25:54+00:00,crm_north
+PRD-00000633,Meadow Ceramic Mug 000633,SKU-0000633,Northstar,Home,270.88,2025-04-10T03:40:18+00:00,partner_feed
+PRD-00000634,Ridge Running Jacket 000634,SKU-0000634,Northstar,Accessories,423.87,2024-12-07T14:21:38+00:00,crm_north
+PRD-00000635,Atlas Desk Lamp 000635,SKU-0000635,Harborline,Kitchen,418.10,2025-04-29T13:39:26+00:00,retail_portal
+PRD-00000636,Lumen Reading Light 000636,SKU-0000636,Fieldhouse,Office,465.16,2024-01-27T05:30:52+00:00,crm_north
+PRD-00000637,Atlas Desk Lamp 000637,,Harborline,Home,148.67,2025-08-05T10:42:49+00:00,partner_feed
+PRD-00000638,Meadow Ceramic Mug 000638,SKU-0000638,Fieldhouse,Home,306.30,2024-04-27T03:38:31+00:00,retail_portal
+PRD-00000639,Summit Trail Bottle 000639,SKU-0000639,Fieldhouse,Office,298.09,2024-01-03T17:30:13+00:00,retail_portal
+PRD-00000640,Harbor Canvas Tote 000640,SKU-0000640,Cedar & Co.,Accessories,165.16,2024-07-18T16:44:43+00:00,crm_south
+PRD-00000641,Willow Knit Throw 000641,SKU-0000641,Fieldhouse,Kitchen,110.69,2025-11-01T16:41:20+00:00,crm_south
+PRD-00000642,Cedar Blend Coffee 000642,SKU-0000642,Cedar & Co.,Kitchen,463.10,2024-08-06T07:04:03+00:00,retail_portal
+PRD-00000643,Orchard Storage Basket 000643,SKU-0000643,Fieldhouse,Kitchen,33.29,2024-12-06T07:00:58+00:00,crm_south
+PRD-00000644,Juniper Kitchen Scale 000644,SKU-0000644,Summit Works,Outdoor,211.88,2025-04-04T09:54:55+00:00,crm_north
+PRD-00000645,Juniper Kitchen Scale 000645,SKU-0000645,Harborline,Kitchen,246.19,2024-05-03T19:14:01+00:00,crm_north
+PRD-00000646,Willow Knit Throw 000646,SKU-0000646,,Kitchen,181.39,2025-07-02T21:18:28+00:00,retail_portal
+PRD-00000647,Lumen Reading Light 000647,SKU-0000647,Northstar,Beverage,199.94,2024-02-26T16:56:02+00:00,crm_south
+PRD-00000648,Willow Knit Throw 000648,SKU-0000648,Northstar,Accessories,53.71,2024-12-07T14:11:52+00:00,crm_north
+PRD-00000649,Atlas Desk Lamp 000649,SKU-0000649,Summit Works,Home,205.12,2024-05-26T06:02:23+00:00,partner_feed
+PRD-00000650,Juniper Kitchen Scale 000650,,Cedar & Co.,Outdoor,357.95,2025-11-24T01:23:37+00:00,retail_portal
+PRD-00000651,Willow Knit Throw 000651,SKU-0000651,Fieldhouse,Outdoor,75.22,2025-06-19T20:06:17+00:00,retail_portal
+PRD-00000652,Cedar Blend Coffee 000652,SKU-0000652,Fieldhouse,Outdoor,454.06,2025-03-18T06:30:22+00:00,crm_south
+PRD-00000653,Meadow Ceramic Mug 000653,SKU-0000653,Summit Works,Outdoor,478.60,2024-08-12T23:11:35+00:00,crm_north
+PRD-00000654,Harbor Canvas Tote 000654,SKU-0000654,Harborline,Home,359.35,2025-05-28T14:27:01+00:00,retail_portal
+PRD-00000655,Orchard Storage Basket 000655,SKU-0000655,Cedar & Co.,Home,381.04,2024-10-07T02:29:57+00:00,retail_portal
+PRD-00000656,Juniper Kitchen Scale 000656,SKU-0000656,Cedar & Co.,Office,35.14,2025-06-10T08:23:08+00:00,crm_north
+PRD-00000657,Orchard Storage Basket 000657,SKU-0000657,Northstar,Office,395.81,2024-05-01T22:10:31+00:00,retail_portal
+PRD-00000658,Ridge Running Jacket 000658,SKU-0000658,Harborline,Kitchen,409.97,2025-03-01T14:06:27+00:00,retail_portal
+PRD-00000659,Orchard Storage Basket 000659,SKU-0000659,Cedar & Co.,Kitchen,104.81,2025-01-03T06:13:24+00:00,retail_portal
+PRD-00000660,Summit Trail Bottle 000660,SKU-0000660,Harborline,Accessories,19.97,2025-06-11T21:50:56+00:00,crm_north
+PRD-00000661,Cove Travel Pouch 000661,SKU-0000661,Harborline,Accessories,238.75,2025-06-23T06:25:57+00:00,crm_north
+PRD-00000662,Ridge Running Jacket 000662,SKU-0000662,Northstar,Home,144.04,2025-09-13T10:25:22+00:00,partner_feed
+PRD-00000663,Harbor Canvas Tote 000663,,,Beverage,70.42,2024-04-24T18:20:05+00:00,partner_feed
+PRD-00000664,Lumen Reading Light 000664,SKU-0000664,Fieldhouse,Beverage,407.62,2025-12-01T18:27:40+00:00,retail_portal
+PRD-00000665,Lumen Reading Light 000665,SKU-0000665,Northstar,Office,46.14,2024-11-26T21:38:36+00:00,partner_feed
+PRD-00000666,Harbor Canvas Tote 000666,SKU-0000666,Harborline,Office,351.30,2025-07-14T18:03:51+00:00,crm_south
+PRD-00000667,Juniper Kitchen Scale 000667,SKU-0000667,Fieldhouse,Outdoor,20.78,2024-02-15T19:43:48+00:00,partner_feed
+PRD-00000668,Willow Knit Throw 000668,SKU-0000668,Harborline,Beverage,209.00,2025-09-12T23:53:35+00:00,retail_portal
+PRD-00000669,Atlas Desk Lamp 000669,SKU-0000669,Northstar,Beverage,242.89,2025-02-04T18:14:55+00:00,crm_north
+PRD-00000670,Field Notes Journal 000670,SKU-0000670,Harborline,Outdoor,392.32,2024-05-16T12:00:25+00:00,crm_north
+PRD-00000671,Cedar Blend Coffee 000671,SKU-0000671,Cedar & Co.,Kitchen,480.38,2025-07-24T22:33:09+00:00,crm_north
+PRD-00000672,Summit Trail Bottle 000672,SKU-0000672,Fieldhouse,Outdoor,373.69,2025-09-13T02:54:39+00:00,retail_portal
+PRD-00000673,Field Notes Journal 000673,SKU-0000673,Fieldhouse,Home,325.29,2024-12-02T15:10:39+00:00,crm_north
+PRD-00000674,Cove Travel Pouch 000674,SKU-0000674,Fieldhouse,Office,320.34,2025-10-15T13:47:06+00:00,partner_feed
+PRD-00000675,Orchard Storage Basket 000675,SKU-0000675,Northstar,Outdoor,442.96,2024-04-01T03:53:16+00:00,crm_south
+PRD-00000676,Field Notes Journal 000676,,Fieldhouse,Outdoor,347.15,2025-03-30T09:42:15+00:00,crm_north
+PRD-00000677,Willow Knit Throw 000677,SKU-0000677,Cedar & Co.,Home,363.90,2025-05-01T23:37:05+00:00,crm_south
+PRD-00000678,Cedar Blend Coffee 000678,SKU-0000678,Summit Works,Beverage,473.48,2024-09-21T08:27:12+00:00,retail_portal
+PRD-00000679,Lumen Reading Light 000679,SKU-0000679,Harborline,Accessories,106.66,2024-08-04T11:05:38+00:00,partner_feed
+PRD-00000680,Atlas Desk Lamp 000680,SKU-0000680,,Home,229.18,2025-03-07T01:48:22+00:00,crm_south
+PRD-00000681,Cove Travel Pouch 000681,SKU-0000681,Cedar & Co.,Kitchen,301.37,2025-03-31T11:25:49+00:00,crm_north
+PRD-00000682,Lumen Reading Light 000682,SKU-0000682,Northstar,Home,396.34,2025-02-11T17:00:58+00:00,retail_portal
+PRD-00000683,Willow Knit Throw 000683,SKU-0000683,Summit Works,Outdoor,492.48,2025-12-03T04:13:37+00:00,crm_south
+PRD-00000684,Willow Knit Throw 000684,SKU-0000684,Fieldhouse,Outdoor,161.49,2025-02-19T14:12:16+00:00,retail_portal
+PRD-00000685,Field Notes Journal 000685,SKU-0000685,Northstar,Home,154.03,2024-11-01T19:22:01+00:00,retail_portal
+PRD-00000686,Atlas Desk Lamp 000686,SKU-0000686,Summit Works,Beverage,119.61,2024-12-26T18:15:20+00:00,crm_north
+PRD-00000687,Cove Travel Pouch 000687,SKU-0000687,Northstar,Accessories,28.98,2025-04-28T01:21:13+00:00,crm_north
+PRD-00000688,Lumen Reading Light 000688,SKU-0000688,Harborline,Beverage,77.89,2024-03-10T20:15:51+00:00,retail_portal
+PRD-00000689,Ridge Running Jacket 000689,,Summit Works,Beverage,99.29,2024-06-26T22:34:58+00:00,retail_portal
+PRD-00000690,Meadow Ceramic Mug 000690,SKU-0000690,Summit Works,Kitchen,221.64,2024-08-04T17:34:31+00:00,crm_south
+PRD-00000691,Ridge Running Jacket 000691,SKU-0000691,Summit Works,Home,232.13,2025-10-24T12:27:09+00:00,crm_south
+PRD-00000692,Field Notes Journal 000692,SKU-0000692,Harborline,Kitchen,254.32,2024-06-30T00:46:56+00:00,crm_north
+PRD-00000693,Field Notes Journal 000693,SKU-0000693,Harborline,Outdoor,21.56,2025-09-23T22:41:28+00:00,partner_feed
+PRD-00000694,Atlas Desk Lamp 000694,SKU-0000694,Summit Works,Home,411.97,2024-08-25T07:55:06+00:00,crm_south
+PRD-00000695,Atlas Desk Lamp 000695,SKU-0000695,Northstar,Office,73.85,2024-11-06T23:00:11+00:00,retail_portal
+PRD-00000696,Meadow Ceramic Mug 000696,SKU-0000696,Harborline,Home,405.27,2025-08-29T21:00:42+00:00,crm_north
+PRD-00000697,Ridge Running Jacket 000697,SKU-0000697,,Home,118.22,2024-07-07T07:28:27+00:00,retail_portal
+PRD-00000698,Harbor Canvas Tote 000698,SKU-0000698,Northstar,Office,294.47,2025-10-15T07:41:13+00:00,crm_north
+PRD-00000699,Harbor Canvas Tote 000699,SKU-0000699,Summit Works,Home,180.95,2025-02-02T20:30:45+00:00,crm_north
+PRD-00000700,Lumen Reading Light 000700,SKU-0000700,Northstar,Outdoor,472.98,2024-12-30T19:15:00+00:00,retail_portal
+PRD-00000701,Summit Trail Bottle 000701,SKU-0000701,Summit Works,Beverage,136.99,2024-10-04T03:26:26+00:00,retail_portal
+PRD-00000702,Cove Travel Pouch 000702,,Summit Works,Home,427.79,2025-02-11T07:34:11+00:00,retail_portal
+PRD-00000703,Lumen Reading Light 000703,SKU-0000703,Summit Works,Home,129.90,2025-06-01T17:21:32+00:00,partner_feed
+PRD-00000704,Cedar Blend Coffee 000704,SKU-0000704,Northstar,Accessories,253.85,2024-11-14T14:35:50+00:00,partner_feed
+PRD-00000705,Summit Trail Bottle 000705,SKU-0000705,Summit Works,Office,89.85,2025-08-09T04:47:31+00:00,crm_south
+PRD-00000706,Lumen Reading Light 000706,SKU-0000706,Harborline,Accessories,77.06,2025-01-06T06:16:47+00:00,crm_north
+PRD-00000707,Field Notes Journal 000707,SKU-0000707,Fieldhouse,Home,255.09,2024-03-07T17:32:49+00:00,partner_feed
+PRD-00000708,Ridge Running Jacket 000708,SKU-0000708,Harborline,Beverage,460.81,2024-11-05T12:34:37+00:00,partner_feed
+PRD-00000709,Cove Travel Pouch 000709,SKU-0000709,Cedar & Co.,Kitchen,225.44,2024-02-02T16:40:21+00:00,retail_portal
+PRD-00000710,Lumen Reading Light 000710,SKU-0000710,Cedar & Co.,Outdoor,424.51,2024-01-22T14:08:42+00:00,crm_south
+PRD-00000711,Cove Travel Pouch 000711,SKU-0000711,Cedar & Co.,Outdoor,464.27,2025-10-23T21:57:49+00:00,crm_south
+PRD-00000712,Ridge Running Jacket 000712,SKU-0000712,Harborline,Outdoor,118.41,2025-10-18T05:41:17+00:00,crm_south
+PRD-00000713,Ridge Running Jacket 000713,SKU-0000713,Summit Works,Beverage,109.19,2024-11-15T06:21:48+00:00,crm_north
+PRD-00000714,Orchard Storage Basket 000714,SKU-0000714,,Office,291.45,2025-02-24T07:03:45+00:00,partner_feed
+PRD-00000715,Juniper Kitchen Scale 000715,,Cedar & Co.,Beverage,497.50,2025-01-31T02:06:35+00:00,crm_south
+PRD-00000716,Cove Travel Pouch 000716,SKU-0000716,Northstar,Accessories,408.34,2025-04-21T13:02:27+00:00,crm_north
+PRD-00000717,Orchard Storage Basket 000717,SKU-0000717,Fieldhouse,Kitchen,424.01,2025-11-15T17:29:58+00:00,crm_south
+PRD-00000718,Atlas Desk Lamp 000718,SKU-0000718,Northstar,Office,127.04,2025-01-10T01:07:26+00:00,retail_portal
+PRD-00000719,Juniper Kitchen Scale 000719,SKU-0000719,Harborline,Outdoor,7.83,2025-11-19T13:40:40+00:00,retail_portal
+PRD-00000720,Willow Knit Throw 000720,SKU-0000720,Cedar & Co.,Beverage,297.22,2025-04-05T10:03:28+00:00,partner_feed
+PRD-00000721,Lumen Reading Light 000721,SKU-0000721,Cedar & Co.,Home,76.97,2024-06-28T09:23:58+00:00,crm_south
+PRD-00000722,Atlas Desk Lamp 000722,SKU-0000722,Harborline,Office,272.53,2025-12-02T04:14:13+00:00,retail_portal
+PRD-00000723,Harbor Canvas Tote 000723,SKU-0000723,Harborline,Kitchen,223.11,2025-10-04T14:51:09+00:00,retail_portal
+PRD-00000724,Ridge Running Jacket 000724,SKU-0000724,Northstar,Beverage,42.30,2024-11-23T21:53:27+00:00,retail_portal
+PRD-00000725,Cedar Blend Coffee 000725,SKU-0000725,Summit Works,Beverage,50.61,2025-12-24T11:26:55+00:00,crm_south
+PRD-00000726,Juniper Kitchen Scale 000726,SKU-0000726,Northstar,Home,464.18,2024-08-19T12:40:30+00:00,retail_portal
+PRD-00000727,Meadow Ceramic Mug 000727,SKU-0000727,Summit Works,Outdoor,278.13,2025-11-22T12:13:16+00:00,retail_portal
+PRD-00000728,Juniper Kitchen Scale 000728,,Summit Works,Kitchen,177.70,2025-06-19T23:30:36+00:00,retail_portal
+PRD-00000729,Cove Travel Pouch 000729,SKU-0000729,Northstar,Beverage,248.01,2024-09-13T11:08:52+00:00,crm_south
+PRD-00000730,Summit Trail Bottle 000730,SKU-0000730,Cedar & Co.,Beverage,252.94,2025-11-20T12:38:26+00:00,partner_feed
+PRD-00000731,Harbor Canvas Tote 000731,SKU-0000731,,Beverage,315.05,2025-02-16T18:20:29+00:00,crm_north
+PRD-00000732,Field Notes Journal 000732,SKU-0000732,Cedar & Co.,Accessories,105.13,2024-10-26T17:07:16+00:00,partner_feed
+PRD-00000733,Willow Knit Throw 000733,SKU-0000733,Fieldhouse,Accessories,385.74,2025-06-18T00:51:36+00:00,crm_south
+PRD-00000734,Willow Knit Throw 000734,SKU-0000734,Summit Works,Kitchen,162.64,2025-09-30T10:22:48+00:00,crm_north
+PRD-00000735,Field Notes Journal 000735,SKU-0000735,Summit Works,Office,342.20,2024-02-04T13:13:42+00:00,crm_north
+PRD-00000736,Atlas Desk Lamp 000736,SKU-0000736,Harborline,Kitchen,454.17,2024-03-02T23:15:30+00:00,retail_portal
+PRD-00000737,Harbor Canvas Tote 000737,SKU-0000737,Summit Works,Beverage,285.86,2024-03-28T22:53:33+00:00,partner_feed
+PRD-00000738,Meadow Ceramic Mug 000738,SKU-0000738,Harborline,Outdoor,468.96,2024-10-23T12:28:08+00:00,crm_north
+PRD-00000739,Field Notes Journal 000739,SKU-0000739,Northstar,Kitchen,126.96,2025-01-24T21:07:55+00:00,crm_south
+PRD-00000740,Lumen Reading Light 000740,SKU-0000740,Northstar,Accessories,368.78,2025-07-27T19:54:09+00:00,retail_portal
+PRD-00000741,Cove Travel Pouch 000741,,Cedar & Co.,Office,478.44,2024-09-26T07:52:00+00:00,crm_south
+PRD-00000742,Summit Trail Bottle 000742,SKU-0000742,Northstar,Office,65.22,2025-10-06T05:06:54+00:00,retail_portal
+PRD-00000743,Cedar Blend Coffee 000743,SKU-0000743,Harborline,Kitchen,91.91,2025-01-07T14:43:50+00:00,crm_north
+PRD-00000744,Harbor Canvas Tote 000744,SKU-0000744,Summit Works,Outdoor,248.92,2024-05-27T05:54:30+00:00,retail_portal
+PRD-00000745,Cove Travel Pouch 000745,SKU-0000745,Cedar & Co.,Office,456.79,2024-02-21T12:29:10+00:00,retail_portal
+PRD-00000746,Cove Travel Pouch 000746,SKU-0000746,Northstar,Kitchen,234.90,2024-06-05T02:38:52+00:00,crm_south
+PRD-00000747,Field Notes Journal 000747,SKU-0000747,Harborline,Office,331.17,2024-07-07T17:43:14+00:00,retail_portal
+PRD-00000748,Juniper Kitchen Scale 000748,SKU-0000748,,Office,205.42,2025-12-01T14:52:19+00:00,retail_portal
+PRD-00000749,Orchard Storage Basket 000749,SKU-0000749,Northstar,Kitchen,225.10,2025-08-03T17:20:42+00:00,retail_portal
+PRD-00000750,Harbor Canvas Tote 000750,SKU-0000750,Fieldhouse,Home,336.02,2025-09-20T04:19:47+00:00,crm_south
+PRD-00000751,Ridge Running Jacket 000751,SKU-0000751,Cedar & Co.,Kitchen,443.00,2024-06-25T13:39:17+00:00,crm_south
+PRD-00000752,Cove Travel Pouch 000752,SKU-0000752,Northstar,Home,479.08,2025-01-27T14:45:00+00:00,retail_portal
+PRD-00000753,Willow Knit Throw 000753,SKU-0000753,Harborline,Home,398.09,2025-06-02T15:18:02+00:00,crm_north
+PRD-00000754,Harbor Canvas Tote 000754,,Summit Works,Outdoor,300.62,2025-03-17T14:23:40+00:00,crm_north
+PRD-00000755,Willow Knit Throw 000755,SKU-0000755,Northstar,Beverage,324.85,2024-02-11T15:13:06+00:00,crm_north
+PRD-00000756,Atlas Desk Lamp 000756,SKU-0000756,Northstar,Beverage,465.75,2024-04-09T11:37:23+00:00,partner_feed
+PRD-00000757,Summit Trail Bottle 000757,SKU-0000757,Cedar & Co.,Outdoor,116.47,2024-07-23T05:28:50+00:00,crm_south
+PRD-00000758,Cove Travel Pouch 000758,SKU-0000758,Cedar & Co.,Office,42.84,2024-04-09T04:31:28+00:00,retail_portal
+PRD-00000759,Summit Trail Bottle 000759,SKU-0000759,Northstar,Kitchen,36.29,2025-08-21T06:29:18+00:00,retail_portal
+PRD-00000760,Field Notes Journal 000760,SKU-0000760,Summit Works,Office,269.26,2025-10-25T03:25:29+00:00,retail_portal
+PRD-00000761,Ridge Running Jacket 000761,SKU-0000761,Cedar & Co.,Kitchen,61.77,2024-09-04T12:12:24+00:00,partner_feed
+PRD-00000762,Cove Travel Pouch 000762,SKU-0000762,Summit Works,Outdoor,177.91,2024-10-23T21:17:38+00:00,retail_portal
+PRD-00000763,Lumen Reading Light 000763,SKU-0000763,Summit Works,Home,319.82,2025-06-06T09:38:16+00:00,partner_feed
+PRD-00000764,Ridge Running Jacket 000764,SKU-0000764,Summit Works,Accessories,76.45,2025-12-11T07:18:38+00:00,crm_north
+PRD-00000765,Cedar Blend Coffee 000765,SKU-0000765,,Office,329.91,2025-08-24T11:42:18+00:00,crm_south
+PRD-00000766,Harbor Canvas Tote 000766,SKU-0000766,Summit Works,Accessories,251.65,2025-09-24T16:42:00+00:00,partner_feed
+PRD-00000767,Orchard Storage Basket 000767,,Cedar & Co.,Outdoor,388.24,2024-05-09T01:49:45+00:00,retail_portal
+PRD-00000768,Juniper Kitchen Scale 000768,SKU-0000768,Harborline,Home,400.89,2024-02-15T23:34:59+00:00,partner_feed
+PRD-00000769,Atlas Desk Lamp 000769,SKU-0000769,Northstar,Beverage,269.73,2025-07-16T23:48:07+00:00,retail_portal
+PRD-00000770,Orchard Storage Basket 000770,SKU-0000770,Cedar & Co.,Kitchen,250.10,2025-07-15T07:06:50+00:00,partner_feed
+PRD-00000771,Atlas Desk Lamp 000771,SKU-0000771,Fieldhouse,Home,246.62,2025-05-22T02:13:56+00:00,crm_south
+PRD-00000772,Cove Travel Pouch 000772,SKU-0000772,Summit Works,Home,269.76,2024-02-19T09:44:52+00:00,partner_feed
+PRD-00000773,Meadow Ceramic Mug 000773,SKU-0000773,Fieldhouse,Outdoor,448.92,2024-12-08T08:22:47+00:00,retail_portal
+PRD-00000774,Juniper Kitchen Scale 000774,SKU-0000774,Fieldhouse,Office,255.77,2024-12-31T13:17:59+00:00,partner_feed
+PRD-00000775,Atlas Desk Lamp 000775,SKU-0000775,Cedar & Co.,Office,154.50,2025-11-05T08:03:04+00:00,retail_portal
+PRD-00000776,Meadow Ceramic Mug 000776,SKU-0000776,Northstar,Outdoor,368.61,2025-12-27T19:03:48+00:00,partner_feed
+PRD-00000777,Harbor Canvas Tote 000777,SKU-0000777,Harborline,Outdoor,70.00,2025-04-07T21:06:01+00:00,retail_portal
+PRD-00000778,Cove Travel Pouch 000778,SKU-0000778,Cedar & Co.,Outdoor,112.13,2024-06-26T23:19:30+00:00,crm_south
+PRD-00000779,Juniper Kitchen Scale 000779,SKU-0000779,Northstar,Outdoor,300.86,2025-10-02T17:03:47+00:00,crm_south
+PRD-00000780,Lumen Reading Light 000780,,Harborline,Home,285.94,2025-11-10T00:20:21+00:00,crm_north
+PRD-00000781,Orchard Storage Basket 000781,SKU-0000781,Fieldhouse,Kitchen,352.94,2024-05-10T04:24:43+00:00,crm_south
+PRD-00000782,Harbor Canvas Tote 000782,SKU-0000782,,Accessories,449.87,2024-06-10T15:52:53+00:00,partner_feed
+PRD-00000783,Summit Trail Bottle 000783,SKU-0000783,Harborline,Kitchen,27.04,2025-03-22T16:33:26+00:00,crm_south
+PRD-00000784,Cove Travel Pouch 000784,SKU-0000784,Summit Works,Kitchen,31.47,2024-08-27T22:08:33+00:00,crm_south
+PRD-00000785,Harbor Canvas Tote 000785,SKU-0000785,Northstar,Accessories,467.23,2024-06-26T19:07:40+00:00,retail_portal
+PRD-00000786,Juniper Kitchen Scale 000786,SKU-0000786,Summit Works,Accessories,421.91,2025-09-12T04:56:01+00:00,retail_portal
+PRD-00000787,Juniper Kitchen Scale 000787,SKU-0000787,Cedar & Co.,Accessories,431.24,2025-03-02T20:00:51+00:00,retail_portal
+PRD-00000788,Orchard Storage Basket 000788,SKU-0000788,Harborline,Beverage,76.33,2024-07-25T15:39:14+00:00,retail_portal
+PRD-00000789,Summit Trail Bottle 000789,SKU-0000789,Cedar & Co.,Accessories,351.34,2024-03-10T22:14:53+00:00,crm_south
+PRD-00000790,Lumen Reading Light 000790,SKU-0000790,Northstar,Home,430.13,2024-08-08T09:04:39+00:00,retail_portal
+PRD-00000791,Harbor Canvas Tote 000791,SKU-0000791,Cedar & Co.,Office,463.82,2024-04-02T21:50:54+00:00,crm_south
+PRD-00000792,Ridge Running Jacket 000792,SKU-0000792,Fieldhouse,Beverage,432.04,2025-03-02T19:04:06+00:00,crm_north
+PRD-00000793,Cedar Blend Coffee 000793,,Fieldhouse,Office,387.09,2024-10-24T19:26:01+00:00,partner_feed
+PRD-00000794,Orchard Storage Basket 000794,SKU-0000794,Summit Works,Office,268.50,2025-09-22T03:50:45+00:00,retail_portal
+PRD-00000795,Field Notes Journal 000795,SKU-0000795,Harborline,Office,98.83,2024-07-12T22:19:07+00:00,partner_feed
+PRD-00000796,Summit Trail Bottle 000796,SKU-0000796,Summit Works,Accessories,498.86,2024-05-09T01:10:40+00:00,crm_south
+PRD-00000797,Summit Trail Bottle 000797,SKU-0000797,Summit Works,Beverage,372.78,2024-07-27T06:40:57+00:00,retail_portal
+PRD-00000798,Field Notes Journal 000798,SKU-0000798,Cedar & Co.,Kitchen,55.34,2024-04-17T05:21:06+00:00,crm_north
+PRD-00000799,Atlas Desk Lamp 000799,SKU-0000799,,Outdoor,70.42,2024-09-28T21:16:16+00:00,retail_portal
+PRD-00000800,Harbor Canvas Tote 000800,SKU-0000800,Summit Works,Outdoor,434.19,2024-12-03T19:29:26+00:00,retail_portal
+PRD-00000801,Lumen Reading Light 000801,SKU-0000801,Cedar & Co.,Accessories,329.18,2025-09-09T01:09:25+00:00,partner_feed
+PRD-00000802,Cedar Blend Coffee 000802,SKU-0000802,Harborline,Beverage,169.54,2024-05-14T15:06:03+00:00,crm_south
+PRD-00000803,Juniper Kitchen Scale 000803,SKU-0000803,Harborline,Office,18.77,2025-01-29T02:25:34+00:00,crm_north
+PRD-00000804,Orchard Storage Basket 000804,SKU-0000804,Cedar & Co.,Home,166.67,2024-07-02T01:59:56+00:00,crm_south
+PRD-00000805,Ridge Running Jacket 000805,SKU-0000805,Cedar & Co.,Kitchen,331.63,2024-12-12T16:02:29+00:00,partner_feed
+PRD-00000806,Summit Trail Bottle 000806,,Harborline,Office,476.17,2024-03-11T01:04:51+00:00,crm_south
+PRD-00000807,Orchard Storage Basket 000807,SKU-0000807,Harborline,Beverage,447.43,2024-08-15T11:19:11+00:00,crm_south
+PRD-00000808,Cove Travel Pouch 000808,SKU-0000808,Harborline,Outdoor,384.33,2024-10-10T18:30:17+00:00,partner_feed
+PRD-00000809,Field Notes Journal 000809,SKU-0000809,Harborline,Beverage,295.21,2024-10-11T15:59:53+00:00,partner_feed
+PRD-00000810,Lumen Reading Light 000810,SKU-0000810,Cedar & Co.,Kitchen,240.41,2024-03-25T02:44:06+00:00,partner_feed
+PRD-00000811,Harbor Canvas Tote 000811,SKU-0000811,Harborline,Kitchen,48.12,2025-11-18T18:16:43+00:00,partner_feed
+PRD-00000812,Cove Travel Pouch 000812,SKU-0000812,Fieldhouse,Accessories,468.97,2024-05-07T07:51:13+00:00,crm_south
+PRD-00000813,Field Notes Journal 000813,SKU-0000813,Summit Works,Accessories,436.04,2024-01-26T01:26:23+00:00,retail_portal
+PRD-00000814,Field Notes Journal 000814,SKU-0000814,Harborline,Accessories,19.68,2024-01-14T21:50:34+00:00,crm_north
+PRD-00000815,Harbor Canvas Tote 000815,SKU-0000815,Northstar,Outdoor,347.15,2024-12-17T11:43:29+00:00,crm_north
+PRD-00000816,Harbor Canvas Tote 000816,SKU-0000816,,Accessories,154.30,2024-06-16T18:14:49+00:00,crm_south
+PRD-00000817,Summit Trail Bottle 000817,SKU-0000817,Fieldhouse,Outdoor,254.10,2024-11-30T19:49:41+00:00,crm_south
+PRD-00000818,Atlas Desk Lamp 000818,SKU-0000818,Summit Works,Accessories,74.76,2024-08-29T14:37:51+00:00,crm_south
+PRD-00000819,Orchard Storage Basket 000819,,Northstar,Office,190.49,2025-01-08T13:33:06+00:00,partner_feed
+PRD-00000820,Juniper Kitchen Scale 000820,SKU-0000820,Cedar & Co.,Beverage,366.36,2025-08-21T21:39:15+00:00,retail_portal
+PRD-00000821,Cove Travel Pouch 000821,SKU-0000821,Fieldhouse,Beverage,19.47,2025-01-04T13:45:29+00:00,retail_portal
+PRD-00000822,Willow Knit Throw 000822,SKU-0000822,Northstar,Kitchen,226.27,2025-12-13T20:19:10+00:00,crm_south
+PRD-00000823,Orchard Storage Basket 000823,SKU-0000823,Fieldhouse,Kitchen,26.70,2025-10-07T03:37:55+00:00,retail_portal
+PRD-00000824,Ridge Running Jacket 000824,SKU-0000824,Northstar,Office,471.10,2025-10-15T23:04:55+00:00,partner_feed
+PRD-00000825,Orchard Storage Basket 000825,SKU-0000825,Fieldhouse,Kitchen,57.56,2024-07-11T18:44:40+00:00,crm_north
+PRD-00000826,Summit Trail Bottle 000826,SKU-0000826,Northstar,Accessories,377.63,2024-12-11T16:15:04+00:00,partner_feed
+PRD-00000827,Juniper Kitchen Scale 000827,SKU-0000827,Summit Works,Accessories,348.24,2024-06-19T16:41:55+00:00,partner_feed
+PRD-00000828,Orchard Storage Basket 000828,SKU-0000828,Northstar,Office,217.58,2025-06-14T21:25:56+00:00,crm_south
+PRD-00000829,Meadow Ceramic Mug 000829,SKU-0000829,Summit Works,Outdoor,229.82,2024-11-17T15:06:28+00:00,retail_portal
+PRD-00000830,Harbor Canvas Tote 000830,SKU-0000830,Northstar,Beverage,269.24,2025-07-01T20:00:05+00:00,partner_feed
+PRD-00000831,Ridge Running Jacket 000831,SKU-0000831,Northstar,Outdoor,109.92,2025-06-27T06:54:25+00:00,crm_north
+PRD-00000832,Cedar Blend Coffee 000832,,Cedar & Co.,Kitchen,234.61,2025-07-11T03:27:27+00:00,retail_portal
+PRD-00000833,Atlas Desk Lamp 000833,SKU-0000833,,Kitchen,441.22,2025-10-11T23:12:33+00:00,crm_north
+PRD-00000834,Field Notes Journal 000834,SKU-0000834,Northstar,Outdoor,450.18,2024-11-07T03:08:04+00:00,partner_feed
+PRD-00000835,Cedar Blend Coffee 000835,SKU-0000835,Harborline,Beverage,232.29,2024-07-07T00:29:06+00:00,crm_north
+PRD-00000836,Atlas Desk Lamp 000836,SKU-0000836,Harborline,Office,384.56,2025-05-18T19:12:22+00:00,crm_north
+PRD-00000837,Juniper Kitchen Scale 000837,SKU-0000837,Fieldhouse,Kitchen,330.72,2025-11-11T12:12:55+00:00,partner_feed
+PRD-00000838,Summit Trail Bottle 000838,SKU-0000838,Northstar,Kitchen,426.60,2025-11-22T17:01:23+00:00,retail_portal
+PRD-00000839,Meadow Ceramic Mug 000839,SKU-0000839,Fieldhouse,Beverage,443.00,2024-09-06T17:09:23+00:00,crm_south
+PRD-00000840,Meadow Ceramic Mug 000840,SKU-0000840,Northstar,Home,377.20,2024-07-19T05:06:46+00:00,crm_south
+PRD-00000841,Meadow Ceramic Mug 000841,SKU-0000841,Summit Works,Home,252.75,2025-04-11T22:09:24+00:00,crm_south
+PRD-00000842,Ridge Running Jacket 000842,SKU-0000842,Cedar & Co.,Beverage,280.46,2025-03-29T16:03:02+00:00,retail_portal
+PRD-00000843,Lumen Reading Light 000843,SKU-0000843,Northstar,Home,238.65,2024-12-01T23:20:04+00:00,crm_south
+PRD-00000844,Ridge Running Jacket 000844,SKU-0000844,Harborline,Home,177.07,2025-04-22T15:29:27+00:00,retail_portal
+PRD-00000845,Harbor Canvas Tote 000845,,Cedar & Co.,Home,80.12,2025-03-06T01:30:43+00:00,retail_portal
+PRD-00000846,Cedar Blend Coffee 000846,SKU-0000846,Fieldhouse,Home,205.73,2025-09-05T19:53:42+00:00,partner_feed
+PRD-00000847,Harbor Canvas Tote 000847,SKU-0000847,Harborline,Beverage,143.80,2024-11-12T12:34:05+00:00,crm_south
+PRD-00000848,Summit Trail Bottle 000848,SKU-0000848,Cedar & Co.,Accessories,374.15,2025-06-15T09:35:13+00:00,crm_north
+PRD-00000849,Willow Knit Throw 000849,SKU-0000849,Summit Works,Beverage,56.21,2025-02-07T19:58:26+00:00,crm_north
+PRD-00000850,Atlas Desk Lamp 000850,SKU-0000850,,Kitchen,482.83,2025-08-18T12:58:15+00:00,retail_portal
+PRD-00000851,Ridge Running Jacket 000851,SKU-0000851,Northstar,Beverage,138.65,2025-07-01T02:01:29+00:00,crm_north
+PRD-00000852,Cove Travel Pouch 000852,SKU-0000852,Harborline,Office,423.84,2025-02-10T12:18:16+00:00,crm_south
+PRD-00000853,Field Notes Journal 000853,SKU-0000853,Harborline,Kitchen,378.76,2024-10-05T13:20:05+00:00,crm_north
+PRD-00000854,Meadow Ceramic Mug 000854,SKU-0000854,Summit Works,Outdoor,314.23,2024-09-20T11:34:30+00:00,crm_south
+PRD-00000855,Atlas Desk Lamp 000855,SKU-0000855,Northstar,Outdoor,325.02,2025-05-09T15:09:59+00:00,partner_feed
+PRD-00000856,Field Notes Journal 000856,SKU-0000856,Summit Works,Kitchen,498.36,2024-04-20T16:17:56+00:00,partner_feed
+PRD-00000857,Willow Knit Throw 000857,SKU-0000857,Cedar & Co.,Home,118.38,2025-08-22T06:13:52+00:00,crm_north
+PRD-00000858,Summit Trail Bottle 000858,,Cedar & Co.,Kitchen,364.65,2024-02-13T05:45:30+00:00,crm_north
+PRD-00000859,Meadow Ceramic Mug 000859,SKU-0000859,Cedar & Co.,Kitchen,19.76,2024-01-29T16:05:36+00:00,retail_portal
+PRD-00000860,Juniper Kitchen Scale 000860,SKU-0000860,Harborline,Office,272.57,2025-08-19T22:02:54+00:00,crm_south
+PRD-00000861,Ridge Running Jacket 000861,SKU-0000861,Harborline,Beverage,362.76,2024-11-04T05:59:06+00:00,retail_portal
+PRD-00000862,Summit Trail Bottle 000862,SKU-0000862,Northstar,Office,204.58,2025-08-17T22:11:10+00:00,crm_south
+PRD-00000863,Cedar Blend Coffee 000863,SKU-0000863,Cedar & Co.,Home,150.15,2025-01-01T23:17:52+00:00,partner_feed
+PRD-00000864,Lumen Reading Light 000864,SKU-0000864,Fieldhouse,Outdoor,340.70,2025-06-12T13:30:26+00:00,crm_north
+PRD-00000865,Juniper Kitchen Scale 000865,SKU-0000865,Cedar & Co.,Home,195.10,2025-05-12T00:48:50+00:00,crm_south
+PRD-00000866,Meadow Ceramic Mug 000866,SKU-0000866,Summit Works,Kitchen,213.31,2024-12-10T15:53:19+00:00,retail_portal
+PRD-00000867,Cedar Blend Coffee 000867,SKU-0000867,,Accessories,54.61,2024-02-29T07:29:01+00:00,partner_feed
+PRD-00000868,Orchard Storage Basket 000868,SKU-0000868,Harborline,Home,330.17,2024-10-31T20:25:03+00:00,crm_south
+PRD-00000869,Cedar Blend Coffee 000869,SKU-0000869,Harborline,Office,387.29,2025-05-01T07:33:59+00:00,retail_portal
+PRD-00000870,Willow Knit Throw 000870,SKU-0000870,Fieldhouse,Accessories,92.29,2024-12-12T03:54:36+00:00,partner_feed
+PRD-00000871,Cove Travel Pouch 000871,,Summit Works,Accessories,376.23,2024-04-29T04:06:33+00:00,partner_feed
+PRD-00000872,Atlas Desk Lamp 000872,SKU-0000872,Cedar & Co.,Kitchen,109.47,2024-06-30T09:24:44+00:00,crm_north
+PRD-00000873,Willow Knit Throw 000873,SKU-0000873,Cedar & Co.,Accessories,275.69,2024-03-30T13:35:04+00:00,crm_south
+PRD-00000874,Cedar Blend Coffee 000874,SKU-0000874,Cedar & Co.,Office,464.24,2025-06-07T06:14:25+00:00,partner_feed
+PRD-00000875,Atlas Desk Lamp 000875,SKU-0000875,Harborline,Kitchen,237.15,2024-02-23T05:17:44+00:00,partner_feed
+PRD-00000876,Harbor Canvas Tote 000876,SKU-0000876,Cedar & Co.,Kitchen,96.84,2025-01-18T07:25:59+00:00,partner_feed
+PRD-00000877,Cedar Blend Coffee 000877,SKU-0000877,Summit Works,Outdoor,49.56,2024-09-05T16:40:03+00:00,crm_south
+PRD-00000878,Lumen Reading Light 000878,SKU-0000878,Harborline,Home,129.12,2024-07-06T11:12:15+00:00,retail_portal
+PRD-00000879,Meadow Ceramic Mug 000879,SKU-0000879,Harborline,Office,150.74,2024-05-16T18:21:09+00:00,retail_portal
+PRD-00000880,Cedar Blend Coffee 000880,SKU-0000880,Harborline,Home,438.59,2024-11-11T13:42:34+00:00,retail_portal
+PRD-00000881,Atlas Desk Lamp 000881,SKU-0000881,Northstar,Beverage,77.44,2024-02-19T04:54:44+00:00,crm_south
+PRD-00000882,Atlas Desk Lamp 000882,SKU-0000882,Harborline,Kitchen,237.31,2024-10-23T15:22:37+00:00,retail_portal
+PRD-00000883,Cedar Blend Coffee 000883,SKU-0000883,Northstar,Beverage,27.87,2025-11-06T05:13:55+00:00,retail_portal
+PRD-00000884,Juniper Kitchen Scale 000884,,,Office,208.71,2024-02-16T03:04:12+00:00,crm_north
+PRD-00000885,Harbor Canvas Tote 000885,SKU-0000885,Harborline,Outdoor,417.01,2025-01-26T08:49:23+00:00,retail_portal
+PRD-00000886,Orchard Storage Basket 000886,SKU-0000886,Fieldhouse,Beverage,313.84,2025-12-03T12:02:02+00:00,crm_south
+PRD-00000887,Field Notes Journal 000887,SKU-0000887,Summit Works,Office,322.90,2024-06-19T12:46:56+00:00,partner_feed
+PRD-00000888,Field Notes Journal 000888,SKU-0000888,Cedar & Co.,Accessories,231.81,2025-03-19T04:04:06+00:00,retail_portal
+PRD-00000889,Willow Knit Throw 000889,SKU-0000889,Fieldhouse,Outdoor,167.85,2024-11-01T05:35:18+00:00,partner_feed
+PRD-00000890,Cove Travel Pouch 000890,SKU-0000890,Harborline,Outdoor,412.93,2025-03-26T02:46:43+00:00,crm_north
+PRD-00000891,Cedar Blend Coffee 000891,SKU-0000891,Northstar,Home,168.57,2025-03-10T07:42:48+00:00,retail_portal
+PRD-00000892,Atlas Desk Lamp 000892,SKU-0000892,Harborline,Office,169.55,2024-12-03T15:52:21+00:00,crm_south
+PRD-00000893,Field Notes Journal 000893,SKU-0000893,Northstar,Office,55.09,2025-05-23T18:14:30+00:00,crm_north
+PRD-00000894,Meadow Ceramic Mug 000894,SKU-0000894,Cedar & Co.,Beverage,35.07,2024-12-24T01:33:32+00:00,retail_portal
+PRD-00000895,Lumen Reading Light 000895,SKU-0000895,Harborline,Office,317.73,2024-07-12T13:30:40+00:00,crm_north
+PRD-00000896,Lumen Reading Light 000896,SKU-0000896,Cedar & Co.,Office,443.21,2024-02-07T03:54:57+00:00,partner_feed
+PRD-00000897,Willow Knit Throw 000897,,Summit Works,Accessories,490.14,2025-03-02T22:29:13+00:00,crm_south
+PRD-00000898,Willow Knit Throw 000898,SKU-0000898,Fieldhouse,Accessories,269.66,2024-01-14T19:57:40+00:00,retail_portal
+PRD-00000899,Willow Knit Throw 000899,SKU-0000899,Northstar,Beverage,222.41,2025-03-23T15:38:05+00:00,crm_south
+PRD-00000900,Orchard Storage Basket 000900,SKU-0000900,Summit Works,Kitchen,222.20,2025-12-02T03:26:42+00:00,partner_feed
+PRD-00000901,Atlas Desk Lamp 000901,SKU-0000901,,Office,107.24,2025-07-05T03:42:26+00:00,partner_feed
+PRD-00000902,Harbor Canvas Tote 000902,SKU-0000902,Summit Works,Office,185.45,2025-03-23T07:05:37+00:00,retail_portal
+PRD-00000903,Meadow Ceramic Mug 000903,SKU-0000903,Harborline,Beverage,212.45,2024-07-23T06:32:38+00:00,crm_north
+PRD-00000904,Cove Travel Pouch 000904,SKU-0000904,Cedar & Co.,Accessories,472.20,2025-11-20T19:52:42+00:00,crm_north
+PRD-00000905,Cove Travel Pouch 000905,SKU-0000905,Harborline,Accessories,98.88,2024-02-12T04:21:52+00:00,partner_feed
+PRD-00000906,Field Notes Journal 000906,SKU-0000906,Harborline,Outdoor,393.64,2025-02-28T21:59:52+00:00,crm_north
+PRD-00000907,Juniper Kitchen Scale 000907,SKU-0000907,Cedar & Co.,Kitchen,315.29,2024-07-21T00:32:15+00:00,crm_south
+PRD-00000908,Harbor Canvas Tote 000908,SKU-0000908,Northstar,Outdoor,101.25,2024-03-07T19:47:24+00:00,crm_north
+PRD-00000909,Willow Knit Throw 000909,SKU-0000909,Northstar,Home,16.82,2024-04-16T16:40:21+00:00,crm_north
+PRD-00000910,Juniper Kitchen Scale 000910,,Harborline,Office,446.99,2024-10-13T05:38:35+00:00,retail_portal
+PRD-00000911,Atlas Desk Lamp 000911,SKU-0000911,Cedar & Co.,Home,192.35,2024-08-29T06:18:16+00:00,crm_south
+PRD-00000912,Ridge Running Jacket 000912,SKU-0000912,Northstar,Kitchen,470.74,2025-09-08T23:51:38+00:00,retail_portal
+PRD-00000913,Cedar Blend Coffee 000913,SKU-0000913,Harborline,Outdoor,497.21,2024-11-13T17:28:43+00:00,retail_portal
+PRD-00000914,Field Notes Journal 000914,SKU-0000914,Cedar & Co.,Beverage,305.73,2024-10-17T08:44:47+00:00,partner_feed
+PRD-00000915,Orchard Storage Basket 000915,SKU-0000915,Harborline,Home,304.14,2024-04-28T18:59:08+00:00,retail_portal
+PRD-00000916,Juniper Kitchen Scale 000916,SKU-0000916,Cedar & Co.,Kitchen,40.62,2025-12-24T19:56:52+00:00,crm_south
+PRD-00000917,Summit Trail Bottle 000917,SKU-0000917,Summit Works,Office,43.24,2024-01-11T23:18:52+00:00,crm_south
+PRD-00000918,Willow Knit Throw 000918,SKU-0000918,,Office,399.44,2024-05-02T13:44:29+00:00,crm_south
+PRD-00000919,Meadow Ceramic Mug 000919,SKU-0000919,Cedar & Co.,Office,469.49,2024-08-10T16:52:05+00:00,crm_north
+PRD-00000920,Field Notes Journal 000920,SKU-0000920,Fieldhouse,Kitchen,186.20,2024-12-21T02:32:21+00:00,crm_south
+PRD-00000921,Meadow Ceramic Mug 000921,SKU-0000921,Summit Works,Accessories,279.03,2024-07-25T23:27:38+00:00,crm_north
+PRD-00000922,Cove Travel Pouch 000922,SKU-0000922,Cedar & Co.,Beverage,221.33,2025-08-25T15:00:21+00:00,crm_south
+PRD-00000923,Cedar Blend Coffee 000923,,Cedar & Co.,Beverage,13.50,2024-02-25T07:32:38+00:00,partner_feed
+PRD-00000924,Ridge Running Jacket 000924,SKU-0000924,Harborline,Kitchen,322.11,2025-12-06T08:44:13+00:00,partner_feed
+PRD-00000925,Willow Knit Throw 000925,SKU-0000925,Fieldhouse,Home,231.75,2025-11-14T17:26:22+00:00,crm_south
+PRD-00000926,Harbor Canvas Tote 000926,SKU-0000926,Summit Works,Office,416.93,2024-07-30T01:00:24+00:00,crm_south
+PRD-00000927,Harbor Canvas Tote 000927,SKU-0000927,Cedar & Co.,Beverage,309.42,2025-09-19T08:29:09+00:00,crm_south
+PRD-00000928,Field Notes Journal 000928,SKU-0000928,Cedar & Co.,Accessories,336.16,2024-01-27T07:13:44+00:00,partner_feed
+PRD-00000929,Atlas Desk Lamp 000929,SKU-0000929,Harborline,Accessories,157.01,2025-08-28T16:04:19+00:00,partner_feed
+PRD-00000930,Lumen Reading Light 000930,SKU-0000930,Northstar,Office,145.91,2024-12-08T07:56:17+00:00,crm_south
+PRD-00000931,Cove Travel Pouch 000931,SKU-0000931,Cedar & Co.,Outdoor,467.84,2025-10-29T16:37:27+00:00,crm_north
+PRD-00000932,Harbor Canvas Tote 000932,SKU-0000932,Fieldhouse,Office,46.97,2024-04-08T14:36:25+00:00,retail_portal
+PRD-00000933,Field Notes Journal 000933,SKU-0000933,Northstar,Accessories,11.91,2025-04-15T06:57:07+00:00,retail_portal
+PRD-00000934,Meadow Ceramic Mug 000934,SKU-0000934,Summit Works,Accessories,192.12,2025-02-27T19:56:01+00:00,retail_portal
+PRD-00000935,Cedar Blend Coffee 000935,SKU-0000935,,Outdoor,213.75,2024-03-21T14:10:35+00:00,partner_feed
+PRD-00000936,Meadow Ceramic Mug 000936,,Summit Works,Office,272.13,2025-05-19T08:16:50+00:00,crm_north
+PRD-00000937,Orchard Storage Basket 000937,SKU-0000937,Northstar,Kitchen,460.77,2025-05-21T13:54:11+00:00,crm_south
+PRD-00000938,Atlas Desk Lamp 000938,SKU-0000938,Summit Works,Home,261.82,2024-11-04T09:16:22+00:00,partner_feed
+PRD-00000939,Lumen Reading Light 000939,SKU-0000939,Harborline,Outdoor,274.33,2024-11-09T14:42:48+00:00,partner_feed
+PRD-00000940,Meadow Ceramic Mug 000940,SKU-0000940,Harborline,Office,386.81,2024-12-24T14:52:51+00:00,crm_north
+PRD-00000941,Willow Knit Throw 000941,SKU-0000941,Harborline,Kitchen,273.13,2025-09-08T10:49:51+00:00,partner_feed
+PRD-00000942,Ridge Running Jacket 000942,SKU-0000942,Northstar,Office,398.49,2024-07-19T09:03:51+00:00,partner_feed
+PRD-00000943,Cove Travel Pouch 000943,SKU-0000943,Cedar & Co.,Beverage,49.55,2025-12-04T20:33:14+00:00,partner_feed
+PRD-00000944,Summit Trail Bottle 000944,SKU-0000944,Cedar & Co.,Home,426.90,2025-12-13T02:11:36+00:00,crm_south
+PRD-00000945,Field Notes Journal 000945,SKU-0000945,Cedar & Co.,Beverage,188.18,2024-08-21T12:26:01+00:00,crm_south
+PRD-00000946,Cedar Blend Coffee 000946,SKU-0000946,Northstar,Beverage,394.00,2024-11-14T13:30:56+00:00,crm_north
+PRD-00000947,Harbor Canvas Tote 000947,SKU-0000947,Summit Works,Home,76.88,2024-06-22T14:15:33+00:00,crm_north
+PRD-00000948,Atlas Desk Lamp 000948,SKU-0000948,Northstar,Office,120.52,2025-03-16T06:35:14+00:00,retail_portal
+PRD-00000949,Cove Travel Pouch 000949,,Harborline,Kitchen,263.94,2025-04-07T12:53:44+00:00,crm_south
+PRD-00000950,Orchard Storage Basket 000950,SKU-0000950,Fieldhouse,Outdoor,172.78,2025-10-17T03:39:55+00:00,partner_feed
+PRD-00000951,Cedar Blend Coffee 000951,,,Office,127.04,2025-04-12T07:47:35+00:00,crm_south
+PRD-00000952,Cedar Blend Coffee 000951,,,Office,127.04,2025-04-12T07:47:35+00:00,partner_feed
+PRD-00000953,Summit Trail Bottle 000953,SKU-0000953,Northstar,Kitchen,82.37,2024-09-13T15:22:53+00:00,retail_portal
+PRD-00000954,Summit Trail Bottle 000953,SKU-0000953,Northstar,Kitchen,82.37,2024-09-13T15:22:53+00:00,partner_feed
+PRD-00000955,Harbor Canvas Tote 000955,SKU-0000955,Cedar & Co.,Office,439.06,2025-05-13T09:54:06+00:00,crm_north
+PRD-00000956,Harbor Canvas Tote 000955,SKU-0000955,Cedar & Co.,Office,439.06,2025-05-13T09:54:06+00:00,crm_south
+PRD-00000957,Cove Travel Pouch 000957,SKU-0000957,Harborline,Kitchen,125.70,2024-11-20T15:36:56+00:00,crm_north
+PRD-00000958,Cove Travel Pouch 000957,SKU-0000957,Harborline,Kitchen,125.70,2024-11-20T15:36:56+00:00,partner_feed
+PRD-00000959,Willow Knit Throw 000959,SKU-0000959,Fieldhouse,Office,343.93,2024-01-08T21:04:53+00:00,crm_north
+PRD-00000960,Willow Knit Throw 000959,SKU-0000959,Fieldhouse,Office,343.93,2024-01-08T21:04:53+00:00,crm_south
+PRD-00000961,Summit Trail Bottle 000961,SKU-0000961,Fieldhouse,Home,248.68,2025-08-22T11:13:54+00:00,partner_feed
+PRD-00000962,Summit Trail Bottle 000961,SKU-0000961,Fieldhouse,Home,248.68,2025-08-22T11:13:54+00:00,crm_north
+PRD-00000963,Harbor Canvas Tote 000963,SKU-0000963,Fieldhouse,Outdoor,496.79,2025-10-17T01:02:04+00:00,retail_portal
+PRD-00000964,Harbor Canvas Tote 000963,SKU-0000963,Fieldhouse,Outdoor,496.79,2025-10-17T01:02:04+00:00,partner_feed
+PRD-00000965,Willow Knit Throw 000965,SKU-0000965,Fieldhouse,Kitchen,47.13,2025-10-16T06:07:07+00:00,retail_portal
+PRD-00000966,Willow Knit Throw 000965,SKU-0000965,Fieldhouse,Kitchen,47.13,2025-10-16T06:07:07+00:00,crm_south
+PRD-00000967,Harbor Canvas Tote 000967,SKU-0000967,Northstar,Accessories,348.57,2025-04-02T21:48:47+00:00,retail_portal
+PRD-00000968,Harbor Canvas Tote 000967,SKU-0000967,Northstar,Accessories,348.57,2025-04-02T21:48:47+00:00,crm_north
+PRD-00000969,Willow Knit Throw 000969,SKU-0000969,,Office,357.11,2025-11-04T04:30:27+00:00,retail_portal
+PRD-00000970,Willow Knit Throw 000969,SKU-0000969,,Office,357.11,2025-11-04T04:30:27+00:00,crm_south
+PRD-00000971,Cove Travel Pouch 000971,SKU-0000971,Northstar,Beverage,452.16,2025-05-19T16:36:51+00:00,crm_north
+PRD-00000972,Cove Travel Pouch 000971 Edition,SKU-0000971,Northstar,Beverage,452.91,2025-05-19T16:36:51+00:00,crm_north
+PRD-00000973,Willow Knit Throw 000973,SKU-0000973,Harborline,Beverage,45.69,2024-05-03T20:06:08+00:00,crm_south
+PRD-00000974,Willow Knit Throw 000973 Edition,SKU-0000973,Harborline,Beverage,45.69,2024-05-03T20:06:08+00:00,crm_south
+PRD-00000975,Cove Travel Pouch 000975,,Fieldhouse,Outdoor,268.32,2025-12-18T02:17:39+00:00,crm_north
+PRD-00000976,Cove Travel Pouch 000975 Edition,,Fieldhouse,Outdoor,268.32,2025-12-18T02:17:39+00:00,crm_north
+PRD-00000977,Juniper Kitchen Scale 000977,SKU-0000977,Harborline,Beverage,365.54,2024-03-10T00:11:08+00:00,crm_north
+PRD-00000978,Juniper Kitchen Scale 000977 Edition,SKU-0000977,Harborline,Beverage,365.54,2024-03-10T00:11:08+00:00,crm_north
+PRD-00000979,Harbor Canvas Tote 000979,SKU-0000979,Fieldhouse,Accessories,354.07,2025-10-27T02:47:13+00:00,crm_north
+PRD-00000980,Harbor Canvas Tote 000979 Edition,SKU-0000979,Fieldhouse,Accessories,354.07,2025-10-27T02:47:13+00:00,crm_north
+PRD-00000981,Cedar Blend Coffee 000981,SKU-0000981,Harborline,Kitchen,58.54,2025-04-02T07:23:30+00:00,retail_portal
+PRD-00000982,Cedar Blend Coffee 000981 Edition,SKU-0000981,Harborline,Kitchen,58.54,2025-04-02T07:23:30+00:00,retail_portal
+PRD-00000983,Orchard Storage Basket 000983,SKU-0000983,Northstar,Office,104.19,2025-09-07T17:04:07+00:00,partner_feed
+PRD-00000984,Orchard Storage Basket 000983 Edition,SKU-0000983,Northstar,Office,104.19,2025-09-07T17:04:07+00:00,partner_feed
+PRD-00000985,Juniper Kitchen Scale 000985,SKU-0000985,Northstar,Kitchen,420.34,2025-09-25T07:39:49+00:00,crm_north
+PRD-00000986,Juniper Kitchen Scale 000985 Edition,SKU-0000985,Northstar,Kitchen,420.34,2025-09-25T07:39:49+00:00,crm_north
+PRD-00000987,Juniper Kitchen Scale 000987,SKU-0000987,Fieldhouse,Outdoor,117.65,2024-05-06T22:14:27+00:00,retail_portal
+PRD-00000988,Juniper Kitchen Scale 000987 Edition,SKU-0000987,Fieldhouse,Outdoor,117.65,2024-05-06T22:14:27+00:00,retail_portal
+PRD-00000989,Cedar Blend Coffee 000989,SKU-0000989,Fieldhouse,Accessories,315.61,2024-04-26T10:24:47+00:00,retail_portal
+PRD-00000990,Cedar Blend Coffee 000989 Edition,SKU-0000989,Fieldhouse,Accessories,315.61,2024-04-26T10:24:47+00:00,retail_portal
+PRD-00000991,,SKU-0000991,Fieldhouse,Accessories,465.96,2024-05-17T09:13:04+00:00,crm_north
+PRD-00000992,Harbor Canvas Tote 000992,SKU-0000992,Cedar & Co.,Beverage,451.03,,partner_feed
+PRD-00000993,Orchard Storage Basket 000993,SKU-0000993,Northstar,Kitchen,166.98,2024-01-05T20:44:40+00:00,
+PRD-00000994,,SKU-0000994,Cedar & Co.,Office,133.66,2024-04-30T17:52:42+00:00,crm_north
+PRD-00000995,Willow Knit Throw 000995,SKU-0000995,Northstar,Beverage,52.89,,crm_north
+PRD-00000996,Cedar Blend Coffee 000996,SKU-0000996,Summit Works,Office,445.35,2025-09-30T22:46:03+00:00,
+PRD-00000997,,SKU-0000997,Fieldhouse,Beverage,331.09,2024-06-27T11:20:02+00:00,crm_south
+PRD-00000998,Orchard Storage Basket 000998,SKU-0000998,Summit Works,Accessories,268.86,,crm_north
+PRD-00000999,Meadow Ceramic Mug 000999,SKU-0000999,Fieldhouse,Accessories,43.74,2025-03-08T17:09:07+00:00,
+PRD-00001000,,SKU-0001000,Summit Works,Home,328.90,2025-01-16T23:05:06+00:00,crm_south

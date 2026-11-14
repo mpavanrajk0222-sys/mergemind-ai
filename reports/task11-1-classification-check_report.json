@@ -1,0 +1,5020 @@
+{
+  "completed_at": "2026-11-14T10:59:36.352377+00:00",
+  "customer_metrics": {
+    "data_quality_issue_count": 10,
+    "errors": 0,
+    "exact_duplicate_groups": 9,
+    "exact_duplicate_pairs": 9,
+    "master_records_created": 971,
+    "no_match_candidate_pairs": 1920,
+    "operational_error_count": 0,
+    "records_accepted": 990,
+    "records_ingested": 1000,
+    "records_rejected": 10,
+    "review_required_pairs": 1,
+    "strong_probable_matches": 10,
+    "unresolved_conflicts": 11
+  },
+  "data_quality_issue_count": 20,
+  "data_quality_issues": [
+    {
+      "entity_type": "customer",
+      "source_file": "customers.csv",
+      "source_record_id": "CUS-00000991",
+      "source_record_number": 991,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "name",
+          "message": "Required field 'name' must not be empty or whitespace-only."
+        }
+      ]
+    },
+    {
+      "entity_type": "customer",
+      "source_file": "customers.csv",
+      "source_record_id": "CUS-00000992",
+      "source_record_number": 992,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "updated_at",
+          "message": "Required field 'updated_at' must not be empty or whitespace-only."
+        }
+      ]
+    },
+    {
+      "entity_type": "customer",
+      "source_file": "customers.csv",
+      "source_record_id": "CUS-00000993",
+      "source_record_number": 993,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "source_system",
+          "message": "Required field 'source_system' must not be empty or whitespace-only."
+        }
+      ]
+    },
+    {
+      "entity_type": "customer",
+      "source_file": "customers.csv",
+      "source_record_id": "CUS-00000994",
+      "source_record_number": 994,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "name",
+          "message": "Required field 'name' must not be empty or whitespace-only."
+        }
+      ]
+    },
+    {
+      "entity_type": "customer",
+      "source_file": "customers.csv",
+      "source_record_id": "CUS-00000995",
+      "source_record_number": 995,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "updated_at",
+          "message": "Required field 'updated_at' must not be empty or whitespace-only."
+        }
+      ]
+    },
+    {
+      "entity_type": "customer",
+      "source_file": "customers.csv",
+      "source_record_id": "CUS-00000996",
+      "source_record_number": 996,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "source_system",
+          "message": "Required field 'source_system' must not be empty or whitespace-only."
+        }
+      ]
+    },
+    {
+      "entity_type": "customer",
+      "source_file": "customers.csv",
+      "source_record_id": "CUS-00000997",
+      "source_record_number": 997,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "name",
+          "message": "Required field 'name' must not be empty or whitespace-only."
+        }
+      ]
+    },
+    {
+      "entity_type": "customer",
+      "source_file": "customers.csv",
+      "source_record_id": "CUS-00000998",
+      "source_record_number": 998,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "updated_at",
+          "message": "Required field 'updated_at' must not be empty or whitespace-only."
+        }
+      ]
+    },
+    {
+      "entity_type": "customer",
+      "source_file": "customers.csv",
+      "source_record_id": "CUS-00000999",
+      "source_record_number": 999,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "source_system",
+          "message": "Required field 'source_system' must not be empty or whitespace-only."
+        }
+      ]
+    },
+    {
+      "entity_type": "customer",
+      "source_file": "customers.csv",
+      "source_record_id": "CUS-00001000",
+      "source_record_number": 1000,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "name",
+          "message": "Required field 'name' must not be empty or whitespace-only."
+        }
+      ]
+    },
+    {
+      "entity_type": "product",
+      "source_file": "products.csv",
+      "source_record_id": "PRD-00000991",
+      "source_record_number": 991,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "product_name",
+          "message": "Required field 'product_name' must not be empty or whitespace-only."
+        }
+      ]
+    },
+    {
+      "entity_type": "product",
+      "source_file": "products.csv",
+      "source_record_id": "PRD-00000992",
+      "source_record_number": 992,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "updated_at",
+          "message": "Required field 'updated_at' must not be empty or whitespace-only."
+        }
+      ]
+    },
+    {
+      "entity_type": "product",
+      "source_file": "products.csv",
+      "source_record_id": "PRD-00000993",
+      "source_record_number": 993,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "source_system",
+          "message": "Required field 'source_system' must not be empty or whitespace-only."
+        }
+      ]
+    },
+    {
+      "entity_type": "product",
+      "source_file": "products.csv",
+      "source_record_id": "PRD-00000994",
+      "source_record_number": 994,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "product_name",
+          "message": "Required field 'product_name' must not be empty or whitespace-only."
+        }
+      ]
+    },
+    {
+      "entity_type": "product",
+      "source_file": "products.csv",
+      "source_record_id": "PRD-00000995",
+      "source_record_number": 995,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "updated_at",
+          "message": "Required field 'updated_at' must not be empty or whitespace-only."
+        }
+      ]
+    },
+    {
+      "entity_type": "product",
+      "source_file": "products.csv",
+      "source_record_id": "PRD-00000996",
+      "source_record_number": 996,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "source_system",
+          "message": "Required field 'source_system' must not be empty or whitespace-only."
+        }
+      ]
+    },
+    {
+      "entity_type": "product",
+      "source_file": "products.csv",
+      "source_record_id": "PRD-00000997",
+      "source_record_number": 997,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "product_name",
+          "message": "Required field 'product_name' must not be empty or whitespace-only."
+        }
+      ]
+    },
+    {
+      "entity_type": "product",
+      "source_file": "products.csv",
+      "source_record_id": "PRD-00000998",
+      "source_record_number": 998,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "updated_at",
+          "message": "Required field 'updated_at' must not be empty or whitespace-only."
+        }
+      ]
+    },
+    {
+      "entity_type": "product",
+      "source_file": "products.csv",
+      "source_record_id": "PRD-00000999",
+      "source_record_number": 999,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "source_system",
+          "message": "Required field 'source_system' must not be empty or whitespace-only."
+        }
+      ]
+    },
+    {
+      "entity_type": "product",
+      "source_file": "products.csv",
+      "source_record_id": "PRD-00001000",
+      "source_record_number": 1000,
+      "validation_errors": [
+        {
+          "error_code": "EMPTY_REQUIRED_FIELD",
+          "field_name": "product_name",
+          "message": "Required field 'product_name' must not be empty or whitespace-only."
+        }
+      ]
+    }
+  ],
+  "database_persistence_counts": {
+    "duplicate_decisions_submitted": 14448,
+    "duplicate_pair_rows": 14448,
+    "field_lineage_rows": 11646,
+    "master_record_rows": 1941,
+    "master_records_submitted": 1941,
+    "pipeline_error_rows": 0,
+    "pipeline_errors_submitted": 0,
+    "pipeline_run_rows": 1,
+    "source_record_rows": 2000,
+    "source_records_submitted": 2000
+  },
+  "errors": [],
+  "execution_duration_seconds": 4.911342,
+  "operational_error_count": 0,
+  "operational_errors": [],
+  "product_metrics": {
+    "data_quality_issue_count": 10,
+    "errors": 0,
+    "exact_duplicate_groups": 9,
+    "exact_duplicate_pairs": 9,
+    "master_records_created": 970,
+    "no_match_candidate_pairs": 12041,
+    "operational_error_count": 0,
+    "records_accepted": 990,
+    "records_ingested": 1000,
+    "records_rejected": 10,
+    "review_required_pairs": 435,
+    "strong_probable_matches": 23,
+    "unresolved_conflicts": 456
+  },
+  "rejected_record_count": 20,
+  "run_id": "task11-1-classification-check",
+  "stage_durations_seconds": {
+    "create_master_records": 0.2486,
+    "create_pipeline_run": 0.013542,
+    "detect_exact_duplicates": 0.093552,
+    "detect_probable_duplicates": 0.468492,
+    "generate_report": 0.034787,
+    "ingest": 0.029436,
+    "initialize_database": 0.014956,
+    "normalize": 0.032856,
+    "persist_duplicate_decisions": 1.559935,
+    "persist_master_records_and_lineage": 2.127926,
+    "persist_pipeline_errors": 0.007481,
+    "persist_source_records": 0.185248,
+    "update_run_status_and_summary": 0.010626,
+    "validate": 0.032908
+  },
+  "stage_order": [
+    "initialize_database",
+    "create_pipeline_run",
+    "ingest",
+    "validate",
+    "normalize",
+    "detect_exact_duplicates",
+    "detect_probable_duplicates",
+    "create_master_records",
+    "persist_source_records",
+    "persist_duplicate_decisions",
+    "persist_master_records_and_lineage",
+    "persist_pipeline_errors",
+    "update_run_status_and_summary",
+    "generate_report"
+  ],
+  "started_at": "2026-11-14T10:59:31.537638+00:00",
+  "status": "COMPLETED",
+  "unresolved_conflicts": [
+    {
+      "conflict_code": "EXACT_DETECTION_CONFLICT",
+      "entity_type": "customer",
+      "explanation": "The same normalized email and phone are associated with conflicting normalized names.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "CUS-00000971",
+        "CUS-00000972"
+      ]
+    },
+    {
+      "conflict_code": "EXACT_DETECTION_CONFLICT",
+      "entity_type": "customer",
+      "explanation": "The same normalized email and phone are associated with conflicting normalized names.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "CUS-00000973",
+        "CUS-00000974"
+      ]
+    },
+    {
+      "conflict_code": "EXACT_DETECTION_CONFLICT",
+      "entity_type": "customer",
+      "explanation": "The same normalized email and phone are associated with conflicting normalized names.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "CUS-00000975",
+        "CUS-00000976"
+      ]
+    },
+    {
+      "conflict_code": "EXACT_DETECTION_CONFLICT",
+      "entity_type": "customer",
+      "explanation": "The same normalized email and phone are associated with conflicting normalized names.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "CUS-00000977",
+        "CUS-00000978"
+      ]
+    },
+    {
+      "conflict_code": "EXACT_DETECTION_CONFLICT",
+      "entity_type": "customer",
+      "explanation": "The same normalized email and phone are associated with conflicting normalized names.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "CUS-00000979",
+        "CUS-00000980"
+      ]
+    },
+    {
+      "conflict_code": "EXACT_DETECTION_CONFLICT",
+      "entity_type": "customer",
+      "explanation": "The same normalized email and phone are associated with conflicting normalized names.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "CUS-00000981",
+        "CUS-00000982"
+      ]
+    },
+    {
+      "conflict_code": "EXACT_DETECTION_CONFLICT",
+      "entity_type": "customer",
+      "explanation": "The same normalized email and phone are associated with conflicting normalized names.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "CUS-00000983",
+        "CUS-00000984"
+      ]
+    },
+    {
+      "conflict_code": "EXACT_DETECTION_CONFLICT",
+      "entity_type": "customer",
+      "explanation": "The same normalized email and phone are associated with conflicting normalized names.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "CUS-00000985",
+        "CUS-00000986"
+      ]
+    },
+    {
+      "conflict_code": "EXACT_DETECTION_CONFLICT",
+      "entity_type": "customer",
+      "explanation": "The same normalized email and phone are associated with conflicting normalized names.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "CUS-00000987",
+        "CUS-00000988"
+      ]
+    },
+    {
+      "conflict_code": "EXACT_DETECTION_CONFLICT",
+      "entity_type": "customer",
+      "explanation": "The same normalized email and phone are associated with conflicting normalized names.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "CUS-00000989",
+        "CUS-00000990"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "customer",
+      "explanation": "Shared contact evidence is present, but similarity, confidence, or a conflicting attribute prevents an automatic probable match.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "CUS-00000971",
+        "CUS-00000972"
+      ]
+    },
+    {
+      "conflict_code": "AMBIGUOUS_PROBABLE_COMPONENT",
+      "entity_type": "product",
+      "explanation": "This strong probable pair shares a record with another strong pair; pairwise evidence does not justify a transitive master group.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000011",
+        "PRD-00000741"
+      ]
+    },
+    {
+      "conflict_code": "AMBIGUOUS_PROBABLE_COMPONENT",
+      "entity_type": "product",
+      "explanation": "This strong probable pair shares a record with another strong pair; pairwise evidence does not justify a transitive master group.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000050",
+        "PRD-00000156"
+      ]
+    },
+    {
+      "conflict_code": "AMBIGUOUS_PROBABLE_COMPONENT",
+      "entity_type": "product",
+      "explanation": "This strong probable pair shares a record with another strong pair; pairwise evidence does not justify a transitive master group.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000052",
+        "PRD-00000354"
+      ]
+    },
+    {
+      "conflict_code": "AMBIGUOUS_PROBABLE_COMPONENT",
+      "entity_type": "product",
+      "explanation": "This strong probable pair shares a record with another strong pair; pairwise evidence does not justify a transitive master group.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000052",
+        "PRD-00000523"
+      ]
+    },
+    {
+      "conflict_code": "AMBIGUOUS_PROBABLE_COMPONENT",
+      "entity_type": "product",
+      "explanation": "This strong probable pair shares a record with another strong pair; pairwise evidence does not justify a transitive master group.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000128",
+        "PRD-00000741"
+      ]
+    },
+    {
+      "conflict_code": "AMBIGUOUS_PROBABLE_COMPONENT",
+      "entity_type": "product",
+      "explanation": "This strong probable pair shares a record with another strong pair; pairwise evidence does not justify a transitive master group.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000156",
+        "PRD-00000636"
+      ]
+    },
+    {
+      "conflict_code": "AMBIGUOUS_PROBABLE_COMPONENT",
+      "entity_type": "product",
+      "explanation": "This strong probable pair shares a record with another strong pair; pairwise evidence does not justify a transitive master group.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000182",
+        "PRD-00000718"
+      ]
+    },
+    {
+      "conflict_code": "AMBIGUOUS_PROBABLE_COMPONENT",
+      "entity_type": "product",
+      "explanation": "This strong probable pair shares a record with another strong pair; pairwise evidence does not justify a transitive master group.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000182",
+        "PRD-00000948"
+      ]
+    },
+    {
+      "conflict_code": "AMBIGUOUS_PROBABLE_COMPONENT",
+      "entity_type": "product",
+      "explanation": "This strong probable pair shares a record with another strong pair; pairwise evidence does not justify a transitive master group.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000264",
+        "PRD-00000741"
+      ]
+    },
+    {
+      "conflict_code": "AMBIGUOUS_PROBABLE_COMPONENT",
+      "entity_type": "product",
+      "explanation": "This strong probable pair shares a record with another strong pair; pairwise evidence does not justify a transitive master group.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000454",
+        "PRD-00000572"
+      ]
+    },
+    {
+      "conflict_code": "AMBIGUOUS_PROBABLE_COMPONENT",
+      "entity_type": "product",
+      "explanation": "This strong probable pair shares a record with another strong pair; pairwise evidence does not justify a transitive master group.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000572",
+        "PRD-00000777"
+      ]
+    },
+    {
+      "conflict_code": "AMBIGUOUS_PROBABLE_COMPONENT",
+      "entity_type": "product",
+      "explanation": "This strong probable pair shares a record with another strong pair; pairwise evidence does not justify a transitive master group.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000741",
+        "PRD-00000745"
+      ]
+    },
+    {
+      "conflict_code": "EXACT_DETECTION_CONFLICT",
+      "entity_type": "product",
+      "explanation": "The same normalized SKU is associated with conflicting normalized product names.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000971",
+        "PRD-00000972"
+      ]
+    },
+    {
+      "conflict_code": "EXACT_DETECTION_CONFLICT",
+      "entity_type": "product",
+      "explanation": "The same normalized SKU is associated with conflicting normalized product names.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000973",
+        "PRD-00000974"
+      ]
+    },
+    {
+      "conflict_code": "EXACT_DETECTION_CONFLICT",
+      "entity_type": "product",
+      "explanation": "The same normalized SKU is associated with conflicting normalized product names.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000977",
+        "PRD-00000978"
+      ]
+    },
+    {
+      "conflict_code": "EXACT_DETECTION_CONFLICT",
+      "entity_type": "product",
+      "explanation": "The same normalized SKU is associated with conflicting normalized product names.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000979",
+        "PRD-00000980"
+      ]
+    },
+    {
+      "conflict_code": "EXACT_DETECTION_CONFLICT",
+      "entity_type": "product",
+      "explanation": "The same normalized SKU is associated with conflicting normalized product names.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000981",
+        "PRD-00000982"
+      ]
+    },
+    {
+      "conflict_code": "EXACT_DETECTION_CONFLICT",
+      "entity_type": "product",
+      "explanation": "The same normalized SKU is associated with conflicting normalized product names.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000983",
+        "PRD-00000984"
+      ]
+    },
+    {
+      "conflict_code": "EXACT_DETECTION_CONFLICT",
+      "entity_type": "product",
+      "explanation": "The same normalized SKU is associated with conflicting normalized product names.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000985",
+        "PRD-00000986"
+      ]
+    },
+    {
+      "conflict_code": "EXACT_DETECTION_CONFLICT",
+      "entity_type": "product",
+      "explanation": "The same normalized SKU is associated with conflicting normalized product names.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000987",
+        "PRD-00000988"
+      ]
+    },
+    {
+      "conflict_code": "EXACT_DETECTION_CONFLICT",
+      "entity_type": "product",
+      "explanation": "The same normalized SKU is associated with conflicting normalized product names.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000989",
+        "PRD-00000990"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000001",
+        "PRD-00000182"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000004",
+        "PRD-00000005"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000004",
+        "PRD-00000663"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000005",
+        "PRD-00000045"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000006",
+        "PRD-00000546"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000008",
+        "PRD-00000908"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000009",
+        "PRD-00000910"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000012",
+        "PRD-00000494"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000013",
+        "PRD-00000124"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000013",
+        "PRD-00000378"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000013",
+        "PRD-00000464"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000013",
+        "PRD-00000563"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000013",
+        "PRD-00000607"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000013",
+        "PRD-00000682"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000013",
+        "PRD-00000710"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000013",
+        "PRD-00000721"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000013",
+        "PRD-00000790"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000013",
+        "PRD-00000896"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000016",
+        "PRD-00000533"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000022",
+        "PRD-00000202"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000023",
+        "PRD-00000130"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000023",
+        "PRD-00000286"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000025",
+        "PRD-00000156"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000028",
+        "PRD-00000390"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000031",
+        "PRD-00000130"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000035",
+        "PRD-00000364"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000036",
+        "PRD-00000534"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000036",
+        "PRD-00000819"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000037",
+        "PRD-00000793"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000037",
+        "PRD-00000951"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000037",
+        "PRD-00000952"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000038",
+        "PRD-00000286"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000039",
+        "PRD-00000139"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000039",
+        "PRD-00000160"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000039",
+        "PRD-00000369"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000039",
+        "PRD-00000385"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000039",
+        "PRD-00000460"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000039",
+        "PRD-00000694"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000039",
+        "PRD-00000836"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000041",
+        "PRD-00000338"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000044",
+        "PRD-00000304"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000049",
+        "PRD-00000091"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000052",
+        "PRD-00000278"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000052",
+        "PRD-00000317"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000052",
+        "PRD-00000565"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000052",
+        "PRD-00000639"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000052",
+        "PRD-00000789"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000052",
+        "PRD-00000848"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000052",
+        "PRD-00000858"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000053",
+        "PRD-00000598"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000053",
+        "PRD-00000624"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000055",
+        "PRD-00000624"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000056",
+        "PRD-00000234"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000057",
+        "PRD-00000287"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000058",
+        "PRD-00000260"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000059",
+        "PRD-00000520"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000059",
+        "PRD-00000611"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000061",
+        "PRD-00000793"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000064",
+        "PRD-00000074"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000064",
+        "PRD-00000624"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000065",
+        "PRD-00000317"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000065",
+        "PRD-00000447"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000065",
+        "PRD-00000569"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000065",
+        "PRD-00000759"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000065",
+        "PRD-00000826"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000065",
+        "PRD-00000838"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000065",
+        "PRD-00000858"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000067",
+        "PRD-00000450"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000067",
+        "PRD-00000770"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000068",
+        "PRD-00000676"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000069",
+        "PRD-00000546"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000073",
+        "PRD-00000325"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000074",
+        "PRD-00000624"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000074",
+        "PRD-00000689"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000074",
+        "PRD-00000724"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000075",
+        "PRD-00000624"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000076",
+        "PRD-00000746"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000077",
+        "PRD-00000455"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000078",
+        "PRD-00000083"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000078",
+        "PRD-00000257"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000078",
+        "PRD-00000772"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000084",
+        "PRD-00000407"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000089",
+        "PRD-00000101"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000089",
+        "PRD-00000819"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000091",
+        "PRD-00000208"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000091",
+        "PRD-00000315"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000091",
+        "PRD-00000340"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000091",
+        "PRD-00000400"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000091",
+        "PRD-00000414"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000091",
+        "PRD-00000431"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000091",
+        "PRD-00000771"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000093",
+        "PRD-00000913"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000094",
+        "PRD-00000715"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000094",
+        "PRD-00000910"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000095",
+        "PRD-00000695"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000097",
+        "PRD-00000507"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000099",
+        "PRD-00000598"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000099",
+        "PRD-00000624"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000104",
+        "PRD-00000205"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000104",
+        "PRD-00000509"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000105",
+        "PRD-00000156"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000105",
+        "PRD-00000338"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000106",
+        "PRD-00000455"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000107",
+        "PRD-00000676"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000108",
+        "PRD-00000598"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000109",
+        "PRD-00000309"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000110",
+        "PRD-00000481"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000111",
+        "PRD-00000494"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000113",
+        "PRD-00000182"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000114",
+        "PRD-00000715"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000117",
+        "PRD-00000282"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000117",
+        "PRD-00000622"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000117",
+        "PRD-00000858"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000125",
+        "PRD-00000975"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000126",
+        "PRD-00000546"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000127",
+        "PRD-00000819"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000130",
+        "PRD-00000212"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000130",
+        "PRD-00000470"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000130",
+        "PRD-00000503"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000130",
+        "PRD-00000525"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000130",
+        "PRD-00000550"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000130",
+        "PRD-00000596"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000130",
+        "PRD-00000645"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000130",
+        "PRD-00000860"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000134",
+        "PRD-00000312"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000134",
+        "PRD-00000403"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000134",
+        "PRD-00000832"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000135",
+        "PRD-00000975"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000137",
+        "PRD-00000339"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000137",
+        "PRD-00000393"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000139",
+        "PRD-00000369"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000141",
+        "PRD-00000182"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000143",
+        "PRD-00000422"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000143",
+        "PRD-00000617"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000144",
+        "PRD-00000286"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000147",
+        "PRD-00000156"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000148",
+        "PRD-00000429"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000148",
+        "PRD-00000475"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000148",
+        "PRD-00000767"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000149",
+        "PRD-00000819"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000150",
+        "PRD-00000185"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000150",
+        "PRD-00000546"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000150",
+        "PRD-00000689"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000154",
+        "PRD-00000156"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000156",
+        "PRD-00000464"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000156",
+        "PRD-00000563"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000156",
+        "PRD-00000607"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000156",
+        "PRD-00000664"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000156",
+        "PRD-00000896"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000158",
+        "PRD-00000215"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000158",
+        "PRD-00000390"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000158",
+        "PRD-00000538"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000159",
+        "PRD-00000599"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000163",
+        "PRD-00000715"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000164",
+        "PRD-00000559"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000165",
+        "PRD-00000316"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000167",
+        "PRD-00000338"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000169",
+        "PRD-00000696"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000171",
+        "PRD-00000571"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000176",
+        "PRD-00000390"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000181",
+        "PRD-00000390"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000182",
+        "PRD-00000901"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000185",
+        "PRD-00000689"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000190",
+        "PRD-00000949"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000193",
+        "PRD-00000715"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000195",
+        "PRD-00000513"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000201",
+        "PRD-00000598"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000202",
+        "PRD-00000676"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000203",
+        "PRD-00000767"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000208",
+        "PRD-00000225"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000208",
+        "PRD-00000400"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000210",
+        "PRD-00000559"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000213",
+        "PRD-00000650"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000214",
+        "PRD-00000264"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000214",
+        "PRD-00000741"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000215",
+        "PRD-00000390"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000216",
+        "PRD-00000266"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000218",
+        "PRD-00000384"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000224",
+        "PRD-00000611"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000226",
+        "PRD-00000585"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000228",
+        "PRD-00000507"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000230",
+        "PRD-00000780"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000232",
+        "PRD-00000780"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000233",
+        "PRD-00000338"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000233",
+        "PRD-00000780"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000234",
+        "PRD-00000237"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000234",
+        "PRD-00000281"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000234",
+        "PRD-00000389"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000234",
+        "PRD-00000435"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000234",
+        "PRD-00000465"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000234",
+        "PRD-00000521"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000234",
+        "PRD-00000609"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000234",
+        "PRD-00000717"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000234",
+        "PRD-00000900"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000234",
+        "PRD-00000937"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000235",
+        "PRD-00000546"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000237",
+        "PRD-00000287"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000237",
+        "PRD-00000437"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000245",
+        "PRD-00000299"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000247",
+        "PRD-00000375"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000247",
+        "PRD-00000734"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000248",
+        "PRD-00000507"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000250",
+        "PRD-00000975"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000251",
+        "PRD-00000884"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000253",
+        "PRD-00000257"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000254",
+        "PRD-00000286"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000254",
+        "PRD-00000715"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000256",
+        "PRD-00000507"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000260",
+        "PRD-00000473"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000261",
+        "PRD-00000676"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000265",
+        "PRD-00000780"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000268",
+        "PRD-00000520"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000269",
+        "PRD-00000546"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000272",
+        "PRD-00000741"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000273",
+        "PRD-00000478"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000273",
+        "PRD-00000772"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000274",
+        "PRD-00000897"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000275",
+        "PRD-00000377"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000277",
+        "PRD-00000481"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000278",
+        "PRD-00000789"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000278",
+        "PRD-00000858"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000279",
+        "PRD-00000286"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000281",
+        "PRD-00000613"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000281",
+        "PRD-00000767"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000282",
+        "PRD-00000858"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000286",
+        "PRD-00000347"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000286",
+        "PRD-00000536"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000286",
+        "PRD-00000626"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000286",
+        "PRD-00000787"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000286",
+        "PRD-00000907"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000288",
+        "PRD-00000767"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000292",
+        "PRD-00000897"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000294",
+        "PRD-00000494"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000299",
+        "PRD-00000822"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000303",
+        "PRD-00000923"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000308",
+        "PRD-00000572"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000311",
+        "PRD-00000871"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000312",
+        "PRD-00000541"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000312",
+        "PRD-00000581"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000312",
+        "PRD-00000743"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000312",
+        "PRD-00000802"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000312",
+        "PRD-00000835"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000312",
+        "PRD-00000981"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000315",
+        "PRD-00000431"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000320",
+        "PRD-00000507"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000328",
+        "PRD-00000362"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000335",
+        "PRD-00000520"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000338",
+        "PRD-00000456"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000338",
+        "PRD-00000477"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000338",
+        "PRD-00000664"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000338",
+        "PRD-00000688"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000339",
+        "PRD-00000393"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000341",
+        "PRD-00000834"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000350",
+        "PRD-00000624"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000351",
+        "PRD-00000607"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000351",
+        "PRD-00000721"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000351",
+        "PRD-00000896"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000354",
+        "PRD-00000858"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000358",
+        "PRD-00000910"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000364",
+        "PRD-00000635"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000364",
+        "PRD-00000736"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000364",
+        "PRD-00000756"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000364",
+        "PRD-00000833"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000367",
+        "PRD-00000536"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000371",
+        "PRD-00000389"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000371",
+        "PRD-00000521"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000371",
+        "PRD-00000717"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000371",
+        "PRD-00000781"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000377",
+        "PRD-00000920"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000389",
+        "PRD-00000609"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000389",
+        "PRD-00000781"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000390",
+        "PRD-00000538"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000390",
+        "PRD-00000554"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000391",
+        "PRD-00000936"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000398",
+        "PRD-00000559"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000403",
+        "PRD-00000541"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000403",
+        "PRD-00000581"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000403",
+        "PRD-00000743"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000403",
+        "PRD-00000832"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000403",
+        "PRD-00000835"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000403",
+        "PRD-00000981"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000413",
+        "PRD-00000858"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000416",
+        "PRD-00000474"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000416",
+        "PRD-00000600"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000416",
+        "PRD-00000911"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000419",
+        "PRD-00000481"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000419",
+        "PRD-00000491"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000419",
+        "PRD-00000919"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000419",
+        "PRD-00000936"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000422",
+        "PRD-00000936"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000426",
+        "PRD-00000754"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000429",
+        "PRD-00000475"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000429",
+        "PRD-00000500"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000429",
+        "PRD-00000577"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000429",
+        "PRD-00000767"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000432",
+        "PRD-00000767"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000437",
+        "PRD-00000438"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000442",
+        "PRD-00000641"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000445",
+        "PRD-00000481"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000450",
+        "PRD-00000770"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000455",
+        "PRD-00000595"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000455",
+        "PRD-00000810"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000457",
+        "PRD-00000573"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000458",
+        "PRD-00000793"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000463",
+        "PRD-00000793"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000467",
+        "PRD-00000923"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000468",
+        "PRD-00000699"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000468",
+        "PRD-00000902"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000468",
+        "PRD-00000926"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000471",
+        "PRD-00000949"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000475",
+        "PRD-00000767"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000478",
+        "PRD-00000949"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000480",
+        "PRD-00000949"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000481",
+        "PRD-00000491"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000481",
+        "PRD-00000589"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000481",
+        "PRD-00000919"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000489",
+        "PRD-00000520"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000491",
+        "PRD-00000919"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000494",
+        "PRD-00000528"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000494",
+        "PRD-00000672"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000494",
+        "PRD-00000817"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000502",
+        "PRD-00000611"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000502",
+        "PRD-00000845"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000507",
+        "PRD-00000547"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000509",
+        "PRD-00000832"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000511",
+        "PRD-00000650"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000512",
+        "PRD-00000975"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000518",
+        "PRD-00000871"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000520",
+        "PRD-00000606"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000520",
+        "PRD-00000611"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000521",
+        "PRD-00000717"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000521",
+        "PRD-00000781"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000523",
+        "PRD-00000858"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000525",
+        "PRD-00000575"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000530",
+        "PRD-00000536"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000533",
+        "PRD-00000927"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000534",
+        "PRD-00000819"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000545",
+        "PRD-00000884"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000546",
+        "PRD-00000805"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000546",
+        "PRD-00000924"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000547",
+        "PRD-00000676"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000548",
+        "PRD-00000754"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000550",
+        "PRD-00000728"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000552",
+        "PRD-00000793"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000559",
+        "PRD-00000804"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000565",
+        "PRD-00000858"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000572",
+        "PRD-00000885"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000575",
+        "PRD-00000910"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000576",
+        "PRD-00000702"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000576",
+        "PRD-00000871"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000585",
+        "PRD-00000739"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000585",
+        "PRD-00000856"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000586",
+        "PRD-00000596"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000586",
+        "PRD-00000728"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000598",
+        "PRD-00000831"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000604",
+        "PRD-00000845"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000605",
+        "PRD-00000702"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000611",
+        "PRD-00000845"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000613",
+        "PRD-00000767"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000614",
+        "PRD-00000681"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000614",
+        "PRD-00000949"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000615",
+        "PRD-00000819"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000616",
+        "PRD-00000676"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000622",
+        "PRD-00000858"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000624",
+        "PRD-00000724"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000624",
+        "PRD-00000851"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000624",
+        "PRD-00000861"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000631",
+        "PRD-00000638"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000642",
+        "PRD-00000832"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000643",
+        "PRD-00000823"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000649",
+        "PRD-00000694"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000650",
+        "PRD-00000820"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000650",
+        "PRD-00000907"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000652",
+        "PRD-00000793"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000655",
+        "PRD-00000767"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000657",
+        "PRD-00000819"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000669",
+        "PRD-00000769"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000670",
+        "PRD-00000676"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000671",
+        "PRD-00000832"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000673",
+        "PRD-00000676"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000675",
+        "PRD-00000767"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000676",
+        "PRD-00000906"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000683",
+        "PRD-00000897"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000689",
+        "PRD-00000713"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000702",
+        "PRD-00000752"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000702",
+        "PRD-00000871"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000703",
+        "PRD-00000763"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000709",
+        "PRD-00000949"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000711",
+        "PRD-00000741"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000715",
+        "PRD-00000787"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000715",
+        "PRD-00000820"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000716",
+        "PRD-00000871"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000717",
+        "PRD-00000781"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000727",
+        "PRD-00000936"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000737",
+        "PRD-00000754"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000741",
+        "PRD-00000758"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000741",
+        "PRD-00000904"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000741",
+        "PRD-00000931"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000746",
+        "PRD-00000949"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000748",
+        "PRD-00000884"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000754",
+        "PRD-00000800"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000754",
+        "PRD-00000815"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000756",
+        "PRD-00000769"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000763",
+        "PRD-00000780"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000765",
+        "PRD-00000793"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000768",
+        "PRD-00000910"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000780",
+        "PRD-00000878"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000780",
+        "PRD-00000895"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000780",
+        "PRD-00000939"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000789",
+        "PRD-00000858"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000793",
+        "PRD-00000869"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000803",
+        "PRD-00000910"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000808",
+        "PRD-00000890"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000819",
+        "PRD-00000983"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000823",
+        "PRD-00000825"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000838",
+        "PRD-00000858"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000841",
+        "PRD-00000936"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000845",
+        "PRD-00000947"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000848",
+        "PRD-00000858"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000854",
+        "PRD-00000936"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000858",
+        "PRD-00000944"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000860",
+        "PRD-00000910"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000902",
+        "PRD-00000926"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000914",
+        "PRD-00000945"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000921",
+        "PRD-00000936"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The pair shares product evidence, but conflicting identifiers or insufficient confidence require manual review.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000951",
+        "PRD-00000952"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The same SKU appears on a pair not resolved by exact matching; inspect brand and product-name differences.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000971",
+        "PRD-00000972"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The same SKU appears on a pair not resolved by exact matching; inspect brand and product-name differences.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000973",
+        "PRD-00000974"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The same SKU appears on a pair not resolved by exact matching; inspect brand and product-name differences.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000977",
+        "PRD-00000978"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The same SKU appears on a pair not resolved by exact matching; inspect brand and product-name differences.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000979",
+        "PRD-00000980"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The same SKU appears on a pair not resolved by exact matching; inspect brand and product-name differences.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000981",
+        "PRD-00000982"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The same SKU appears on a pair not resolved by exact matching; inspect brand and product-name differences.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000983",
+        "PRD-00000984"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The same SKU appears on a pair not resolved by exact matching; inspect brand and product-name differences.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000985",
+        "PRD-00000986"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The same SKU appears on a pair not resolved by exact matching; inspect brand and product-name differences.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000987",
+        "PRD-00000988"
+      ]
+    },
+    {
+      "conflict_code": "REVIEW_REQUIRED_PAIR",
+      "entity_type": "product",
+      "explanation": "The same SKU appears on a pair not resolved by exact matching; inspect brand and product-name differences.",
+      "recommended_action": "REVIEW",
+      "source_record_ids": [
+        "PRD-00000989",
+        "PRD-00000990"
+      ]
+    }
+  ]
+}

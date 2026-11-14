@@ -1,0 +1,298 @@
+{
+  "bottlenecks": [
+    {
+      "evidence": "Product 10K matcher took 50.743 seconds for 1,240,398 candidates and peak sampled RSS was 1,251 MiB. Both 100K cases crossed the memory threshold just after probable matching began.",
+      "impact": "Dense blocking candidates are materialized and scored in memory; 100K end-to-end runs did not complete within the measured resource budget.",
+      "stage": "detect_probable_duplicates"
+    },
+    {
+      "evidence": "Customer 10K wrote 195,907 decision rows in 16.599s; all SQLite write stages totaled 21.675s of 28.281s. Product 10K had 1,240,581 decisions to persist when stopped.",
+      "impact": "Decision conversion, JSON serialization and upserts are a substantial secondary cost.",
+      "stage": "persist_duplicate_decisions"
+    },
+    {
+      "evidence": "Product 10K persisted 29,303 review entries in 11.474 seconds.",
+      "impact": "Large candidate review volumes add additional write work.",
+      "stage": "persist_review_items"
+    }
+  ],
+  "correctness_summary": {
+    "completed_run": "bench-customer-10000",
+    "database_integrity": "ok",
+    "database_report_reconciliation": "All pipeline counts reconciled for the completed customer 10K run.",
+    "foreign_key_violations": 0,
+    "full_pipeline_runs_completed": 1,
+    "partial_runs": "Product 10K and both 100K runs were stopped at the memory guard; no end-to-end correctness claim is made for those partial runs.",
+    "source_master_coverage": "Each of the 9,900 accepted source IDs appears exactly once among the 9,701 masters; the 100 rejected records remain source rows and quarantine entries. Master IDs are unique."
+  },
+  "environment": {
+    "logical_cpu_count": 4,
+    "os": "Windows-10-10.0.26200-SP0",
+    "physical_memory_bytes": null,
+    "processor": "Intel64 Family 6 Model 142 Stepping 12, GenuineIntel",
+    "python": "3.10.11"
+  },
+  "generated_at_utc": "2026-11-14T12:29:11+00:00",
+  "limitations": [
+    "The 100K pipeline attempts are partial resource-limited executions, not full pipeline timings.",
+    "RSS is sampled and can miss short peaks or exceed stop threshold between samples.",
+    "No candidate count or blocking reduction is available for 100K because matching did not return.",
+    "Results reflect the fixed-seed synthetic distribution and this Windows environment."
+  ],
+  "methodology": {
+    "candidate_pairs": "Theoretical 10K denominator is 9,900 accepted records choose 2. Candidate counts are matcher-evaluated probable pairs.",
+    "execution": "Customer and product pipeline runs were isolated by entity and input size. Every SQLite database, report and log used an OS temporary directory. The project database was not used.",
+    "generator": "scripts/generate_data.py: generate_datasets",
+    "memory_sampling": "psutil sampled process-tree RSS every 100 ms. The harness stopped a case after sampled RSS crossed 1,250 MiB or 180 seconds. Sampling can overshoot the threshold.",
+    "seed": 42,
+    "sizes_per_entity": [
+      10000,
+      100000
+    ],
+    "timing": "Completed case stage durations come from its pipeline report; incomplete case stage durations come from structured INFO logs. Wall time includes CLI startup and harness overhead."
+  },
+  "optimization": {
+    "applied": false,
+    "reason": "No matching or persistence algorithm was changed from one synthetic, single-machine profile. The blocking/memory bottleneck needs a separately validated streaming design to preserve exact matching decisions. The only code change exposes the existing candidate and blocking metrics in pipeline output."
+  },
+  "reproducibility": {
+    "100k_regeneration_seconds": 6.847,
+    "all_100k_source_and_label_files_reproduced_identically": true,
+    "data_note": "The generator deliberately injects duplicate and invalid scenarios; the distributions do not estimate production prevalence.",
+    "files": {
+      "data/ground_truth/customer_labels.csv": {
+        "bytes": 4978049,
+        "same_on_regeneration": true,
+        "sha256": "951f333f4a40b3b400f0ce736768315ae326f41508dfa5046e543280022a1dd3"
+      },
+      "data/ground_truth/product_labels.csv": {
+        "bytes": 4878049,
+        "same_on_regeneration": true,
+        "sha256": "c5ad983ac6dbb7e3d41f7cc10a756ec7aa7e0b9357fc779280c03fd76f1e796d"
+      },
+      "data/input/customers.csv": {
+        "bytes": 14416431,
+        "same_on_regeneration": true,
+        "sha256": "185871f6c0c0a2dbae5ae3511d7728bbc65ebba0806c376589c73dc99ccd4646"
+      },
+      "data/input/products.csv": {
+        "bytes": 11510421,
+        "same_on_regeneration": true,
+        "sha256": "81886e2c39f252148731007ab6933a89458f1ace9750d0f5a78d6dc4c0f689e6"
+      }
+    },
+    "seed": 42
+  },
+  "results": [
+    {
+      "correctness": {
+        "accepted_source_rows": 9900,
+        "actual_counts": {
+          "duplicate_pair_rows": 195907,
+          "field_lineage_rows": 58206,
+          "master_record_rows": 9701,
+          "pipeline_error_rows": 0,
+          "pipeline_run_rows": 1,
+          "quarantine_history_rows": 100,
+          "quarantine_record_rows": 100,
+          "review_history_rows": 1,
+          "review_item_rows": 1,
+          "source_record_rows": 10000
+        },
+        "database_and_report_counts_reconciled": true,
+        "foreign_key_violations": 0,
+        "master_ids_unique": true,
+        "rejected_source_rows": 100,
+        "source_ids_across_masters": 9900,
+        "sqlite_integrity_check": "ok",
+        "unique_source_ids_across_masters": 9900
+      },
+      "entity": "customer",
+      "exact_duplicate_groups": 99,
+      "exact_duplicate_pairs": 99,
+      "masters": 9701,
+      "operational_errors": 0,
+      "peak_sampled_rss_bytes": 445808640,
+      "peak_sampled_rss_mib": 425.16,
+      "pipeline_execution_seconds": 28.281335,
+      "probable_matching": {
+        "blocking_reduction_percent": 99.6,
+        "candidate_pairs_evaluated": 195808,
+        "candidate_pairs_per_second": 46849.0,
+        "no_match": 195707,
+        "review_required": 1,
+        "strong_matches": 100,
+        "theoretical_pairs": 49000050
+      },
+      "quarantined_records": 100,
+      "records_accepted": 9900,
+      "records_ingested": 10000,
+      "records_per_second": 353.590097,
+      "records_rejected": 100,
+      "review_items": 1,
+      "run_id": "bench-customer-10000",
+      "sqlite_persistence_seconds": 21.674694,
+      "stage_durations_seconds": {
+        "create_master_records": 1.318599,
+        "create_pipeline_run": 0.008936,
+        "create_quarantine_entries": 0.001783,
+        "detect_exact_duplicates": 0.406439,
+        "detect_probable_duplicates": 4.179556,
+        "fingerprint_inputs": 0.013843,
+        "generate_report": 0.010964,
+        "generate_review_items": 0.247356,
+        "ingest": 0.053393,
+        "initialize_database": 0.063772,
+        "normalize": 0.112474,
+        "persist_duplicate_decisions": 16.598707,
+        "persist_master_records_and_lineage": 4.365766,
+        "persist_pipeline_errors": 0.004773,
+        "persist_quarantine_entries": 0.029512,
+        "persist_review_items": 0.012139,
+        "persist_source_records": 0.663797,
+        "update_run_status_and_summary": 0.006261,
+        "validate": 0.100067
+      },
+      "status": "COMPLETED",
+      "target_records": 10000,
+      "wall_seconds_observed": 28.767182
+    },
+    {
+      "completed_sqlite_persistence_seconds": 14.13126,
+      "completed_stage_durations_seconds": {
+        "create_master_records": 2.929099,
+        "create_pipeline_run": 0.007103,
+        "create_quarantine_entries": 0.003551,
+        "detect_exact_duplicates": 0.313475,
+        "detect_probable_duplicates": 50.743295,
+        "fingerprint_inputs": 0.014022,
+        "generate_review_items": 3.298573,
+        "ingest": 0.049981,
+        "initialize_database": 0.058788,
+        "normalize": 0.07758,
+        "persist_quarantine_entries": 0.061814,
+        "persist_review_items": 11.474214,
+        "persist_source_records": 2.595232,
+        "validate": 0.079048
+      },
+      "correctness": {
+        "status": "Partial execution; no completed pipeline report or complete persistence reconciliation. The run stopped after its duplicate-decision persistence stage began."
+      },
+      "duplicate_decisions_pending_at_stop": 1240581,
+      "entity": "product",
+      "exact_duplicate_groups": 91,
+      "exact_duplicate_pairs": 91,
+      "interrupted_stage": "persist_duplicate_decisions",
+      "masters_created_in_memory": 9640,
+      "peak_sampled_rss_bytes": 1312022528,
+      "peak_sampled_rss_mib": 1251.24,
+      "probable_matching": {
+        "blocking_reduction_percent": 97.468578,
+        "candidate_pairs_evaluated": 1240398,
+        "candidate_pairs_per_second": 24444.57,
+        "no_match": 1210926,
+        "review_required": 28555,
+        "stage_seconds": 50.743295,
+        "strong_matches": 917,
+        "theoretical_pairs": 49000050
+      },
+      "quarantines_generated_and_persisted": 100,
+      "records_accepted": 9900,
+      "records_ingested": 10000,
+      "records_per_second_at_probable_stage": 195.1,
+      "records_rejected": 100,
+      "review_items_generated_and_persisted": 29303,
+      "run_id": "bench-product-10000",
+      "status": "RESOURCE_LIMIT",
+      "stop_threshold_mib": 1250,
+      "target_records": 10000,
+      "wall_seconds_until_stop": 75.591
+    },
+    {
+      "completed_stage_durations_seconds": {
+        "create_pipeline_run": 0.014401,
+        "create_quarantine_entries": 0.026216,
+        "detect_exact_duplicates": 5.358538,
+        "fingerprint_inputs": 0.091688,
+        "ingest": 1.037419,
+        "initialize_database": 0.07384,
+        "normalize": 1.171354,
+        "validate": 1.823744
+      },
+      "correctness": {
+        "status": "Ingestion, validation, quarantine-entry creation, normalization and exact detection completed. Probable matching did not complete; no full report or result persistence was reached."
+      },
+      "entity": "customer",
+      "exact_duplicate_groups": 999,
+      "exact_duplicate_pairs": 999,
+      "interrupted_stage": "detect_probable_duplicates",
+      "peak_sampled_rss_bytes": 1327722496,
+      "peak_sampled_rss_mib": 1266.21,
+      "probable_matching": {
+        "blocking_reduction_percent": null,
+        "candidate_pairs_evaluated": null
+      },
+      "records_accepted": 99000,
+      "records_ingested": 100000,
+      "records_rejected": 1000,
+      "run_id": "bench-customer-100000",
+      "sqlite_persistence_seconds": null,
+      "stage_records_per_second": {
+        "exact_matching": 18475.19,
+        "ingest": 96393.07,
+        "normalize": 84517.58,
+        "validate": 54832.26
+      },
+      "status": "RESOURCE_LIMIT",
+      "stop_threshold_mib": 1250,
+      "target_records": 100000,
+      "wall_seconds_until_stop": 16.68
+    },
+    {
+      "completed_stage_durations_seconds": {
+        "create_pipeline_run": 0.022258,
+        "create_quarantine_entries": 0.026391,
+        "detect_exact_duplicates": 3.950253,
+        "fingerprint_inputs": 0.09221,
+        "ingest": 1.565418,
+        "initialize_database": 0.079528,
+        "normalize": 1.038824,
+        "validate": 1.04954
+      },
+      "correctness": {
+        "status": "Ingestion, validation, quarantine-entry creation, normalization and exact detection completed. Probable matching did not complete; no full report or result persistence was reached."
+      },
+      "entity": "product",
+      "exact_duplicate_groups": 922,
+      "exact_duplicate_pairs": 922,
+      "interrupted_stage": "detect_probable_duplicates",
+      "peak_sampled_rss_bytes": 1595944960,
+      "peak_sampled_rss_mib": 1522.01,
+      "probable_matching": {
+        "blocking_reduction_percent": null,
+        "candidate_pairs_evaluated": null
+      },
+      "records_accepted": 99000,
+      "records_ingested": 100000,
+      "records_rejected": 1000,
+      "run_id": "bench-product-100000",
+      "sqlite_persistence_seconds": null,
+      "stage_records_per_second": {
+        "exact_matching": 25061.69,
+        "ingest": 63880.7,
+        "normalize": 95300.07,
+        "validate": 95279.84
+      },
+      "status": "RESOURCE_LIMIT",
+      "stop_threshold_mib": 1250,
+      "target_records": 100000,
+      "wall_seconds_until_stop": 18.95
+    }
+  ],
+  "tests": {
+    "command": ".\\.venv\\Scripts\\python.exe -m pytest -q",
+    "duration_seconds": 12.5,
+    "result": "215 passed, 1 warning"
+  },
+  "title": "MergeMind AI Phase 17 Performance Benchmark"
+}
